@@ -1,0 +1,72 @@
+{
+	"confuse":{
+
+	},
+	"modules" : {
+		"game" : {
+			"btnBall":{
+				"relpath" : "src/g69VNj/res/csbzuqiu/image/start/icon.png"
+			},
+			"btnStart":{
+				"relpath" : "src/g69VNj/res/csbzuqiu/image/start/btnStart.png"
+			},
+			"gameBg":{
+				"relpath" : "src/g69VNj/res/csbzuqiu/image/play/bg.png"
+			},
+			"hallBg":{
+				"relpath" : "src/g69VNj/res/csbzuqiu/image/start/bg.png"
+			},
+			"startLayout":{
+				"relpath" : "src/g69VNj/res/csbzuqiu/Start.csb"
+			},
+			"iconBtnGroup":{
+				"backBtn" : {
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/play/fanhui.png"
+				},
+				"helpBtn":{
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/play/help.png"
+				},
+				"setBtn" : {
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/play/yinyue.png"
+				}
+			},
+			"labelBtnGroup":{
+				"goBtn" : {
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/help/gotit.png"
+				},
+				"helpBtn":{
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/start/help.png"
+				},
+				"optionBtn" : {
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/start/Options.png"
+				},
+				"nextBtn" : {
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/help/next.png"
+				},
+				"preBtn":{
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/help/previous.png"
+				}
+			},
+			"pokerback":{
+				"relpath" : "src/g69VNj/res/csbzuqiu/image/poker/bei.png"
+			},
+			"windowBg":{
+				"set" : {
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/set/bg.png"
+				},
+				"help":{
+					"relpath" : "src/g69VNj/res/csbzuqiu/image/help/bg.png"
+				}
+			}
+		},
+		"common_res": {
+			"sound":{
+				"relpath" : "src/g69VNj/res/csbzuqiu/zqmp3/music.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/g69VNj/res/csbzuqiu/image/start/bg.png",
+		"isL":true
+	}
+}

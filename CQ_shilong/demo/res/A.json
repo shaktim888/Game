@@ -1,0 +1,23 @@
+{
+	"game_layer":{
+		"gamebg" : {
+			"relpath" : "res/game_layer/game/shilong/image/bg.png",
+			"order" : 1
+		},
+		"Platform":{
+			"relpath" : "res/game_layer/game/shilong/image/zhantai.png"
+		},
+		"long1":{
+			"select":["monster"],
+			"relpath" : "res/game_layer/game/shilong/boss/long1.png"
+		},
+		"long2":{
+			"select":["monster"],
+			"relpath" : "res/game_layer/game/shilong/boss/long2.png"
+		},
+		"long3":{
+			"select":["monster"],
+			"relpath" : "res/game_layer/game/shilong/boss/long3.png"
+		}
+	}
+}

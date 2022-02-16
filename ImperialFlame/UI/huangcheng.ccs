@@ -1,0 +1,28 @@
+<Solution>
+  <PropertyGroup Name="huangcheng" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="huangcheng">
+            <Folder Name="button">
+              <Image Name="back_1.png" />
+              <TTF Name="nvpk.ttf" />
+              <Image Name="start_1.png" />
+              <Image Name="zhuye_1.png" />
+            </Folder>
+            <Folder Name="image">
+              <Image Name="bg.png" />
+              <Image Name="gameover.png" />
+              <Image Name="kuloutou.png" />
+              <Image Name="xue.png" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="JiesuanLayer.csd" Type="Layer" />
+            <Project Name="MainScene.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

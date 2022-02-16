@@ -1,0 +1,97 @@
+{
+  "resState": [
+    {
+      "md5": "65f34b15a8afc3248c8f92a3c29490bf",
+      "fileName": "bg_game .png",
+      "lastTime": 1586742076699,
+      "useTimes": 2
+    },
+    {
+      "md5": "d59e27057e143f64fad584720fd81483",
+      "fileName": "bg_game  3.png",
+      "lastTime": 1586429225767,
+      "useTimes": 1
+    },
+    {
+      "md5": "4972a4a19b2fff600ec1d71861a1cca7",
+      "fileName": "bg_game  2.png",
+      "lastTime": 1586328403420,
+      "useTimes": 0
+    },
+    {
+      "md5": "03c150e635da95544793bcd38f818247",
+      "fileName": "bg_game.png",
+      "lastTime": 1586571915143,
+      "useTimes": 2
+    },
+    {
+      "md5": "b0d45f02d1173f8a264acc999580b1e7",
+      "fileName": "bg_game  4.png",
+      "lastTime": 1586517598914,
+      "useTimes": 2
+    },
+    {
+      "md5": "e6b14c88cf11094302e3fb942e30be6e",
+      "fileName": "bg_game10.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "73286d4246181d0870401afa46f4e836",
+      "fileName": "bg_game11.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "496a3c6f224132a580011304a6d09128",
+      "fileName": "bg_game12.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "0ef156d51e9cb8499dd4d429e942123b",
+      "fileName": "bg_game13.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "719890b57d1d21a3ba40fe04eacc4460",
+      "fileName": "bg_game14.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "4693b3e3ddaf2cde31011a5b1e1949a6",
+      "fileName": "bg_game15.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "438b10ec7d0b633673be5db43d46699a",
+      "fileName": "bg_game6.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "746e7b0a145e0600f487848c16d41793",
+      "fileName": "bg_game7.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "63f0233c72f2006f3a0f5a60f7ef788c",
+      "fileName": "bg_game8.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "6b5b19ae048de2bf6d60564a4e2c3583",
+      "fileName": "bg_game9.png",
+      "lastTime": 0,
+      "useTimes": 0
+    }
+  ],
+  "canUseCount": 0,
+  "archiveTimes": 1,
+  "componentResNamePath": "Arts/style_SanGuo/change/bg"
+}

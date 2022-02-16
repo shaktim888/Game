@@ -1,0 +1,49 @@
+{
+	"common" : {
+		"btn_icon":{
+			"btn_sound_off" : {
+				"relpath" : "res/dynamic/common/btn_icon/btn_music_off.png"
+			},
+			"btn_sound_on" : {
+				"relpath" : "res/dynamic/common/btn_icon/btn_music_on.png"
+			},
+			"btn_return" : {
+				"relpath" : "res/dynamic/common/btn_icon/btn_return.png"
+			},
+			"btn_notice" : {
+				"relpath" : "res/dynamic/common/btn_icon/btn_rule.png"
+			}
+		},
+		"popbg":{
+			"bg" : {
+				"relpath" : "res/dynamic/common/pop_bg/bg.png"
+			},
+			"over_text" : {
+				"relpath" : "res/dynamic/common/pop_bg/over_text.png"
+			},
+			"notice_text" : {
+				"relpath" : "res/dynamic/common/pop_bg/notice_text.png"
+			}
+		},
+		"tip_bg":{
+			"relpath" : "res/dynamic/common/img_popui.png"
+		},
+		"sound":{
+			"relpath" : "res/dynamic/common/sound/button.mp3"
+		},
+		"music":{
+			"relpath" : "res/dynamic/common/sound/game.mp3"
+		},
+		"font":{
+			"relpath" : "res/dynamic/common/font/font.ttf"
+		},
+		"btn_common":{
+			"relpath" : "res/dynamic/common/btn_common.png"
+		}
+		
+	}
+	
+}
+
+
+

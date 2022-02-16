@@ -1,0 +1,62 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"gpGktM",
+		"exportentry":"random",
+		"confusepath":"src/gpGktM/"
+	},
+	"modules" : {
+		"game" : {
+			"basketball" : {
+		        "relpath" : "src/gpGktM/res/game/Pitcher/image/basketball.png"
+			},
+			"bg" : {
+		        "relpath" : "src/gpGktM/res/game/Pitcher/image/bg.png"
+			},
+			"tanchuang" : {
+		        "relpath" : "src/gpGktM/res/game/Pitcher/image/comon_bg.png"
+			},
+			"btn":{
+				"began" : {
+					"relpath" : "src/gpGktM/res/game/Pitcher/image/began.png"
+				},
+				"exit" : {
+					"relpath" : "src/gpGktM/res/game/Pitcher/image/exit.png"
+				},
+				"replay" : {
+					"relpath" : "src/gpGktM/res/game/Pitcher/image/replay.png"
+				},
+				"rule":{
+					"relpath" : "src/gpGktM/res/game/Pitcher/image/rule.png"
+				}
+			},
+			"gameover":{
+				"relpath" : "src/gpGktM/res/game/Pitcher/image/GAMEOVER.png"
+			},
+		    "jiantou":{
+				"jiantou1" : {
+					"relpath" : "src/gpGktM/res/game/Pitcher/image/jt.png"
+				},
+				"jiantou2" : {
+					"relpath" : "src/gpGktM/res/game/Pitcher/image/jt2.png"
+				}
+			},
+			"role":{
+				"relpath" : "src/gpGktM/res/game/Pitcher/image/role.png"
+			}
+		}
+	},
+	"other" : {
+			"produceicon_hallbg": "src/gpGktM/res/game/Pitcher/image/bg.png",
+			"isL": true,
+			"dir_structure":{
+	            "bg":"大厅背景",
+				"role":{
+					"role_hall":"大厅人物",
+			    	"role_icon":"icon人物",
+			    	"role_proto":"宣传图人物"
+				}
+	        }
+		}
+}

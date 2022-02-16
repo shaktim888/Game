@@ -1,0 +1,75 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"haoyue",
+		"exportentry":"random",
+		"confusepath":"src/haoyue/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+		        "relpath" : "src/haoyue/res/game/HeroLine/image/bg.png",
+				"order": 1
+			},
+		    "role" : {
+				"relpath" : "src/haoyue/res/game/HeroLine/image/role.png",
+				"order" : 1
+			}
+		},
+		"hall" : {
+		    "popbg" : {
+		        "relpath" : "src/haoyue/res/game/HeroLine/image/popbg.png"
+			},
+			"btnCommon" : {
+				"relpath" : "src/haoyue/res/game/HeroLine/image/button.png"
+			},
+			"btnHome" : {
+				"relpath" : "src/haoyue/res/game/HeroLine/image/returnBtn.png"
+			}
+		},
+		"game":{
+			"progressbar":{
+			    "relpath" : "src/haoyue/res/game/HeroLine/image/progressbar.png"
+			},
+			"timebar":{
+			    "relpath" : "src/haoyue/res/game/HeroLine/image/timebar.png"
+			},
+			"people":{
+		    	"00":{
+			        "relpath" : "src/haoyue/res/game/HeroLine/image/people/00.png"
+		    	},
+		    	"01":{
+			        "relpath" : "src/haoyue/res/game/HeroLine/image/people/01.png"
+		    	},
+		    	"02":{
+			        "relpath" : "src/haoyue/res/game/HeroLine/image/people/02.png"
+		    	},
+		    	"03":{
+			        "relpath" : "src/haoyue/res/game/HeroLine/image/people/03.png"
+		    	},
+		    	"04":{
+			        "relpath" : "src/haoyue/res/game/HeroLine/image/people/04.png"
+		    	}
+			}
+		},
+		"common_res": {
+			"font":{
+				"relpath" : "src/haoyue/res/game/HeroLine/nvpk.ttf"
+			},
+			"sound":{
+				"relpath" : "src/haoyue/res/game/HeroLine/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/haoyue/res/game/HeroLine/image/bg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"isL":true,
+		"proto_role":"src/haoyue/res/game/HeroLine/image/role.png",
+		"dir_structure":{
+			"bg":"游戏背景",
+			"role":"人物"
+		}
+	}
+}

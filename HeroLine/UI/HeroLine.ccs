@@ -1,0 +1,40 @@
+<Solution>
+  <PropertyGroup Name="HeroLine" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="HeroLine">
+            <Folder Name="image">
+              <Folder Name="people">
+                <Image Name="00.png" />
+                <Image Name="01.png" />
+                <Image Name="02.png" />
+                <Image Name="03.png" />
+                <Image Name="04.png" />
+              </Folder>
+              <Image Name="bg.png" />
+              <Image Name="button.png" />
+              <Image Name="line.png" />
+              <TTF Name="nvpk.ttf" />
+              <Image Name="popbg.png" />
+              <Image Name="progressbar.png" />
+              <Image Name="returnBtn.png" />
+              <Image Name="role.png" />
+              <Image Name="timebar.png" />
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="bgm.mp3" />
+              <Audio Name="Button.mp3" />
+              <Audio Name="win.mp3" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="LoginScene.csd" Type="Scene" />
+            <Project Name="RuleLayer.csd" Type="Layer" />
+            <Project Name="WinLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

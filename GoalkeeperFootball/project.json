@@ -1,0 +1,52 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"A4LhCT",
+		"exportentry":"random",
+		"confusepath":"src/A4LhCT/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+		        "relpath":"src/A4LhCT/res/game/Basketball/image/bg.png"
+			},
+		    "role" : {
+				"relpath":"src/A4LhCT/res/game/Basketball/image/logo.png"
+			}
+		},
+		"game":{
+			"goalkeeper":{
+		    	"ball":{
+			        "relpath" : "src/A4LhCT/res/game/Basketball/image/people/people.png"
+		    	},
+		    	"not_ball":{
+			        "relpath" : "src/A4LhCT/res/game/Basketball/image/props/people1.png"
+		    	}
+			},
+			"btnBack" : {
+				"relpath":"src/A4LhCT/res/game/Basketball/image/clone.png"
+			},
+			"btn":{
+				"relpath":"src/A4LhCT/res/game/Basketball/image/button.png"
+			},
+			"ball":{
+				"relpath":"src/A4LhCT/res/game/Basketball/image/ball.png"
+			}
+
+		},
+		"common_res": {
+			"font":{
+				"relpath" : "src/A4LhCT/res/game/Basketball/nvpk.ttf"
+			},
+			"sound":{
+				"relpath" : "src/A4LhCT/res/game/Basketball/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/A4LhCT/res/game/Basketball/image/bg.png",
+		"produceicon_hallbgRole":"src/A4LhCT/res/game/Basketball/image/logo.png",
+		"isL":true
+	}
+}

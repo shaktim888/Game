@@ -1,0 +1,59 @@
+<Solution>
+  <PropertyGroup Name="niuniutiaozhan" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="niuniutiaozhan">
+            <Folder Name="images">
+              <Folder Name="border">
+                <Image Name="click_border.png" />
+                <Image Name="gameborder.png" />
+                <Image Name="gameover.png" />
+                <Image Name="unclick_border.png" />
+              </Folder>
+              <Folder Name="btns">
+                <Image Name="back.png" />
+                <Image Name="backhome.png" />
+                <Image Name="basemodel.png" />
+                <Image Name="restart.png" />
+                <Image Name="startgame.png" />
+                <Image Name="upmodel.png" />
+              </Folder>
+              <Folder Name="icon">
+                <Image Name="icon1.png" />
+                <Image Name="icon2.png" />
+                <Image Name="icon3.png" />
+                <Image Name="icon5.png" />
+                <Image Name="unclick.png" />
+              </Folder>
+              <Folder Name="img_txts">
+                <Image Name="historyMax.png" />
+                <Image Name="Hit.png" />
+                <Image Name="score.png" />
+                <Image Name="time.png" />
+              </Folder>
+              <Folder Name="upmodel">
+                <Image Name="upmodel_eye.png" />
+                <Image Name="upmodel_highscore.png" />
+                <Image Name="upmodel_nomistake.png" />
+                <Image Name="upmodel_showtime.png" />
+              </Folder>
+              <Image Name="role.png" />
+              <Image Name="bg.png" />
+              <Image Name="ready_go.png" />
+            </Folder>
+            <Project Name="balance.csd" Type="Layer" />
+            <Project Name="main.csd" Type="Layer" />
+            <Project Name="niuniutiaozhan.csd" Type="Layer" />
+            <Project Name="upmodel.csd" Type="Layer" />
+            <Project Name="main_0.csd" Type="Layer" />
+            <Project Name="main_1.csd" Type="Layer" />
+            <Project Name="main_2.csd" Type="Layer" />
+            <Project Name="main_3.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

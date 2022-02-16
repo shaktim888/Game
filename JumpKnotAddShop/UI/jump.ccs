@@ -1,0 +1,43 @@
+<Solution>
+  <PropertyGroup Name="jump" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="jump">
+            <Folder Name="image">
+              <Folder Name="hero">
+                <Image Name="1.png" />
+                <Image Name="2.png" />
+                <Image Name="3.png" />
+                <Image Name="4.png" />
+              </Folder>
+              <TTF Name="7.ttf" />
+              <Image Name="addgoldbg.png" />
+              <Image Name="bg.png" />
+              <Image Name="btn_common.png" />
+              <Image Name="btn_return.png" />
+              <Image Name="btn_shop.png" />
+              <Image Name="btn_start.png" />
+              <Image Name="crod.png" />
+              <Image Name="gold_icon.png" />
+              <Image Name="knot.png" />
+              <Image Name="music.png" />
+              <Image Name="musicoff.png" />
+              <Image Name="popbg.png" />
+              <Image Name="role.png" />
+              <Image Name="role_bg.png" />
+              <Image Name="selectbg.png" />
+              <Image Name="unlockmask.png" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Layer" />
+            <Project Name="GameShop.csd" Type="Layer" />
+            <Project Name="MainScene.csd" Type="Layer" />
+            <Project Name="MainScene_0.csd" Type="Layer" />
+            <Project Name="MainScene_1.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

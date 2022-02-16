@@ -1,0 +1,68 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"gDse6Z",
+		"exportentry":"random",
+		"confusepath":"src/gDse6Z/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+		        "relpath" : "src/gDse6Z/res/game/PKGS/images/bj.png",
+		        "order": 1
+			},
+			"role":{
+				"relpath" : "src/gDse6Z/res/game/PKGS/images/role.png",
+				"order": 1
+			}
+		},
+		"game":{
+			
+			"btn" :{
+				"classic":{
+					"relpath" : "src/gDse6Z/res/game/PKGS/images/classic.png"
+				},
+				"help":{
+					"relpath" : "src/gDse6Z/res/game/PKGS/images/help.png"
+				},
+				"Home":{
+					"relpath" : "src/gDse6Z/res/game/PKGS/images/Home.png"
+				},
+				"live":{
+					"relpath" : "src/gDse6Z/res/game/PKGS/images/live.png"
+				},
+				"Replay":{
+					"relpath" : "src/gDse6Z/res/game/PKGS/images/Replay.png"
+				}
+			},
+			"btnbg":{
+				"relpath" : "src/gDse6Z/res/game/PKGS/images/btn.png"
+			},
+			"btnclose":{
+				"relpath" : "src/gDse6Z/res/game/PKGS/images/btn_close.png"
+			},
+			"card":{
+				"relpath" :"src/gDse6Z/res/game/PKGS/images/card.png"
+			},
+			"colors":{
+				"color_0":{
+					"relpath" : "src/gDse6Z/res/game/PKGS/images/color_0.png"
+				},
+				"color_1":{
+					"relpath" : "src/gDse6Z/res/game/PKGS/images/color_1.png"
+				},
+				"color_2":{
+					"relpath" : "src/gDse6Z/res/game/PKGS/images/color_2.png"
+				},
+				"color_3":{
+					"relpath" : "src/gDse6Z/res/game/PKGS/images/color_3.png"
+				}
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/gDse6Z/res/game/knight/images/bg.png",
+		"isL":false
+	}
+}

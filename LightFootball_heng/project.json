@@ -1,0 +1,125 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"H1iEh2",
+		"exportentry":"random",
+		"confusepath":"src/H1iEh2/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/gameLayer/bg.png",
+				"order":1
+			},
+			"role":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/chooseLayer/role.png",
+				"order":1
+			}
+		},
+		"hall" : {
+			"bound":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/chooseLayer/bound.png"
+			},
+		    "gamebtn" : {
+				"again":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_again.png"
+				},
+		        "menu":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_menu.png"
+				},
+				"music1":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_music_1.png"
+				},
+				"music2":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_music_2.png"
+				},
+				"next":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_next.png"
+				},
+				"restart":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_restart.png"
+				},
+				"return":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_return.png"
+				},
+				"shoot":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_shoot.png"
+				},
+				"start":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_START.png"
+				},
+				"stop":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_stopNormal.png"
+				},
+				"rule":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gamebtn/UI_guize.png"
+				}
+			},
+			"gameStartLua":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/GameStartScene.lua"
+			},
+			"lock":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/chooseLayer/lock.png"
+			}
+		},
+		"game":{
+			"ball":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/obstacle/ball.png"
+			},
+			"bg":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/gameLayer/bg_scene.png"
+			},
+			"down":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/obstacle/down.png"
+			},
+			"missle":{
+				"state1":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/obstacle/missle1.png"
+				},
+				"state2":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/obstacle/missle2.png"
+				}
+			},
+			"rule":{
+				"img_pop_bg":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gameLayer/img_pop_bg.png"
+				},
+				"img_text_title":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/gameLayer/img_text_rule.png"
+				}	
+			},
+			"send":{
+				"sendin":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/obstacle/sendin.png"
+				},
+				"sendout":{
+					"relpath" : "src/H1iEh2/res/game/ligatureFootball/obstacle/send.png"
+				}	
+			},
+			"wall":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/obstacle/wall.png"
+			},
+			"others":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/obstacle/Other.png"
+			},
+			"our":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/obstacle/Our.png"
+			}
+		},
+		"common_res": {
+			"sound":{
+				"relpath" : "src/H1iEh2/res/game/ligatureFootball/sound/startGame.mp3"
+			}
+		}
+		
+	},
+	"other" : {
+		"produceicon_hallbg": "src/H1iEh2/res/game/ligatureFootball/chooseLayer/bg.png",
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":"大厅人物"
+		},
+		"isL":true
+	}
+}

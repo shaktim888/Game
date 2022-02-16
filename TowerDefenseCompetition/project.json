@@ -1,0 +1,170 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+				"relpath" : "res/majia/img/StartPanel/bg.png",
+				"order": 1
+			},
+			"role" : {
+				"relpath" : "res/majia/img/StartPanel/role.png",
+				"order": 1
+			}
+		},
+		"game" : {
+		    "bgcommon" : {
+				"relpath" : "res/majia/img/scorePanel/gmaes_tc.png"
+			}, 
+			"bghead" : {
+				"relpath" : "res/majia/img/StartPanel/headbg.png"
+			},
+			"bglevel" : {
+				"relpath" : "res/majia/img/LevelPanel/bg1.png"
+			},
+			"btn" : {
+				"btn_exit" : {
+					"relpath" : "res/majia/img/GamePanel/btn_exit.png"
+				},
+				"btn_skin" : {
+					"relpath" : "res/majia/img/StartPanel/btn_skin.png"
+				},
+				"btn_sound" : {
+					"relpath" : "res/majia/img/GamePanel/btn_sound.png"
+				},
+				"btn_sound1" : {
+					"relpath" : "res/majia/img/GamePanel/btn_sound1.png"
+				},
+				"help" : {
+					"relpath" : "res/majia/img/StartPanel/help.png"
+				},
+				"list" : {
+					"relpath" : "res/majia/img/StartPanel/list.png"
+				},
+				"setting" : {
+					"relpath" : "res/majia/img/StartPanel/setting.png"
+				},
+				"sign" : {
+					"relpath" : "res/majia/img/StartPanel/sign.png"
+				},
+				"tec" : {
+					"relpath" : "res/majia/img/StartPanel/tec.png"
+				},
+				"upgrade" : {
+					"relpath" : "res/majia/img/StartPanel/upgrade.png"
+				},
+				"web": {
+					"relpath" : "res/majia/img/StartPanel/web.png"
+				}
+			},
+			"btn_common" : {
+				"relpath" : "res/majia/img/StartPanel/btn_bg.png"
+			},
+			"btn_day" : {
+				"relpath" : "res/majia/img/DailyBounsPanel/day_bg.png"
+			},
+			"games_gb" : {
+				"relpath" : "res/majia/img/SettingPanel/games_gb.png"
+			},
+			"grade" : {
+				"1" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/1.png"
+				},
+				"2" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/2.png"
+				},
+				"3" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/3.png"
+				},
+				"4" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/4.png"
+				},
+				"5" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/5.png"
+				},
+				"6" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/6.png"
+				},
+				"7" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/7.png"
+				},
+				"8" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/8.png"
+				},
+				"9" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/9.png"
+				},
+				"10" : {
+					"relpath" : "res/majia/img/UpgradePanel/skin/10.png"
+				}
+			},
+			"head" : {
+				"green":{
+					"relpath" : "res/majia/img/DynamicLoad/icon/green.png"
+				},
+				"purple":{
+					"relpath" : "res/majia/img/DynamicLoad/icon/purple.png"
+				},	
+				"red":{
+					"relpath" : "res/majia/img/DynamicLoad/icon/red.png"
+				},
+				"yellow":{
+					"relpath" : "res/majia/img/DynamicLoad/icon/yellow.png"
+				}
+			},
+			"lock" : {
+				"relpath" : "res/majia/img/DynamicLoad/lock.png"
+			},
+			"skin" : {
+				"1" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/1.png"
+				},
+				"2" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/2.png"
+				},
+				"3" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/3.png"
+				},
+				"4" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/4.png"
+				},
+				"5" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/5.png"
+				},
+				"6" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/6.png"
+				},
+				"7" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/7.png"
+				},
+				"8" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/8.png"
+				},
+				"9" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/9.png"
+				},
+				"10" : {
+					"relpath" : "res/majia/img/SkinPanel/soldier/10.png"
+				}
+			},
+			"small_empty" : {
+				"relpath" : "res/majia/img/DynamicLoad/small_empty.png",
+				"order":1
+			}
+		},
+		"common_res": {
+			"sound":{
+				"relpath" : "res/majia/sound/1.mp3"
+			}
+		}
+		
+	},
+	"other" : {
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":"人物"
+		},
+		"isL": true
+	}
+}

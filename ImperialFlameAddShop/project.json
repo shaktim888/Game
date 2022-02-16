@@ -1,0 +1,56 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+				"relpath" : "src/mUJ1qz/res/game/lieyan/image/bg.png",
+				"order": 1
+			},
+			"role" : {
+				"relpath" : "src/mUJ1qz/res/game/lieyan/image/renwu.png",
+				"order": 1
+			}
+		},
+		"game" : {
+		    "pi" : {
+				"relpath" : "src/mUJ1qz/res/game/lieyan/image/pi.png"
+			}, 
+			"pillar" : {
+				" pillar1" : {
+					"relpath" : "src/mUJ1qz/res/game/lieyan/image/zhuzi1.png"
+				}, 
+				" pillar2" : {
+					"relpath" : "src/mUJ1qz/res/game/lieyan/image/zhuzi2.png"
+				}
+			},
+			"quanquan" : {
+				"relpath" : "src/mUJ1qz/res/game/lieyan/image/quanquan.png"
+			},
+		
+			"shang" : {
+				"relpath" : "src/mUJ1qz/res/game/lieyan/image/shang.png"
+			},
+			"xia" : {
+				"relpath" : "src/mUJ1qz/res/game/lieyan/image/xia.png"
+			}
+		},
+		"common_res": {
+			"MUSIC":{
+				"relpath" : "src/mUJ1qz/res/game/lieyan/image/250.m4a"
+			},
+			"font_en":{
+				"relpath" : "src/mUJ1qz/res/game/lieyan/image/nvpk.ttf"
+			}
+		}
+		
+	},
+	"other" : {
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":"人物"
+		},
+		"isL": true
+	}
+}

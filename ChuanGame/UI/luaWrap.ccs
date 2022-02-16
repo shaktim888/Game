@@ -1,0 +1,60 @@
+<Solution>
+  <PropertyGroup Name="luaWrap" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="chuangchuang">
+            <Folder Name="images">
+              <Folder Name="food">
+                <Image Name="1.png" />
+                <Image Name="10.png" />
+                <Image Name="2.png" />
+                <Image Name="3.png" />
+                <Image Name="4.png" />
+                <Image Name="5.png" />
+                <Image Name="6.png" />
+                <Image Name="7.png" />
+                <Image Name="8.png" />
+                <Image Name="9.png" />
+                <PlistInfo Name="Plist.csi" Type="Plist" />
+              </Folder>
+              <Image Name="bg.png" />
+              <Image Name="bottom.png" />
+              <Image Name="btn.png" />
+              <Image Name="fanhui.png" />
+              <Image Name="gunzi.png" />
+              <TTF Name="hwxk.ttf" />
+              <Image Name="loadingbar.png" />
+              <Image Name="loadingbar2.png" />
+              <Image Name="loadingbarBall.png" />
+              <Image Name="PopBG.png" />
+              <Image Name="role.png" />
+              <Image Name="shezhi.png" />
+            </Folder>
+            <Folder Name="sound">
+              <File Name=".DS_Store" />
+              <Audio Name="bgm.mp3" />
+              <Audio Name="combo.mp3" />
+              <Audio Name="end.mp3" />
+              <Audio Name="hit_1.mp3" />
+              <Audio Name="hit_2.mp3" />
+              <Audio Name="hit_3.mp3" />
+              <Audio Name="hit_4.mp3" />
+              <Audio Name="launch.mp3" />
+              <Audio Name="miss.mp3" />
+              <Audio Name="wallCollision.mp3" />
+            </Folder>
+            <Project Name="about.csd" Type="Layer" />
+            <Project Name="enter.csd" Type="Layer" />
+            <Project Name="enter1.csd" Type="Layer" />
+            <Project Name="enter2.csd" Type="Layer" />
+            <Project Name="game.csd" Type="Layer" />
+            <Project Name="jiesuan.csd" Type="Layer" />
+            <Project Name="setting.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

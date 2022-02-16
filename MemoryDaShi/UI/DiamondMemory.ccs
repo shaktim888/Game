@@ -1,0 +1,86 @@
+<Solution>
+  <PropertyGroup Name="DiamondMemory" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="DiamondMemory">
+            <Folder Name="sound">
+              <Folder Name="diamond">
+                <Audio Name="bgm.mp3" />
+                <Audio Name="Button.wav" />
+                <Audio Name="clickfalse.mp3" />
+                <Audio Name="clicktrue.mp3" />
+                <Audio Name="currentWin.wav" />
+                <Audio Name="win.wav" />
+              </Folder>
+              <Folder Name="shyf">
+                <Audio Name="bgm.mp3" />
+                <Audio Name="Button.wav" />
+                <Audio Name="fanpai.wav" />
+                <Audio Name="kouxue.wav" />
+                <Audio Name="lose.wav" />
+                <Audio Name="win.wav" />
+              </Folder>
+              <Folder Name="witchpoker">
+                <Audio Name="bgm.mp3" />
+                <Audio Name="Button.wav" />
+                <Audio Name="fanpai.wav" />
+                <Audio Name="lose.wav" />
+                <Audio Name="win.wav" />
+              </Folder>
+              <Audio Name="bgm.mp3" />
+              <Audio Name="Button.mp3" />
+              <Audio Name="clickfalse.mp3" />
+              <Audio Name="clicktrue.mp3" />
+              <Audio Name="currentWin.wav" />
+              <Audio Name="win.wav" />
+            </Folder>
+            <Folder Name="ui">
+              <Image Name="3_1.png" />
+              <Image Name="3_2.png" />
+              <Image Name="3_3.png" />
+              <Image Name="3_4.png" />
+              <Image Name="4_1.png" />
+              <Image Name="4_2.png" />
+              <Image Name="4_3.png" />
+              <Image Name="4_4.png" />
+              <Image Name="5_1.png" />
+              <Image Name="5_2.png" />
+              <Image Name="5_3.png" />
+              <Image Name="5_4.png" />
+              <Image Name="add_left.png" />
+              <Image Name="add_right.png" />
+              <Image Name="add_top.png" />
+              <Image Name="bg.png" />
+              <Image Name="bg2.png" />
+              <Image Name="bg3.png" />
+              <Image Name="blood.png" />
+              <Image Name="btn.png" />
+              <Image Name="btn_back.png" />
+              <Image Name="btn_set.png" />
+              <Image Name="cardBg.png" />
+              <TTF Name="FZY3JW.TTF" />
+              <Image Name="loseBg.png" />
+              <Image Name="music_icon1.png" />
+              <Image Name="music_icon2.png" />
+              <Image Name="music_line.png" />
+              <Image Name="music_point.png" />
+              <Image Name="winBg.png" />
+              <Image Name="woman.png" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="hall_rule.csd" Type="Layer" />
+            <Project Name="hall_set.csd" Type="Layer" />
+            <Project Name="login.csd" Type="Scene" />
+            <Project Name="login1.csd" Type="Scene" />
+            <Project Name="login2.csd" Type="Scene" />
+            <Project Name="login3.csd" Type="Scene" />
+            <Project Name="login4.csd" Type="Scene" />
+            <Project Name="WinLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

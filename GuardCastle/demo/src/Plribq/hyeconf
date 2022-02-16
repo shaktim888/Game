@@ -1,0 +1,35 @@
+{
+    "eventlist":[
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_1.png",
+            "endcall":"onbtnPlayClick",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"Main"
+        },
+        {
+           "action" :"delay",
+            "delaytime":"2",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GuardCastle"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_2.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GuardCastle"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"5",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GuardCastle"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_3.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GuardCastle"
+        }
+    ]
+}

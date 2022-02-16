@@ -1,0 +1,59 @@
+<Solution>
+  <PropertyGroup Name="bbcard" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="majia">
+          <Folder Name="img">
+            <Folder Name="A">
+              <Image Name="bg.png" />
+              <Image Name="btn_common.png" />
+              <Image Name="btn_help.png" />
+              <Image Name="music.png" />
+              <Image Name="musicoff.png" />
+              <Image Name="role.png" />
+            </Folder>
+            <Folder Name="B">
+              <Image Name="btn_return.png" />
+              <Image Name="dog.png" />
+              <Image Name="gamebg.png" />
+              <Image Name="pig.png" />
+            </Folder>
+            <Folder Name="C">
+              <Image Name="btn_close.png" />
+              <Image Name="popbg.png" />
+            </Folder>
+            <Folder Name="card">
+              <Image Name="card_0.png" />
+              <Image Name="card_1.png" />
+              <Image Name="card_10.png" />
+              <Image Name="card_100.png" />
+              <Image Name="card_11.png" />
+              <Image Name="card_12.png" />
+              <Image Name="card_13.png" />
+              <Image Name="card_2.png" />
+              <Image Name="card_200.png" />
+              <Image Name="card_3.png" />
+              <Image Name="card_4.png" />
+              <Image Name="card_5.png" />
+              <Image Name="card_6.png" />
+              <Image Name="card_7.png" />
+              <Image Name="card_8.png" />
+              <Image Name="card_9.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="sound">
+            <Audio Name="bg.mp3" />
+            <Audio Name="fail.mp3" />
+            <Audio Name="ghost.mp3" />
+            <Audio Name="match.mp3" />
+            <Audio Name="nomatch.mp3" />
+            <Audio Name="pass.mp3" />
+          </Folder>
+          <TTF Name="font555.ttf" />
+          <Project Name="ShejianGameLayer.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

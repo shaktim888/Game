@@ -1,0 +1,52 @@
+ {
+    "eventlist":[
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_1.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"main"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"1",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"main"
+        }
+        {
+            "action":"callfunc",
+            "call":"show",
+            "targetname" :"game"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"5",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"game"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_2.png",
+            "endcall":"hide",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"game"
+        },
+        {
+            "action":"callfunc",
+            "call":"show",
+            "targetname" :"result"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"2",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"result"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_3.png",
+            "endcall":"hide",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"result"
+        }
+    ]
+}

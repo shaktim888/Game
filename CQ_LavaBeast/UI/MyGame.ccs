@@ -1,0 +1,85 @@
+<Solution>
+  <PropertyGroup Name="MyGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="common">
+          <Folder Name="sound">
+            <Audio Name="click.mp3" />
+            <Audio Name="gold.mp3" />
+          </Folder>
+        </Folder>
+        <Folder Name="Default">
+          <Image Name="ImageFile.png" />
+        </Folder>
+        <Folder Name="majia">
+          <Folder Name="img">
+            <Folder Name="card">
+              <Folder Name="defense">
+                <Image Name="defense1.png" />
+                <Image Name="defense2.png" />
+              </Folder>
+              <Folder Name="enemy">
+                <Image Name="enemy1.png" />
+                <Image Name="enemy2.png" />
+                <Image Name="enemy3.png" />
+              </Folder>
+              <Folder Name="hero">
+                <Image Name="hero1.png" />
+                <Image Name="hero2.png" />
+                <Image Name="hero3.png" />
+              </Folder>
+              <Folder Name="medicine">
+                <Image Name="medicine1.png" />
+                <Image Name="medicine2.png" />
+              </Folder>
+              <Folder Name="money">
+                <Image Name="money1.png" />
+              </Folder>
+              <Folder Name="tool">
+                <Image Name="tool1.png" />
+                <Image Name="tool2.png" />
+              </Folder>
+              <Folder Name="weapon">
+                <Image Name="weapon1.png" />
+                <Image Name="weapon2.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="gamePanel">
+              <Image Name="cardbg.png" />
+              <Image Name="img_bag.png" />
+              <Image Name="img_hero.png" />
+              <Image Name="img_left.png" />
+              <Image Name="img_right.png" />
+              <Image Name="infobg.png" />
+              <Image Name="mask.png" />
+              <Image Name="trashbox.png" />
+              <Image Name="bg.png" />
+            </Folder>
+            <Image Name="toastbg.png" />
+          </Folder>
+          <Folder Name="sound">
+            <Audio Name="addgold.mp3" />
+            <Audio Name="addhp.wav" />
+            <Audio Name="bg.mp3" />
+            <Audio Name="convert.mp3" />
+            <Audio Name="disappear.mp3" />
+            <Audio Name="fail.mp3" />
+            <Audio Name="force.mp3" />
+            <Audio Name="gamestart.mp3" />
+            <Audio Name="invalid.mp3" />
+            <Audio Name="move.wav" />
+            <Audio Name="pass.mp3" />
+            <Audio Name="sendcard.mp3" />
+            <Audio Name="suck.mp3" />
+            <Audio Name="sword.mp3" />
+            <Audio Name="throw.mp3" />
+          </Folder>
+          <TTF Name="font555.ttf" />
+          <Project Name="ShejianGameLayer.csd" Type="Layer" />
+        </Folder>
+        <Image Name="black.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

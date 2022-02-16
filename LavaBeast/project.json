@@ -1,0 +1,149 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+        "change":{
+            "role" : {
+                "relpath" : "res/majia/img/startPanel/role.png",
+                "order": 1
+            },
+            "bg" : {
+                "relpath" : "res/majia/img/startPanel/bg.png",
+                "order": 1
+            }
+        },
+		"game" : {
+		    "allCard" : {
+                "defense1" : {
+                    "relpath" : "res/majia/img/card/defense/defense1.png"
+                },
+                 "defense2" : {
+                    "relpath" : "res/majia/img/card/defense/defense2.png"
+                },
+                "enemy1" : {
+                    "relpath" : "res/majia/img/card/enemy/enemy1.png"
+                },
+                "enemy2" : {
+                    "relpath" : "res/majia/img/card/enemy/enemy2.png"
+                },
+                 "enemy3" : {
+                    "relpath" : "res/majia/img/card/enemy/enemy3.png"
+                },
+                "hero1" : {
+                    "relpath" : "res/majia/img/card/hero/hero1.png"
+                },
+                "hero2" : {
+                    "relpath" : "res/majia/img/card/hero/hero2.png"
+                },
+                "hero3" : {
+                    "relpath" : "res/majia/img/card/hero/hero3.png"
+                },
+                "medicine1" : {
+                    "relpath" : "res/majia/img/card/medicine/medicine1.png"
+                },
+                 "medicine2" : {
+                    "relpath" : "res/majia/img/card/medicine/medicine2.png"
+                },
+                "money1" : {
+                    "relpath" : "res/majia/img/card/money/money1.png"
+                },
+                "tool1" : {
+                    "relpath" : "res/majia/img/card/tool/tool1.png"
+                },
+                 "tool2" : {
+                    "relpath" : "res/majia/img/card/tool/tool2.png"
+                },
+                "weapon1" : {
+                    "relpath" : "res/majia/img/card/weapon/weapon1.png"
+                },
+                "weapon2" : {
+                    "relpath" : "res/majia/img/card/weapon/weapon2.png"
+                }
+                
+            },
+            "arrow" : {
+                "arrow" : {
+                    "relpath" : "res/majia/img/helpPanel/arrow.png"
+                },
+                "arrowleft" : {
+                    "relpath" : "res/majia/img/helpPanel/arrowleft.png"
+                },
+                "arrowright" : {
+                    "relpath" : "res/majia/img/helpPanel/arrowright.png"
+                }
+            },
+            "bgcommon" : {
+                "relpath" : "res/majia/img/helpPanel/gmaes_tc.png"
+            },
+            "btn" : {
+                "btn_back" : {
+                    "relpath" : "res/majia/img/scorePanel/btn_return.png"
+                },
+                "btn_close" : {
+                    "relpath" : "res/majia/img/scorePanel/btn_close.png"
+                },
+                "btn_flush" : {
+                    "relpath" : "res/majia/img/scorePanel/btn_shuaxin.png"
+                },
+                "btn_help" : {
+                    "relpath" : "res/majia/img/startPanel/btn_help.png"
+                },
+                "btn_technical" : {
+                    "relpath" : "res/majia/img/startPanel/btn_technical.png"
+                },
+                "btn_web" : {
+                    "relpath" : "res/majia/img/startPanel/btn_web.png"
+                },
+                "music" : {
+                    "relpath" : "res/majia/img/startPanel/btn_music.png"
+                },
+                "musicoff" : {
+                    "relpath" : "res/majia/img/startPanel/btn_music1.png"
+                }
+            },
+            "btn_common" : {
+                "relpath" : "res/majia/img/startPanel/btn_bg.png"
+            },
+			"card" : {
+                "cardbg" : {
+                    "relpath" : "res/majia/img/gamePanel/cardbg.png"
+                },
+                "img_bag" : {
+                    "relpath" : "res/majia/img/gamePanel/img_bag.png"
+                },
+                "img_hero" : {
+                    "relpath" : "res/majia/img/gamePanel/img_hero.png"
+                },
+                "img_left" : {
+                    "relpath" : "res/majia/img/gamePanel/img_left.png"
+                },
+                "img_right" : {
+                    "relpath" : "res/majia/img/gamePanel/img_right.png"
+                }
+			},
+			"gold" : {
+				"relpath" : "res/majia/img/startPanel/gold.png"
+			},
+			"result" : {
+                "imges_defeat" : {
+                    "relpath" : "res/majia/img/scorePanel/imges_defeat.png"
+                },
+                "image_victory" : {
+                    "relpath" : "res/majia/img/scorePanel/next.png"
+                }
+            },
+			"trashbox" : {
+				"relpath" : "res/majia/img/gamePanel/trashbox.png"
+			}
+		}
+		
+	},
+	"other" : {
+        "isL":true,
+        "dir_structure":{
+            "bg":"大厅背景",
+			"role":"人物"
+        }
+	}
+}

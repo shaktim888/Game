@@ -1,0 +1,37 @@
+<Solution>
+  <PropertyGroup Name="Spacels" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="Spacels">
+            <Folder Name="image">
+              <Folder Name="Maininterface">
+                <Image Name="BACK_BACKTOMENU.png" />
+                <Image Name="BG1.png" />
+                <Image Name="BG2.png" />
+                <Image Name="BG3.png" />
+                <TTF Name="FZY3JW.TTF" />
+                <Image Name="point.png" />
+                <Image Name="rabbit.png" />
+                <Image Name="star.png" />
+                <Image Name="unit.png" />
+              </Folder>
+              <Folder Name="role_hall">
+                <Image Name="1_0.png" />
+              </Folder>
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="LevelScene.csd" Type="Scene" />
+            <Project Name="MainScene.csd" Type="Scene" />
+            <Project Name="MainScene1.csd" Type="Scene" />
+            <Project Name="RuleScene.csd" Type="Scene" />
+            <Project Name="MainScene2.csd" Type="Scene" />
+            <Project Name="MainScene3.csd" Type="Scene" />
+            <Project Name="MainScene4.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

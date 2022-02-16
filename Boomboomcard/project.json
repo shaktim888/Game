@@ -1,0 +1,125 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change":{
+			"bg":{
+		        "relpath" : "res/majia/img/B/gamebg.png"
+			},
+			"role":{
+				"relpath" : "res/majia/img/A/role.png",
+				"order": 1
+			}	
+		},
+		"hall" : {
+		    "btn_back" : {
+		        "relpath" : "res/majia/img/B/btn_return.png"
+			},
+			"btn_common":{
+				"relpath":"res/majia/img/A/btn_common.png"
+			},
+		    "btn_close" :{
+			    "relpath" : "res/majia/img/C/btn_close.png"
+			},
+			"popbg":{
+				"relpath" : "res/majia/img/C/popbg.png"
+			},
+			"btn_other":{
+				"btn_music_off":{
+					"relpath" : "res/majia/img/A/musicoff.png"
+				},
+				"btn_help":{
+					"relpath" : "res/majia/img/A/btn_help.png"
+				},
+				"btn_music_on":{
+					"relpath" : "res/majia/img/A/music.png"
+				}
+			}
+		},
+		"game":{
+			"game_role_left":{
+				"relpath":"res/majia/img/B/dog.png"
+			},
+			"game_role_right":{
+				"relpath":"res/majia/img/B/pig.png"
+			},
+			"hand_cards":{
+				"hand_card_back_dark":{
+					"relpath" : "res/majia/img/card/card_100.png"
+				},
+				"hand_card_back_light":{
+					"relpath" : "res/majia/img/card/card_200.png"
+				},
+				"hand_cards_1":{
+					"relpath" : "res/majia/img/card/card_0.png"
+				},
+				"hand_cards_2":{
+					"relpath" : "res/majia/img/card/card_1.png"
+				},
+				"hand_cards_3":{
+					"relpath" : "res/majia/img/card/card_2.png"
+				},
+				"hand_cards_4":{
+					"relpath" : "res/majia/img/card/card_3.png"
+				},
+				"hand_cards_5":{
+					"relpath" : "res/majia/img/card/card_4.png"
+				},
+				"hand_cards_6":{
+					"relpath" : "res/majia/img/card/card_5.png"
+				},
+				"hand_cards_7":{
+					"relpath" : "res/majia/img/card/card_6.png"
+				},
+				"hand_cards_8":{
+					"relpath" : "res/majia/img/card/card_7.png"
+				},
+				"hand_cards_9":{
+					"relpath" : "res/majia/img/card/card_8.png"
+				},
+				"hand_cards_10":{
+					"relpath" : "res/majia/img/card/card_9.png"
+				},
+				"hand_cards_11":{
+					"relpath" : "res/majia/img/card/card_10.png"
+				},
+				"hand_cards_12":{
+					"relpath" : "res/majia/img/card/card_11.png"
+				},
+				"hand_cards_13":{
+					"relpath" : "res/majia/img/card/card_12.png"
+				},
+				"hand_cards_14":{
+					"relpath" : "res/majia/img/card/card_13.png"
+				}
+			},
+			"show_card1":{
+				"relpath":"res/majia/img/select1.png"
+			},
+			"show_card2":{
+				"relpath":"res/majia/img/select2.png"
+			},
+			"show_card3":{
+				"relpath":"res/majia/img/select3.png"
+			}
+		},
+		"common_res": {
+			"font_en":{
+				"relpath" : "res/majia/font555.ttf"
+			},
+			"sound":{
+				"relpath" : "res/majia/sound/bg.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "res/majia/img/B/gamebg.png",
+        "proto_role":"res/majia/img/A/role.png",
+        "isL":true,
+        "dir_structure":{
+            "bg":"游戏背景",
+            "role":"人物"
+        }
+	}
+}

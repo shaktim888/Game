@@ -1,0 +1,4 @@
+return {
+    "game/shilong/mainView.lua",
+    "game/shilong/setting.lua"
+}

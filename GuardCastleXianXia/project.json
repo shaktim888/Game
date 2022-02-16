@@ -1,0 +1,149 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"Plribq",
+		"exportentry":"Plribq",
+		"confusepath":"src/Plribq/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+		        "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/hallbg.png",
+				"order": 1
+		    },
+		    "role" : {
+			    "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/role.png",
+				"order": 1
+			}
+		},
+		"hall":{
+			"popBg":{
+				"relpath" : "src/Plribq/res/game/GuardCastle/images/win/k1.png"
+			},
+			"btnGroup" : {
+				"btnBack":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/btn/btnBack.png"
+		    	},
+		    	"btnRule":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/btn/btnRule.png"
+		    	},
+				"btnPause":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/btn/btnPause.png"
+		    	},
+		    	"btnSoundOff":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/but_off.png"
+		    	},
+		    	"btnSoundOn":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/but_on.png"
+				}
+			},
+			"manAndHead" : {
+				"head":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/select/head_1.png"
+		    	},
+		    	"man":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/select/nan1.png"
+				}
+			},
+			"womanAndHead" : {
+				"woman":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/select/nv1_2.png"
+		    	},
+		    	"head":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/select/head_2.png"
+				}
+			},
+			"sex" : {
+				"man":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/select/btnMan.png"
+		    	},
+		    	"woman":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/select/btnWoman.png"
+				}
+			},
+			
+			"di":{
+				"relpath" : "src/Plribq/res/game/GuardCastle/images/select/dz1.png"
+			},
+		    "btnStart" : {
+			    "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/btnStart.png",
+				"order": 1
+			},
+			"scoreBestFrame" : {
+			    "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/bestFrame.png",
+				"order": 1
+			}
+		},
+		"game" : {
+			"skillBtn" : {
+				"btnSkill1":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/skill-sheet0.png"
+		    	},
+		    	"btnSkill2":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/btnBigKill.png"
+				}
+			},
+			"arrow_monster" :{
+				"relpath" : "src/Plribq/res/game/GuardCastle/images/game/arrow_2.png"
+			},
+			"arrow_tower" :{
+				"relpath" : "src/Plribq/res/game/GuardCastle/images/game/arrow_1.png"
+			},
+			"btnCommon" : {
+		        "relpath" : "src/Plribq/res/game/GuardCastle/images/popBg/btnSmall.png"
+			},
+			"castle" : {
+			    "relpath" : "src/Plribq/res/game/GuardCastle/images/game/castle.png",
+				"order": 1
+			},
+			"HPBar":{
+				"in":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/res_1.png"
+		    	},
+		    	"out":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/res_2.png"
+		    	}
+			},
+			"ghost":{
+		        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/ghost.png"
+			}, 
+			"GameBg":{
+				"relpath" : "src/Plribq/res/game/GuardCastle/images/game/gamebg.png",
+				"order": 1
+			},
+			"Monster" :{
+		    	"monster_1":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/monster_1.png"
+		    	},
+		    	"monster_2":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/monster_2.png"
+		    	},
+		    	"monster_3":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/monster_3.png"
+		    	}
+		    },
+			"Over":{
+		        "relpath" : "src/Plribq/res/game/GuardCastle/images/popBg/Over.png"
+		    }
+		},
+		"common_res": {
+			"font":{
+				"relpath" : "src/Plribq/res/game/GuardCastle/font.ttf"
+			},
+			"sound":{
+				"relpath" : "src/Plribq/res/game/GuardCastle/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/Plribq/res/game/GuardCastle/images/hall/hallbg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"isL":true,
+		"proto_role":"src/Plribq/res/game/GuardCastle/images/hall/role.png",
+		"dir_structure":{
+			"bg":"游戏背景",
+			"role":"人物"
+		}
+	}
+}

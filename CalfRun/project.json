@@ -1,0 +1,81 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"J2NJJf",
+		"exportentry":"random",
+		"confusepath":"src/J2NJJf/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+				"relpath" : "src/J2NJJf/res/game/cattleRun/image/bg.png",
+				"order": 1
+			},
+			"role" : {
+				"relpath" : "src/J2NJJf/res/game/cattleRun/image/role.png",
+				"order" : 1
+			}
+			
+		},
+		"game" : {
+		    "btn" : {
+		        "btn_start" : {
+					"relpath" : "src/J2NJJf/res/game/cattleRun/image/kaishi.png"
+				},
+				"btn_music_off" : {
+					"relpath" : "src/J2NJJf/res/game/cattleRun/image/soundClose.png"
+				},
+				"btn_music_on" : {
+					"relpath" : "src/J2NJJf/res/game/cattleRun/image/soundClose.png"
+				},
+				"btn_rule" : {
+					"relpath" : "src/J2NJJf/res/game/cattleRun/image/wenhao.png"
+				}
+			},
+		    "bgrule" : {
+		        "relpath" : "src/J2NJJf/res/game/cattleRun/image/popBg.png"
+			},
+			"bar" : {
+		        "bar1" : {
+					"relpath" : "src/J2NJJf/res/game/cattleRun/image/choice/baconic.png"
+				},
+				"bar2" : {
+					"relpath" : "src/J2NJJf/res/game/cattleRun/image/choice/chips1.png"
+				},
+				"bar3" : {
+					"relpath" : "src/J2NJJf/res/game/cattleRun/image/choice/haborup.png"
+				}
+			},
+			"gamerole" : {
+		        "gameover" : {
+					"relpath" : "src/J2NJJf/res/game/cattleRun/image/you_LOSE.png"
+				},
+				"role" : {
+					"relpath" : "src/J2NJJf/res/game/cattleRun/image/plate.png"
+				}
+			},
+			"gradetext" : {
+		        "relpath" : "src/J2NJJf/res/game/cattleRun/image/scoreImg.png"
+			},
+			"runway" : {
+		        "relpath" : "src/J2NJJf/res/game/cattleRun/image/zhuozi.png"
+			},
+			"halllayoutlua":{
+				"relpath" : "src/J2NJJf/res/game/cattleRun/cattleRun.lua"
+			}
+		},
+		"common_res": {
+			"sound":{
+				"relpath" : "src/J2NJJf/res/game/ClassicFishing/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"isL":true,
+		"dir_structure":{
+			"bghall":"大厅背景",
+			"role": "大厅人物"
+        }
+	}
+}

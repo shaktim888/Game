@@ -1,0 +1,60 @@
+<Solution>
+  <PropertyGroup Name="luaWrap" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="doushouqi">
+            <Folder Name="image">
+              <Folder Name="blue">
+                <Image Name="Cat.png" />
+                <Image Name="Dog.png" />
+                <Image Name="Elephant.png" />
+                <Image Name="Leopard.png" />
+                <Image Name="Lion.png" />
+                <Image Name="Mouse.png" />
+                <Image Name="Tiger.png" />
+                <Image Name="Wolf.png" />
+              </Folder>
+              <Folder Name="red">
+                <Image Name="Cat.png" />
+                <Image Name="Dog.png" />
+                <Image Name="Elephant.png" />
+                <Image Name="Leopard.png" />
+                <Image Name="Lion.png" />
+                <Image Name="Mouse.png" />
+                <Image Name="Tiger.png" />
+                <Image Name="Wolf.png" />
+              </Folder>
+              <Image Name="back.png" />
+              <Image Name="desk.png" />
+              <Image Name="DRAW.png" />
+              <Image Name="GameBG.png" />
+              <Image Name="LOST.png" />
+              <Image Name="OtherRound.png" />
+              <Image Name="OurRound.png" />
+              <Image Name="popbg.png" />
+              <Image Name="popBg.png" />
+              <Image Name="Replay.png" />
+              <Image Name="role.png" />
+              <Image Name="roundBg.png" />
+              <Image Name="RULE.png" />
+              <Image Name="selected.png" />
+              <Image Name="soundClose.png" />
+              <Image Name="soundOpen.png" />
+              <Image Name="Start.png" />
+              <Image Name="unknow.png" />
+              <Image Name="WIN.png" />
+            </Folder>
+            <Project Name="about.csd" Type="Layer" />
+            <Project Name="doushouqi.csd" Type="Layer" />
+            <Project Name="jiesuan.csd" Type="Layer" />
+            <Project Name="main.csd" Type="Layer" />
+            <Project Name="main_0.csd" Type="Layer" />
+            <Project Name="main_1.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

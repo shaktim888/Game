@@ -1,0 +1,15 @@
+{
+	"start":{
+		"layout1" : {
+			"btn":{
+				"relpath" : "res/dynamic/start/res/btn_start_1.png"
+			},
+			"login_bg":{
+				"relpath" : "res/dynamic/start/res/bg.png"
+			},
+			"login_role":{
+				"relpath":"res/dynamic/start/res/role.png"
+			}
+		}
+	}
+}

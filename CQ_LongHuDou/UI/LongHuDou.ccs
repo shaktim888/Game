@@ -1,0 +1,40 @@
+<Solution>
+  <PropertyGroup Name="LongHuDou" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="LongHuDou">
+            <Folder Name="images">
+              <Folder Name="game">
+                <Image Name="turnFrame.png" />
+                <Image Name="bg.png" />
+                <Image Name="bloodBar.png" />
+                <Image Name="btnAttack.png" />
+                <Image Name="btnDefense.png" />
+                <Image Name="knifeLight.png" />
+                <Image Name="lifebartiledelves.png" />
+                <TTF Name="nvpk.ttf" />
+                <Image Name="VSDragon_lh.png" />
+                <Image Name="weaponHu.png" />
+                <Image Name="weaponLong.png" />
+                <Image Name="yun1.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="attack.mp3" />
+              <Audio Name="blood.mp3" />
+              <Audio Name="click.mp3" />
+              <Audio Name="defense.mp3" />
+              <Audio Name="game_over.mp3" />
+              <Audio Name="hu.mp3" />
+              <Audio Name="long.mp3" />
+              <Audio Name="win.mp3" />
+            </Folder>
+            <Project Name="Game.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,41 @@
+ {
+    "eventlist":[
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_1.png",
+            "endcall":"onRuleClick",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"MainScene"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"0.5",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"RuleLayer"
+        }
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_2.png",
+            "endcall":"gotoMain",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"RuleLayer"
+        },
+        {
+            "action":"callfunc",
+            "call":"onStartClick",
+            "targetname" :"MainScene"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"0.5",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameScene"
+        }
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_3.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameScene"
+        }
+    ]
+}

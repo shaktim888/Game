@@ -1,0 +1,109 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change":{
+			"bg":{
+				"relpath":"h5_guardianCastle/images/background-sheet0.png",
+				"order":1
+			}
+		},
+		"game" : {
+		    "arrow":{
+				"arrow1":{
+			   		"relpath" : "h5_guardianCastle/images/arrow-sheet0.png"
+		    	},
+		    	"arrow2":{
+			    	"relpath" : "h5_guardianCastle/images/playerarrow-sheet0.png"
+		    	},
+		    	"skillbtn":{
+			    	"relpath" : "h5_guardianCastle/images/skill-sheet0.png"
+				}
+		    },
+		    "blood":{
+				"hp":{
+			    	"relpath" : "h5_guardianCastle/images/hp-sheet0.png"
+		    	},
+		    	"hpborder":{
+			    	"relpath" : "h5_guardianCastle/images/hpborder-sheet0.png"
+		    	}
+		    },
+		    "btn":{
+				"exitbtn":{
+			    	"relpath" : "h5_guardianCastle/images/exitbutton-sheet0.png"
+				},
+				"menubtn":{
+			    	"relpath" : "h5_guardianCastle/images/menubutton-sheet0.png"
+		    	},
+				"pausebtn":{
+			    	"relpath" : "h5_guardianCastle/images/pausebutton-sheet0.png"
+		    	},
+		    	"playbtn":{
+			    	"relpath" : "h5_guardianCastle/images/playbutton-sheet0.png"
+		    	},
+				"sound0btn":{
+			    	"relpath" : "h5_guardianCastle/images/sound-sheet0.png"
+		    	},
+				"sound1btn":{
+			    	"relpath" : "h5_guardianCastle/images/sound-sheet1.png"
+		    	}	
+		    },
+		    "btnothers":{
+				"resetbtn":{
+			    	"relpath" : "h5_guardianCastle/images/upgradecastlehealth-sheet0.png"
+		    	},
+				"upgradecastle":{
+			    	"relpath" : "h5_guardianCastle/images/upgradecastlehealth-sheet0.png"
+		    	},
+		    	"upgradeplayer":{
+			    	"relpath" : "h5_guardianCastle/images/upgradeplayerdamage-sheet0.png"
+		    	},
+		    	"upgradetowers":{
+			    	"relpath" : "h5_guardianCastle/images/upgradetowersdamage-sheet0.png"
+				}
+		    },
+		    "castle":{
+				"relpath" : "h5_guardianCastle/images/castle-sheet0.png"
+		    },
+		    "person":{
+				"bower":{
+			    	"relpath" : "h5_guardianCastle/images/bower-sheet0.png"
+				},
+				"airenemy":{
+			   		"relpath" : "h5_guardianCastle/images/airenemy-sheet0.png"
+		    	},
+				"enemyshield0":{
+			    	"relpath" : "h5_guardianCastle/images/enemyshield-sheet0.png"
+		    	},
+		    	"enemyshield1":{
+			    	"relpath" : "h5_guardianCastle/images/enemyshield-sheet1.png"
+		    	},
+		    	"enemyshield2":{
+			    	"relpath" : "h5_guardianCastle/images/enemyshield-sheet2.png"
+		    	},
+		    	"enemyshield3":{
+			    	"relpath" : "h5_guardianCastle/images/player-sheet0.png"
+		    	}
+			 }
+		}
+	},
+	"other" : {
+		"fnt_color_range" : [[0,0,0],[255,255,255]],
+		"gameconfigPath":"config.lua",
+		"produceicon_hallbg": "h5_guardianCastle/images/backgroundupgrade-sheet0.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"img/role_proto/role_proto.png",
+		"grabscreen_path":"grabscreen/",
+		"balltype":"football",
+		"lan":"en",
+		"gametype":1,
+		"clickPos": [
+			{ "x":1230, "y":1020 },
+			{ "x":1230, "y":1020 },
+			{"width":4375},
+			[5000,20000,5000]
+		],
+		"gamePath":"../root_demo/H5/ThreeCountry/h5_guardianCastle/"
+	}
+}

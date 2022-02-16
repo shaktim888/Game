@@ -1,0 +1,92 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"IDvxae",
+		"exportentry":"random",
+		"confusepath":"src/IDvxae/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+		        "relpath" : "src/IDvxae/res/game/qiehuanggua/image/gameBg.png",
+				"order": 1
+			},
+			"role" : {
+				"relpath" : "src/IDvxae/res/game/qiehuanggua/image/role.png",
+				"order" : 1
+			}
+		},
+		"hall" : {
+		    "popbg" : {
+		        "relpath" : "src/IDvxae/res/game/qiehuanggua/image/popBG.png"
+			},
+		    "hallbtn" :{
+			    "relpath" : "src/IDvxae/res/game/qiehuanggua/image/btn.png"
+		    },
+			"halllayoutlua":{
+				"relpath" : "src/IDvxae/res/game/qiehuanggua/main.lua"
+			}
+		},
+		"game":{
+			"board":{
+				"relpath" : "src/IDvxae/res/game/qiehuanggua/image/jiazi.png"
+			},
+			"dwarf":{
+				"relpath" : "src/IDvxae/res/game/qiehuanggua/image/hero1_1_move_3.png"
+			},
+			"knife":{
+				"relpath" : "src/IDvxae/res/game/qiehuanggua/image/card.png"
+			},
+			"monster":{
+				"hg":{
+					"relpath" : "src/IDvxae/res/game/qiehuanggua/image/fullHg.png"
+				},
+				"hg1":{
+					"relpath" : "src/IDvxae/res/game/qiehuanggua/image/hg1.png"
+				},
+				"hg2":{
+					"relpath" : "src/IDvxae/res/game/qiehuanggua/image/hg2.png"
+				}
+			},
+			"gamebtns":{
+				"back":{
+					"relpath" : "src/IDvxae/res/game/qiehuanggua/image/back.png"
+				},
+				"musicClose":{
+					"relpath" : "src/IDvxae/res/game/qiehuanggua/image/musicClose.png"
+				},
+				"musicOpen":{
+					"relpath" : "src/IDvxae/res/game/qiehuanggua/image/musicOpen.png"
+				},
+				"Retry":{
+					"relpath" : "src/IDvxae/res/game/qiehuanggua/image/Retry.png"
+				},
+				"set":{
+					"relpath" : "src/IDvxae/res/game/qiehuanggua/image/set.png"
+				},
+                "soundClose":{
+                    "relpath": "src/IDvxae/res/game/qiehuanggua/image/soundClose.png"
+                },
+                "soundOpen":{
+                    "relpath": "src/IDvxae/res/game/qiehuanggua/image/soundOpen.png"
+                }
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/IDvxae/res/game/qiehuanggua/image/gameBg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"grabconf_path":"src/IDvxae/res/hyeconf",
+		"isL":true,
+		"proto_role":"img/role_proto/role_proto.png",
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":{
+				"role_hall":"大厅人物",
+				"role_icon":"icon人物",
+				"role_proto":"宣传图人物"
+			}
+        }
+	}
+}

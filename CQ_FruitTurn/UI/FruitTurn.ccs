@@ -1,0 +1,72 @@
+<Solution>
+  <PropertyGroup Name="FruitTurn" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="FruitTurn">
+            <Folder Name="images">
+              <Folder Name="font">
+                <TTF Name="font.ttf" />
+              </Folder>
+              <Folder Name="game">
+                <Folder Name="fruit">
+                  <Image Name="1.png" />
+                  <Image Name="10.png" />
+                  <Image Name="11.png" />
+                  <Image Name="12.png" />
+                  <Image Name="13.png" />
+                  <Image Name="14.png" />
+                  <Image Name="15.png" />
+                  <Image Name="16.png" />
+                  <Image Name="17.png" />
+                  <Image Name="18.png" />
+                  <Image Name="19.png" />
+                  <Image Name="2.png" />
+                  <Image Name="20.png" />
+                  <Image Name="21.png" />
+                  <Image Name="22.png" />
+                  <Image Name="23.png" />
+                  <Image Name="24.png" />
+                  <Image Name="25.png" />
+                  <Image Name="26.png" />
+                  <Image Name="27.png" />
+                  <Image Name="28.png" />
+                  <Image Name="29.png" />
+                  <Image Name="3.png" />
+                  <Image Name="30.png" />
+                  <Image Name="31.png" />
+                  <Image Name="32.png" />
+                  <Image Name="4.png" />
+                  <Image Name="5.png" />
+                  <Image Name="6.png" />
+                  <Image Name="7.png" />
+                  <Image Name="8.png" />
+                  <Image Name="9.png" />
+                </Folder>
+                <Image Name="back.png" />
+                <Image Name="bg_game.png" />
+                <Image Name="front.png" />
+              </Folder>
+              <Folder Name="popBg">
+                <Image Name="bg.png" />
+                <Image Name="btnExit.png" />
+                <Image Name="btnNext.png" />
+                <Image Name="btnRestart.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="bgm.mp3" />
+              <Audio Name="bounce.mp3" />
+              <Audio Name="click.mp3" />
+              <Audio Name="game_over.mp3" />
+              <Audio Name="run.mp3" />
+              <Audio Name="win.mp3" />
+            </Folder>
+            <Project Name="Game.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

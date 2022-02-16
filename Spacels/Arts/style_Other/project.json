@@ -1,0 +1,81 @@
+{
+
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"puCBWB",
+		"exportentry":"random",
+		"confusepath":"src/puCBWB/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+				"bg1":{
+					"relpath" : "src/puCBWB/res/game/Spacels/image/Maininterface/BG1.png"
+				},
+				"bg2":{
+					"relpath" : "src/puCBWB/res/game/Spacels/image/Maininterface/BG2.png"
+				},
+				"bg3":{
+					"relpath" : "src/puCBWB/res/game/Spacels/image/Maininterface/BG3.png"
+				},
+				"order" : 1
+			},
+			"role" : {
+				"role_hall":{
+					"relpath" : "src/puCBWB/res/game/Spacels/image/role_hall/1_0.png"
+				},
+				"role_icon":{
+					"relpath" : "img/role_icon/role_icon.png"
+				},
+				"order" : 1
+		    }
+		},
+		"game" : {
+		    "btn" : {
+		        "relpath" : "src/puCBWB/res/game/Spacels/image/Maininterface/BACK_BACKTOMENU.png"
+			},
+			"halllayoutlua":{
+				"relpath" : "src/puCBWB/res/game/Spacels/login.lua"
+			},
+		    "hero" :{
+			    "relpath" : "src/puCBWB/res/game/Spacels/image/hero.png"
+		    },
+			"point":{
+				"relpath" : "src/puCBWB/res/game/Spacels/image/Maininterface/point.png"
+			},
+			"star":{
+				"relpath" : "src/puCBWB/res/game/Spacels/image/Maininterface/star.png"
+			},
+			"unit":{
+				"relpath" : "src/puCBWB/res/game/Spacels/image/Maininterface/unit.png"
+			}
+		},
+		"common_res":{
+			"font_en":{
+				"relpath" : "src/puCBWB/res/game/Spacels/image/Maininterface/FZY3JW.TTF"
+		    }
+		}
+	},
+
+	"other" : {
+		"produceicon_hallbg": "src/puCBWB/res/game/Spacels/image/Maininterface/BG1.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"img/role_proto/role_proto.png",
+		"isL":true,
+		"dir_structure":{
+            "bg":{
+				"bg1":"大厅背景1",
+				"bg2":"大厅背景2",
+				"bg3":"大厅背景3"
+			},
+			"role":{
+				"role_hall":"大厅人物",
+				"role_icon":"icon人物",
+				"role_proto":"宣传图人物"
+			}
+        }
+	}
+
+
+}

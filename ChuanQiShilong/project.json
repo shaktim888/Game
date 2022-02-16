@@ -1,0 +1,92 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"2QBb0C",
+		"exportentry":"random",
+		"confusepath":"src/2QBb0C/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+				"relpath" : "src/2QBb0C/res/game/shilong/image/BG.png",
+				"order" : 1
+			},
+			"role":{
+			    "relpath" : "src/2QBb0C/res/game/shilong/image/role.png",
+				"order" : 1
+		    }
+		},
+		"hall" : {
+		    "balancebg" : {
+		        "relpath" : "src/2QBb0C/res/game/shilong/image/tc.png"
+			},
+			"btn": {
+		        "relpath" : "src/2QBb0C/res/game/shilong/image/btn.png"
+			},
+		    "tiao":{
+		    	"tiao1":{
+			        "relpath" : "src/2QBb0C/res/game/shilong/image/tiao1.png"
+		    	},
+		    	"tiao2":{
+			        "relpath" : "src/2QBb0C/res/game/shilong/image/tiao2.png"
+		    	}
+		    }, 
+			"halllayoutlua":{
+				"relpath" : "src/2QBb0C/res/game/shilong/MainScene.lua"
+			},
+			"shezhi":{
+				"relpath" : "src/2QBb0C/res/game/shilong/image/shezhi.png"
+			}
+		},
+		"game":{
+			"btn":{
+				"relpath" : "src/2QBb0C/res/game/shilong/image/fanhui.png"
+			},
+			"coin":{
+				"relpath" : "src/2QBb0C/res/game/shilong/image/huobi.png"
+			},
+			"Platform":{
+				"relpath" : "src/2QBb0C/res/game/shilong/image/zhantai.png"
+			},
+			"dragon":{
+				"long1":{
+			        "relpath" : "src/2QBb0C/res/game/shilong/boss/long1.png"
+		    	},
+				"long2":{
+			        "relpath" : "src/2QBb0C/res/game/shilong/boss/long2.png"
+		    	},
+				"long3":{
+			        "relpath" : "src/2QBb0C/res/game/shilong/boss/long3.png"
+		    	}
+			},
+			"kan":{
+				"relpath" : "src/2QBb0C/res/game/shilong/image/kan.png"
+			}
+		},
+		"common_res": {
+			"font_en":{
+				"relpath" : "src/2QBb0C/res/game/shilong/image/mzdzt.ttf"
+			},
+			"sound":{
+				"relpath" : "src/2QBb0C/res/game/shilong/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"gameconfigPath": "src/2QBb0C/config.lua",
+		"produceicon_hallbg": "src/2QBb0C/res/game/shilong/image/bg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"img/role_proto/role_proto.png",
+		"grabconf_path":"src/2QBb0C/res/hyeconf",
+		"gametype":1,
+		"grabscreen_path":"grabscreen/",
+		"addrandomcode":true,
+		"isL":false,
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":"人物"
+        }
+
+	}
+}

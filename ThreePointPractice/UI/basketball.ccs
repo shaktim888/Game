@@ -1,0 +1,65 @@
+<Solution>
+  <PropertyGroup Name="basketball" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="basketball">
+            <Folder Name="image">
+              <Image Name="0101.png" />
+              <Image Name="0102.png" />
+              <Image Name="0201.png" />
+              <Image Name="0202.png" />
+              <Image Name="0301.png" />
+              <Image Name="0302.png" />
+              <Image Name="a.png" />
+              <Image Name="ball.png" />
+              <Image Name="bg.png" />
+              <Image Name="continue.png" />
+              <Image Name="feng.png" />
+              <TTF Name="FZY3JW.TTF" />
+              <Image Name="hall_btn.png" />
+              <Image Name="home.png" />
+              <Image Name="lankuang.png" />
+              <Image Name="lankuanghou.png" />
+              <Image Name="lankuangqian .png" />
+              <Image Name="lanwang.png" />
+              <Image Name="role.png" />
+              <Image Name="rule.png" />
+              <Image Name="star.png" />
+              <Image Name="tc.png" />
+              <Image Name="top.png" />
+              <Image Name="ttttt.png" />
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="01.mp3" />
+              <Audio Name="02.mp3" />
+              <Audio Name="03.mp3" />
+              <Audio Name="03_1.mp3" />
+              <Audio Name="03_2.mp3" />
+              <Audio Name="04.mp3" />
+              <Audio Name="05.mp3" />
+              <Audio Name="06.mp3" />
+              <Audio Name="07.mp3" />
+              <Audio Name="08.mp3" />
+              <Audio Name="09.mp3" />
+              <Audio Name="10.mp3" />
+              <Audio Name="11.mp3" />
+              <Audio Name="bgm.mp3" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="Layer.csd" Type="Layer" />
+            <Project Name="MainScene.csd" Type="Scene" />
+            <Project Name="MainScene1.csd" Type="Scene" />
+            <Project Name="MainScene2.csd" Type="Scene" />
+            <Project Name="MainScene3.csd" Type="Scene" />
+            <Project Name="MainScene4.csd" Type="Scene" />
+            <Project Name="Node.csd" Type="Node" />
+            <Project Name="Node1.csd" Type="Node" />
+            <Project Name="Rule.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,11 @@
+{
+	"other" : {
+		"produceicon_hallbg": "res/dynamic/start/bg.png",
+		"produceicon_hallbgRole":"res/dynamic/start/role.png",
+		"proto_role":"res/dynamic/start/role.png",
+		"isL":false
+	},
+	"confuse":{
+	
+	}
+}

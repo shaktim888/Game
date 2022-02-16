@@ -1,0 +1,42 @@
+{
+    "eventlist":[
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_1.png",
+            "endcall":"onbtn_helpClick",
+            
+            "timename" :"enterTransitionFinish",
+            "targetname" :"MainScene"
+        },
+        {
+           "action" :"delay",
+            "delaytime":"1",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"RuleLayer"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_2.png",
+            "endcall":"onClick2Close",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"RuleLayer"
+        },
+        {
+            "action":"callfunc",
+            "call":"onbtn_liveClick",
+            "targetname" :"MainScene"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"3",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"LiveGameScene"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_3.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"LiveGameScene"
+        }
+    ]
+}

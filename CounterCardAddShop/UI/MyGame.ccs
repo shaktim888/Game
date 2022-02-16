@@ -1,0 +1,134 @@
+<Solution>
+  <PropertyGroup Name="MyGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="base">
+          <File Name="HallScene.csb" />
+        </Folder>
+        <Folder Name="common">
+          <Folder Name="images" />
+          <Folder Name="sound">
+            <Audio Name="click.mp3" />
+            <Audio Name="gold.mp3" />
+          </Folder>
+          <File Name="DialogLayer.csb" />
+          <File Name="LoadingLayer.csb" />
+          <File Name="ToastLayer.csb" />
+        </Folder>
+        <Folder Name="Default">
+          <Image Name="Button_Disable.png" />
+          <Image Name="Button_Normal.png" />
+          <Image Name="Button_Press.png" />
+          <Image Name="ImageFile.png" />
+          <Image Name="Sprite.png" />
+        </Folder>
+        <Folder Name="majia">
+          <Folder Name="img">
+            <Folder Name="boss">
+              <Image Name="boss1.png" />
+              <Image Name="boss10.png" />
+              <Image Name="boss11.png" />
+              <Image Name="boss12.png" />
+              <Image Name="boss2.png" />
+              <Image Name="boss3.png" />
+              <Image Name="boss4.png" />
+              <Image Name="boss5.png" />
+              <Image Name="boss6.png" />
+              <Image Name="boss7.png" />
+              <Image Name="boss8.png" />
+              <Image Name="boss9.png" />
+            </Folder>
+            <Folder Name="gamePanel">
+              <Image Name="bgbig.png" />
+              <Image Name="btn_exit.png" />
+              <Image Name="btn_sound.png" />
+              <Image Name="btn_sound1.png" />
+              <Image Name="cardbg1.png" />
+              <Image Name="cardbg2.png" />
+              <Image Name="cardbg3.png" />
+              <Image Name="cellbg.png" />
+              <Image Name="congratulations.png" />
+              <Image Name="numberbg.png" />
+              <Image Name="numberbgsmall.png" />
+              <Image Name="select1.png" />
+            </Folder>
+            <Folder Name="hallPanel">
+              <Image Name="addgoldbg.png" />
+              <Image Name="bg.png" />
+              <Image Name="bg_select.png" />
+              <Image Name="btn_guanbi.png" />
+              <Image Name="btnbg.png" />
+              <Image Name="cellbgex.png" />
+              <Image Name="day_bg.png" />
+              <Image Name="group.png" />
+              <Image Name="item1.png" />
+              <Image Name="item2.png" />
+              <Image Name="item3.png" />
+              <Image Name="item4.png" />
+              <Image Name="item5.png" />
+              <Image Name="item6.png" />
+              <Image Name="item7.png" />
+              <Image Name="lvbg.png" />
+              <Image Name="mask.png" />
+              <Image Name="ok.png" />
+              <Image Name="Really Quit_.png" />
+              <Image Name="role.png" />
+              <Image Name="select.png" />
+              <Image Name="selectbg.png" />
+              <Image Name="unlock.png" />
+              <Image Name="upgoldbg.png" />
+            </Folder>
+            <Folder Name="hero">
+              <Image Name="hero1.png" />
+              <Image Name="hero2.png" />
+              <Image Name="hero3.png" />
+              <Image Name="hero4.png" />
+              <Image Name="hero5.png" />
+            </Folder>
+            <Folder Name="magic">
+              <Image Name="magic1.png" />
+              <Image Name="magic10.png" />
+              <Image Name="magic2.png" />
+              <Image Name="magic3.png" />
+              <Image Name="magic4.png" />
+              <Image Name="magic5.png" />
+              <Image Name="magic6.png" />
+              <Image Name="magic7.png" />
+              <Image Name="magic8.png" />
+              <Image Name="magic9.png" />
+            </Folder>
+            <Image Name="toastbg.png" />
+          </Folder>
+          <Folder Name="sound">
+            <Audio Name="bg.mp3" />
+            <Audio Name="bomb.wav" />
+            <Audio Name="gameOver.mp3" />
+            <Audio Name="harm.mp3" />
+            <Audio Name="pass.mp3" />
+            <Audio Name="selecthero.wav" />
+            <Audio Name="up.mp3" />
+          </Folder>
+          <TTF Name="font555.ttf" />
+          <File Name="ShejianGameLayer.csb" />
+          <Project Name="ShejianGameLayer.csd" Type="Node" />
+          <Project Name="ShejianGameLayer1.csd" Type="Node" />
+          <Project Name="ShejianGameLayer2.csd" Type="Node" />
+        </Folder>
+        <Folder Name="update">
+          <Folder Name="images">
+            <Image Name="bg_login.png" />
+            <Image Name="progress_bar.png" />
+            <Image Name="progress_bg.png" />
+          </Folder>
+          <File Name="UpdateScene.csb" />
+          <Project Name="UpdateScene.csd" Type="Scene" />
+        </Folder>
+        <Image Name="black.png" />
+        <Image Name="btn_play.png" />
+        <TTF Name="font.ttf" />
+        <Image Name="numberbg.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

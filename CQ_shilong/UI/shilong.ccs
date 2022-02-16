@@ -1,0 +1,106 @@
+<Solution>
+  <PropertyGroup Name="shilong" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="shilong">
+            <Folder Name="ani">
+              <Folder Name="hongbowen_effect_sj2_3fa0ff8d">
+                <Image Name="000001_png.png" />
+                <Image Name="000002_png.png" />
+                <Image Name="000003_png.png" />
+                <Image Name="000004_png.png" />
+                <Image Name="000005_png.png" />
+                <Image Name="000006_png.png" />
+                <Image Name="000007_png.png" />
+                <Image Name="000008_png.png" />
+              </Folder>
+              <Folder Name="hongxuecao_effect_sj2_186cea21">
+                <Image Name="000001_png.png" />
+                <Image Name="000002_png.png" />
+                <Image Name="000003_png.png" />
+                <Image Name="000004_png.png" />
+                <Image Name="000005_png.png" />
+                <Image Name="000006_png.png" />
+                <Image Name="000007_png.png" />
+                <Image Name="000008_png.png" />
+              </Folder>
+              <Folder Name="lanbowen_effect_sj2_d298b5ed">
+                <Image Name="000001_png.png" />
+                <Image Name="000002_png.png" />
+                <Image Name="000003_png.png" />
+                <Image Name="000004_png.png" />
+                <Image Name="000005_png.png" />
+                <Image Name="000006_png.png" />
+                <Image Name="000007_png.png" />
+                <Image Name="000008_png.png" />
+              </Folder>
+              <Folder Name="lanxuecao_effect_sj2_7e0db279">
+                <Image Name="000001_png.png" />
+                <Image Name="000002_png.png" />
+                <Image Name="000003_png.png" />
+                <Image Name="000004_png.png" />
+                <Image Name="000005_png.png" />
+                <Image Name="000006_png.png" />
+                <Image Name="000007_png.png" />
+                <Image Name="000008_png.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="blood">
+              <Image Name="main_blood_sj2_2_png.png" />
+              <Image Name="main_blood_sj2_3_png.png" />
+              <Image Name="main_down_sj2_png.png" />
+            </Folder>
+            <Folder Name="boss">
+              <Image Name="boss1.png" />
+              <Image Name="boss2.png" />
+              <Image Name="boss3.png" />
+              <Image Name="boss4.png" />
+              <Image Name="boss5.png" />
+              <Image Name="long1.png" />
+              <Image Name="long2.png" />
+              <Image Name="long3.png" />
+            </Folder>
+            <Folder Name="image">
+              <Image Name="bg.png" />
+              <Image Name="kan.png" />
+              <TTF Name="mzdzt.ttf" />
+              <Image Name="zhantai.png" />
+            </Folder>
+            <Folder Name="skill">
+              <Image Name="cooling.png" />
+              <Image Name="main_chain_png.png" />
+              <Image Name="main_shop2_png.png" />
+              <Image Name="main_title_guaji_83a64372.png" />
+              <Image Name="skill_jx_12_60_png.png" />
+              <Image Name="skill_jx_13_60_png.png" />
+              <Image Name="skill_jx_14_60_png.png" />
+              <Image Name="skill_jx_15_60_png.png" />
+            </Folder>
+            <Folder Name="skillAni">
+              <Image Name="101.png" />
+              <Image Name="102.png" />
+              <Image Name="103.png" />
+              <Image Name="104.png" />
+              <Image Name="105.png" />
+              <Image Name="106.png" />
+              <Image Name="107.png" />
+              <Image Name="108.png" />
+              <Image Name="109.png" />
+              <Image Name="110.png" />
+              <Image Name="111.png" />
+              <Image Name="112.png" />
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="boss.mp3" />
+              <Audio Name="fei.mp3" />
+              <Audio Name="long.mp3" />
+            </Folder>
+            <Project Name="ClassicScene.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

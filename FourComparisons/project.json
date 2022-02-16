@@ -1,0 +1,141 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+				"relpath" : "res/majia/img/gamePanel/gamebg.png",
+				"order" :1
+			},
+			"role" : {
+				"relpath" : "res/majia/img/startPanel/role.png",
+				"order":1
+			}
+		},
+		"game" : {
+		    "bgcommon" : {
+				"relpath" : "res/majia/img/scorePanel/gmaes_tc.png"
+			},
+			"hall_lua":{
+				"relpath" : "res/majia/ShejianGameLayer.csb"
+			},
+			"btn" : {
+				"games_gb" : {
+					"relpath" : "res/majia/img/scorePanel/games_gb.png"
+				},
+				"left" : {
+					"relpath" : "res/majia/img/helpPanel/left.png"
+				},
+				"music" : {
+					"relpath" : "res/majia/img/startPanel/music.png"
+				},
+				"musicoff" : {
+					"relpath" : "res/majia/img/startPanel/musicoff.png"
+				},
+				"right" : {
+					"relpath" : "res/majia/img/helpPanel/right.png"
+				},
+				"btn_card" : {
+					"relpath" : "res/majia/img/startPanel/btn_card.png"
+				},
+				"btn_help" : {
+					"relpath" : "res/majia/img/startPanel/btn_help.png"
+				},
+				"btn_task" : {
+					"relpath" : "res/majia/img/startPanel/btn_task.png"
+				},
+				"btn_technical" : {
+					"relpath" : "res/majia/img/startPanel/btn_web.png"
+				},
+				"btn_web" : {
+					"relpath" : "res/majia/img/startPanel/btn_technical"
+				}
+			},
+			"btn_card" : {
+				"relpath" : "res/majia/img/selectPanel/casrdbg.png"
+			},
+			"btn_common" : {
+				"relpath" : "res/majia/img/startPanel/btn_bg.png"
+			},
+			"btn_level" : {
+				"relpath" : "res/majia/img/LevelPanel/btn_level.png"
+			},
+			"btn_level1" : {
+				"relpath" : "res/majia/img/LevelPanel/btn_level1.png"
+			},
+			"help" : {
+				"helparrow" : {
+					"relpath" : "res/majia/img/helpPanel/helparrow.png"
+				},
+				"helptipbg" : {
+					"relpath" : "res/majia/img/helpPanel/helptipbg.png"
+				},
+				"imge_bt" : {
+					"relpath" : "res/majia/img/helpPanel/imge_bt.png"
+				}
+			},
+			"hero" : {
+				"card_1" : {
+					"relpath" : "res/majia/img/hero/1.png"
+				},
+				"card_2" : {
+					"relpath" : "res/majia/img/hero/2.png"
+				},
+				"card_3" : {
+					"relpath" : "res/majia/img/hero/3.png"
+				},
+				"card_4" : {
+					"relpath" : "res/majia/img/hero/4.png"
+				},
+				"card_5" : {
+					"relpath" : "res/majia/img/hero/5.png"
+				},
+				"card_6" : {
+					"relpath" : "res/majia/img/hero/6.png"
+				},
+				"card_7" : {
+					"relpath" : "res/majia/img/hero/7.png"
+				},
+				"card_8" : {
+					"relpath" : "res/majia/img/hero/8.png"
+				},
+				"card_9" : {
+					"relpath" : "res/majia/img/hero/9.png"
+				},
+				"card_10" : {
+					"relpath" : "res/majia/img/hero/10.png"
+				}
+			},
+			"select" : {
+				"bluebg" : {
+					"relpath" : "res/majia/img/selectPanel/bluebg.png"
+				},
+				"bluebgbig" : {
+					"relpath" : "res/majia/img/helpPanel/bluebgbig.png"
+				},
+				"redbgbig" : {
+					"relpath" : "res/majia/img/helpPanel/redbgbig.png"
+				}
+			},
+			"edge" : {
+				"relpath" : "res/majia/img/selectPanel/edgebg.png"
+			}
+		},
+		"common_res": {
+			"music":{
+				"relpath" : "res/majia/sound/bg.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "res/majia/img/startPanel/bg.png",
+		"produceicon_hallbgRole":"img/icon/icon.png",
+		"proto_role":"img/proto/proto.png",
+		"isL":true,
+		"dir_structure":{
+			"bg":"游戏背景",
+			"role":"人物"
+        }
+	}
+}

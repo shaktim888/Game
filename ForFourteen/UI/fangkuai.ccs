@@ -1,0 +1,108 @@
+<Solution>
+  <PropertyGroup Name="fangkuai" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="FishFor14">
+            <Folder Name="poker">
+              <Image Name="Images_Cards_Card_1_1.png" />
+              <Image Name="Images_Cards_Card_1_10.png" />
+              <Image Name="Images_Cards_Card_1_11.png" />
+              <Image Name="Images_Cards_Card_1_12.png" />
+              <Image Name="Images_Cards_Card_1_13.png" />
+              <Image Name="Images_Cards_Card_1_14.png" />
+              <Image Name="Images_Cards_Card_1_15.png" />
+              <Image Name="Images_Cards_Card_1_16.png" />
+              <Image Name="Images_Cards_Card_1_17.png" />
+              <Image Name="Images_Cards_Card_1_18.png" />
+              <Image Name="Images_Cards_Card_1_19.png" />
+              <Image Name="Images_Cards_Card_1_2.png" />
+              <Image Name="Images_Cards_Card_1_20.png" />
+              <Image Name="Images_Cards_Card_1_21.png" />
+              <Image Name="Images_Cards_Card_1_22.png" />
+              <Image Name="Images_Cards_Card_1_23.png" />
+              <Image Name="Images_Cards_Card_1_24.png" />
+              <Image Name="Images_Cards_Card_1_25.png" />
+              <Image Name="Images_Cards_Card_1_26.png" />
+              <Image Name="Images_Cards_Card_1_27.png" />
+              <Image Name="Images_Cards_Card_1_28.png" />
+              <Image Name="Images_Cards_Card_1_29.png" />
+              <Image Name="Images_Cards_Card_1_3.png" />
+              <Image Name="Images_Cards_Card_1_30.png" />
+              <Image Name="Images_Cards_Card_1_31.png" />
+              <Image Name="Images_Cards_Card_1_32.png" />
+              <Image Name="Images_Cards_Card_1_33.png" />
+              <Image Name="Images_Cards_Card_1_34.png" />
+              <Image Name="Images_Cards_Card_1_35.png" />
+              <Image Name="Images_Cards_Card_1_36.png" />
+              <Image Name="Images_Cards_Card_1_37.png" />
+              <Image Name="Images_Cards_Card_1_38.png" />
+              <Image Name="Images_Cards_Card_1_39.png" />
+              <Image Name="Images_Cards_Card_1_4.png" />
+              <Image Name="Images_Cards_Card_1_40.png" />
+              <Image Name="Images_Cards_Card_1_41.png" />
+              <Image Name="Images_Cards_Card_1_42.png" />
+              <Image Name="Images_Cards_Card_1_43.png" />
+              <Image Name="Images_Cards_Card_1_44.png" />
+              <Image Name="Images_Cards_Card_1_45.png" />
+              <Image Name="Images_Cards_Card_1_46.png" />
+              <Image Name="Images_Cards_Card_1_47.png" />
+              <Image Name="Images_Cards_Card_1_48.png" />
+              <Image Name="Images_Cards_Card_1_49.png" />
+              <Image Name="Images_Cards_Card_1_5.png" />
+              <Image Name="Images_Cards_Card_1_50.png" />
+              <Image Name="Images_Cards_Card_1_51.png" />
+              <Image Name="Images_Cards_Card_1_52.png" />
+              <Image Name="Images_Cards_Card_1_56.png" />
+              <Image Name="Images_Cards_Card_1_6.png" />
+              <Image Name="Images_Cards_Card_1_7.png" />
+              <Image Name="Images_Cards_Card_1_8.png" />
+              <Image Name="Images_Cards_Card_1_9.png" />
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="bgm.mp3" />
+              <Audio Name="Button.wav" />
+              <Audio Name="fanpai.wav" />
+              <Audio Name="kouxue.wav" />
+              <Audio Name="lose.wav" />
+              <Audio Name="miss.mp3" />
+              <Audio Name="win.wav" />
+            </Folder>
+            <Folder Name="ui2">
+              <Image Name="abandonBtn.png" />
+              <Image Name="backBtn.png" />
+              <Image Name="bg.png" />
+              <TTF Name="body.TTF" />
+              <Image Name="Design_0.png" />
+              <Image Name="Design_1.png" />
+              <Image Name="Design_2.png" />
+              <Image Name="Design_3.png" />
+              <Image Name="fishBtn.png" />
+              <Image Name="flash.png" />
+              <Image Name="Images_Cards_Card_2_56.png" />
+              <Image Name="musicBtn.png" />
+              <Image Name="musicBtn2.png" />
+              <Image Name="role.png" />
+              <Image Name="ruleBtn.png" />
+              <Image Name="startBtn.png" />
+              <Image Name="topBg.png" />
+              <Image Name="windowBg.png" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="GameScene1.csd" Type="Scene" />
+            <Project Name="LoginScene.csd" Type="Scene" />
+            <Project Name="LoginScene1.csd" Type="Scene" />
+            <Project Name="LoginScene2.csd" Type="Scene" />
+            <Project Name="LoginScene3.csd" Type="Scene" />
+            <Project Name="LoginScene4.csd" Type="Scene" />
+            <Project Name="PauseLayer.csd" Type="Layer" />
+            <Project Name="RuleLayer.csd" Type="Layer" />
+            <Project Name="TipLayer.csd" Type="Layer" />
+            <Project Name="WinLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

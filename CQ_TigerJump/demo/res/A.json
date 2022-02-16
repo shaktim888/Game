@@ -1,0 +1,59 @@
+{
+
+	"game_layer" : {
+		"bg" : {
+			"relpath" : "res/game_layer/game/tiger/image/bg.png"
+		},
+		"gameRole" : {
+			"relpath" : "res/game_layer/game/tiger/image/tiger.png"
+		},
+		"daoju":{
+			"daoju1":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_1.png"
+			},
+			"daoju2":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_2.png"
+			},
+			"daoju3":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_3.png"
+			},
+			"daoju4":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_4.png"
+			},
+			"daoju5":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_5.png"
+			},
+			"daoju6":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_6.png"
+			},
+			"daoju7":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_7.png"
+			},
+			"daoju8":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_8.png"
+			},
+			"daoju9":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_9.png"
+			},
+			"daoju10":{
+				"relpath" : "res/game_layer/game/tiger/daoju/daoju_10.png"
+			}
+		},
+		"jizi1":{
+			"relpath" : "res/game_layer/game/tiger/image/tiger_ji_1.png"
+		},
+		"jizi2":{
+			"relpath" : "res/game_layer/game/tiger/image/tiger_ji_2.png"
+		},
+		"jizi3":{
+			"relpath" : "res/game_layer/game/tiger/image/tiger_ji_3.png"
+		},
+		"jizi4":{
+			"relpath" : "res/game_layer/game/tiger/image/tiger_ji_4.png"
+		},
+		"jizi5":{
+			"relpath" : "res/game_layer/game/tiger/image/tiger_ji_5.png"
+		}
+	}
+	
+}

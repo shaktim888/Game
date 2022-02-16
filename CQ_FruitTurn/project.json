@@ -1,0 +1,112 @@
+{
+	"game_layer" : {
+		"gamebg" : {
+			"relpath" : "res/game_layer/game/FruitTurn/images/game/bg_game.png",
+			"order": 1
+		},
+		"card_back":{
+			"relpath" : "res/game_layer/game/FruitTurn/images/game/back.png"
+		},
+		"card_front":{
+			"relpath" : "res/game_layer/game/FruitTurn/images/game/front.png"
+		},
+		"fruit":{
+			"card_1":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/1.png"
+			},
+			"card_2":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/2.png"
+			},
+			"card_3":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/3.png"
+			},
+			"card_4":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/4.png"
+			},
+			"card_5":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/5.png"
+			},
+			"card_6":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/6.png"
+			},
+			"card_7":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/7.png"
+			},
+			"card_8":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/8.png"
+			},
+			"card_9":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/9.png"
+			},
+			"card_10":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/10.png"
+			},
+			"card_11":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/11.png"
+			},
+			"card_12":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/12.png"
+			},
+			"card_13":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/13.png"
+			},
+			"card_14":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/14.png"
+			},
+			"card_15":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/15.png"
+			},
+			"card_16":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/16.png"
+			},
+			"card_17":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/17.png"
+			},
+			"card_18":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/18.png"
+			},
+			"card_19":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/19.png"
+			},
+			"card_20":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/20.png"
+			},
+			"card_21":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/21.png"
+			},
+			"card_22":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/22.png"
+			},
+			"card_23":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/23.png"
+			},
+			"card_24":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/24.png"
+			},
+			"card_25":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/25.png"
+			},
+			"card_26":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/26.png"
+			},
+			"card_27":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/27.png"
+			},
+			"card_28":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/28.png"
+			},
+			"card_29":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/29.png"
+			},
+			"card_30":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/30.png"
+			},
+			"card_31":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/31.png"
+			},
+			"card_32":{
+				"relpath" : "res/game_layer/game/FruitTurn/images/game/fruit/32.png"
+			}
+		}
+	}
+}

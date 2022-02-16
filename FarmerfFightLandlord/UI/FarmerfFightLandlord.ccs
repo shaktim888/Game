@@ -1,0 +1,48 @@
+<Solution>
+  <PropertyGroup Name="FarmerfFightLandlord" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="FarmerfFightLandlord">
+            <Folder Name="image">
+              <Image Name="bg.png" />
+              <Image Name="bomb.png" />
+              <Image Name="brick.png" />
+              <Image Name="button.png" />
+              <Image Name="clone.png" />
+              <Image Name="darts.png" />
+              <Image Name="farmer.png" />
+              <Image Name="gold.png" />
+              <Image Name="hammer.png" />
+              <Image Name="hasBeenSold.png" />
+              <Image Name="landlord.png" />
+              <TTF Name="nvpk.ttf" />
+              <Image Name="pk.png" />
+              <Image Name="popbg.png" />
+              <Image Name="shop.png" />
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="bgm.mp3" />
+              <Audio Name="Button.mp3" />
+              <Audio Name="fanpai.mp3" />
+              <Audio Name="lose.mp3" />
+              <Audio Name="pick_card.mp3" />
+              <Audio Name="star3.mp3" />
+              <Audio Name="win.mp3" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="LoginScene.csd" Type="Scene" />
+            <Project Name="LoginScene1.csd" Type="Scene" />
+            <Project Name="LoginScene2.csd" Type="Scene" />
+            <Project Name="LoginScene3.csd" Type="Scene" />
+            <Project Name="LoginScene4.csd" Type="Scene" />
+            <Project Name="RuleLayer.csd" Type="Layer" />
+            <Project Name="ShopLayer.csd" Type="Layer" />
+            <Project Name="WinLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

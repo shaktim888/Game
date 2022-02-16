@@ -1,0 +1,133 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"2m2zyp",
+		"exportentry":"2m2zyp",
+		"confusepath":"src/2m2zyp/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+		        "relpath" : "src/2m2zyp/res/game/doushouqi/image/GameBG.png",
+				"order": 1
+		    },
+		    "role" : {
+			    "roleHall":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/role.png"
+		    	},
+		    	"roleIcon":{
+			        "relpath" : "img/role_icon/role_icon.png"
+				},
+				"order":1
+			}
+		},
+		"game" : {
+		    "btn" : {
+				"btn_replay":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/Replay.png"
+		    	},
+		    	"btn_rule":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/RULE.png"
+				},
+				"btn_start":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/Start.png"
+		    	}
+			},
+		    "btnGroup" :{
+		    	"btn_back":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/back.png"
+		    	},
+		    	"btn_soundClose":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/soundClose.png"
+		    	},
+		    	"btn_soundOpen":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/soundOpen.png"
+				}
+			},
+		    "cardBack":{
+		        "relpath" : "src/2m2zyp/res/game/doushouqi/image/unknow.png"
+			}, 
+			"cardBo":{
+		        "relpath" : "src/2m2zyp/res/game/doushouqi/image/selected.png"
+			},
+			"chess" :{
+		    	"huang1":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/red/0.png"
+		    	},
+		    	"huang2":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/red/1.png"
+		    	},
+		    	"huang3":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/red/2.png"
+				},
+				"huang4":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/red/3.png"
+		    	},
+		    	"huang5":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/red/4.png"
+		    	},
+		    	"huang6":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/red/5.png"
+				},
+				"huang7":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/red/6.png"
+		    	},
+		    	"huang8":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/red/7.png"
+				},
+				"lan1":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/blue/0.png"
+				},
+				"lan2":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/blue/1.png"
+				},
+				"lan3":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/blue/2.png"
+				},
+				"lan4":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/blue/3.png"
+				},
+				"lan5":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/blue/4.png"
+				},
+				"lan6":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/blue/5.png"
+				},
+				"lan7":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/blue/6.png"
+				},
+				"lan8":{
+			        "relpath" : "src/2m2zyp/res/game/doushouqi/image/blue/7.png"
+				}
+			},
+			"desktop":{
+		        "relpath" : "src/2m2zyp/res/game/doushouqi/image/desk.png"
+			}, 
+			"popBg":{
+		        "relpath" : "src/2m2zyp/res/game/doushouqi/image/popBg.png"
+			},
+			"maincsb":{
+		        "relpath" : "src/2m2zyp/res/game/doushouqi/main.csb"
+			}
+		},
+		"common_res": {
+			"sound":{
+				"relpath" : "src/2m2zyp/res/game/doushouqi/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/2m2zyp/res/game/doushouqi/image/GameBG.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+        "proto_role":"img/role_proto/role_proto.png",
+		"isL":true,
+		"dir_structure":{
+			"bg":"游戏背景",
+			"role":{
+				"role_hall":"大厅人物",
+                "role_icon":"icon人物"
+			}
+		}
+	}
+}

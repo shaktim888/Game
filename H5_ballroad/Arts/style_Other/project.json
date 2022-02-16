@@ -1,0 +1,78 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change":{
+			"role":{
+				"relpath" : "img/role_icon/role_icon.png",
+				"order" : 1
+			},
+			"bg":{
+				"relpath" : "h5_ballroad/images/level_block-sheet0.png"
+			}
+		},
+		"game" :{
+		    "body" : {
+				"finish" :{
+					"relpath" : "h5_ballroad/images/finish-sheet0.png"
+				},
+				"mirror":{
+					"relpath" : "h5_ballroad/images/mirror-sheet0.png"
+				},
+				"particles" :{
+					"relpath" : "h5_ballroad/images/particles.png"
+				},
+				"start":{
+					"relpath" : "h5_ballroad/images/start-sheet0.png"
+				}
+			},
+		    "btn" :{
+				"b_menu" :{
+					"relpath" : "h5_ballroad/images/b_menu-sheet0.png"
+				},
+				"b_next":{
+					"relpath" : "h5_ballroad/images/b_next-sheet0.png"
+				},
+				"b_play1" :{
+					"relpath" : "h5_ballroad/images/b_play-sheet0.png"
+				},
+				"b_play2":{
+					"relpath" : "h5_ballroad/images/b_play2-sheet0.png"
+				},
+				"b_restart" :{
+					"relpath" : "h5_ballroad/images/b_restart-sheet0.png"
+				},
+				"b_sound1":{
+					"relpath" : "h5_ballroad/images/b_sound-sheet0.png"
+				},
+				"b_sound2" :{
+					"relpath" : "h5_ballroad/images/b_sound-sheet1.png"
+				},
+				"b_stop":{
+					"relpath" : "h5_ballroad/images/b_stop-sheet0.png"
+				}
+			},
+			"solid_block":{
+				"relpath" : "h5_ballroad/images/solid_block-sheet0.png"
+			}
+		}
+	},
+		
+	"other" : {
+		"produceicon_hallbg": "h5_ballroad/images/level_block-sheet0.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"img/role_proto/role_proto.png",
+		"clickPos": [
+			{ "x":1250, "y":850 },
+			{ "x":1270, "y":820 },
+			{"width":1800},
+			[8000,5000,5000]
+		],
+		"isL":true,
+		"dir_structure":{
+			"bg":"关卡节点背景",
+			"role":"icon人物"
+        }
+	}
+}

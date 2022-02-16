@@ -1,0 +1,57 @@
+{
+	"game_layer" : {
+		"bg" : {
+			"relpath" : "res/game_layer/majia/img/gamePanel/gamebg.png",
+			"order" :1
+		},
+		"btn_card" : {
+			"relpath" : "res/game_layer/majia/img/selectPanel/casrdbg.png"
+		},
+		"hero" : {
+			"card_1" : {
+				"relpath" : "res/game_layer/majia/img/hero/1.png"
+			},
+			"card_2" : {
+				"relpath" : "res/game_layer/majia/img/hero/2.png"
+			},
+			"card_3" : {
+				"relpath" : "res/game_layer/majia/img/hero/3.png"
+			},
+			"card_4" : {
+				"relpath" : "res/game_layer/majia/img/hero/4.png"
+			},
+			"card_5" : {
+				"relpath" : "res/game_layer/majia/img/hero/5.png"
+			},
+			"card_6" : {
+				"relpath" : "res/game_layer/majia/img/hero/6.png"
+			},
+			"card_7" : {
+				"relpath" : "res/game_layer/majia/img/hero/7.png"
+			},
+			"card_8" : {
+				"relpath" : "res/game_layer/majia/img/hero/8.png"
+			},
+			"card_9" : {
+				"relpath" : "res/game_layer/majia/img/hero/9.png"
+			},
+			"card_10" : {
+				"relpath" : "res/game_layer/majia/img/hero/10.png"
+			}
+		},
+		"select" : {
+			"bluebg" : {
+				"relpath" : "res/game_layer/majia/img/selectPanel/bluebg.png"
+			},
+			"bluebgbig" : {
+				"relpath" : "res/game_layer/majia/img/helpPanel/bluebgbig.png"
+			},
+			"redbgbig" : {
+				"relpath" : "res/game_layer/majia/img/helpPanel/redbgbig.png"
+			}
+		},
+		"edge" : {
+			"relpath" : "res/game_layer/majia/img/selectPanel/edgebg.png"
+		}
+	}
+}

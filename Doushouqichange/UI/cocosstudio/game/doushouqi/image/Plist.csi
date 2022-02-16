@@ -1,0 +1,26 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Plist" Type="Plist" ID="5378c706-04c4-4f3f-9aa9-ab1a6636966d" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="game/doushouqi/image/unknow.png" />
+      <FilePathData Path="game/doushouqi/image/red/Cat.png" />
+      <FilePathData Path="game/doushouqi/image/red/Dog.png" />
+      <FilePathData Path="game/doushouqi/image/red/Elephant.png" />
+      <FilePathData Path="game/doushouqi/image/red/Wolf.png" />
+      <FilePathData Path="game/doushouqi/image/red/Leopard.png" />
+      <FilePathData Path="game/doushouqi/image/red/Lion.png" />
+      <FilePathData Path="game/doushouqi/image/red/Mouse.png" />
+      <FilePathData Path="game/doushouqi/image/red/Tiger.png" />
+      <FilePathData Path="game/doushouqi/image/blue/Cat.png" />
+      <FilePathData Path="game/doushouqi/image/blue/Dog.png" />
+      <FilePathData Path="game/doushouqi/image/blue/Elephant.png" />
+      <FilePathData Path="game/doushouqi/image/blue/Wolf.png" />
+      <FilePathData Path="game/doushouqi/image/blue/Leopard.png" />
+      <FilePathData Path="game/doushouqi/image/blue/Lion.png" />
+      <FilePathData Path="game/doushouqi/image/blue/Mouse.png" />
+      <FilePathData Path="game/doushouqi/image/blue/Tiger.png" />
+      <FilePathData Path="game/doushouqi/image/selected.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

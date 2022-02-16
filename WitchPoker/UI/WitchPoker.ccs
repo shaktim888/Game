@@ -1,0 +1,114 @@
+<Solution>
+  <PropertyGroup Name="WitchPoker" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="WitchPoker">
+            <Folder Name="image">
+              <Folder Name="poker">
+                <Image Name="Images_Cards_Card_2_1.png" />
+                <Image Name="Images_Cards_Card_2_10.png" />
+                <Image Name="Images_Cards_Card_2_11.png" />
+                <Image Name="Images_Cards_Card_2_12.png" />
+                <Image Name="Images_Cards_Card_2_13.png" />
+                <Image Name="Images_Cards_Card_2_14.png" />
+                <Image Name="Images_Cards_Card_2_15.png" />
+                <Image Name="Images_Cards_Card_2_16.png" />
+                <Image Name="Images_Cards_Card_2_17.png" />
+                <Image Name="Images_Cards_Card_2_18.png" />
+                <Image Name="Images_Cards_Card_2_19.png" />
+                <Image Name="Images_Cards_Card_2_2.png" />
+                <Image Name="Images_Cards_Card_2_20.png" />
+                <Image Name="Images_Cards_Card_2_21.png" />
+                <Image Name="Images_Cards_Card_2_22.png" />
+                <Image Name="Images_Cards_Card_2_23.png" />
+                <Image Name="Images_Cards_Card_2_24.png" />
+                <Image Name="Images_Cards_Card_2_25.png" />
+                <Image Name="Images_Cards_Card_2_26.png" />
+                <Image Name="Images_Cards_Card_2_27.png" />
+                <Image Name="Images_Cards_Card_2_28.png" />
+                <Image Name="Images_Cards_Card_2_29.png" />
+                <Image Name="Images_Cards_Card_2_3.png" />
+                <Image Name="Images_Cards_Card_2_30.png" />
+                <Image Name="Images_Cards_Card_2_31.png" />
+                <Image Name="Images_Cards_Card_2_32.png" />
+                <Image Name="Images_Cards_Card_2_33.png" />
+                <Image Name="Images_Cards_Card_2_34.png" />
+                <Image Name="Images_Cards_Card_2_35.png" />
+                <Image Name="Images_Cards_Card_2_36.png" />
+                <Image Name="Images_Cards_Card_2_37.png" />
+                <Image Name="Images_Cards_Card_2_38.png" />
+                <Image Name="Images_Cards_Card_2_39.png" />
+                <Image Name="Images_Cards_Card_2_4.png" />
+                <Image Name="Images_Cards_Card_2_40.png" />
+                <Image Name="Images_Cards_Card_2_41.png" />
+                <Image Name="Images_Cards_Card_2_42.png" />
+                <Image Name="Images_Cards_Card_2_43.png" />
+                <Image Name="Images_Cards_Card_2_44.png" />
+                <Image Name="Images_Cards_Card_2_45.png" />
+                <Image Name="Images_Cards_Card_2_46.png" />
+                <Image Name="Images_Cards_Card_2_47.png" />
+                <Image Name="Images_Cards_Card_2_48.png" />
+                <Image Name="Images_Cards_Card_2_49.png" />
+                <Image Name="Images_Cards_Card_2_5.png" />
+                <Image Name="Images_Cards_Card_2_50.png" />
+                <Image Name="Images_Cards_Card_2_51.png" />
+                <Image Name="Images_Cards_Card_2_52.png" />
+                <Image Name="Images_Cards_Card_2_53.png" />
+                <Image Name="Images_Cards_Card_2_54.png" />
+                <Image Name="Images_Cards_Card_2_55.png" />
+                <Image Name="Images_Cards_Card_2_56.png" />
+                <Image Name="Images_Cards_Card_2_6.png" />
+                <Image Name="Images_Cards_Card_2_7.png" />
+                <Image Name="Images_Cards_Card_2_8.png" />
+                <Image Name="Images_Cards_Card_2_9.png" />
+              </Folder>
+              <Folder Name="ui2">
+                <Image Name="beginBtn.png" />
+                <Image Name="bg.png" />
+                <Image Name="closeBtn.png" />
+                <Image Name="continueBtn.png" />
+                <Image Name="effect.png" />
+                <Image Name="exitBtn.png" />
+                <Image Name="fanhuiBtn.png" />
+                <Image Name="flash3.png" />
+                <Image Name="horizontalLine.png" />
+                <Image Name="music.png" />
+                <Image Name="pauseBtn.png" />
+                <Image Name="point.png" />
+                <Image Name="refreshBtn.png" />
+                <Image Name="role.png" />
+                <Image Name="ruleBtn.png" />
+                <Image Name="settingBtn.png" />
+                <Image Name="star.png" />
+                <Image Name="topBg.png" />
+                <Image Name="winbg.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="bgm.mp3" />
+              <Audio Name="Button.mp3" />
+              <Audio Name="fanpai.mp3" />
+              <Audio Name="lose.mp3" />
+              <Audio Name="pick_card.mp3" />
+              <Audio Name="star3.mp3" />
+              <Audio Name="win.mp3" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="LoginScene.csd" Type="Scene" />
+            <Project Name="LoginScene1.csd" Type="Scene" />
+            <Project Name="LoginScene2.csd" Type="Scene" />
+            <Project Name="LoginScene3.csd" Type="Scene" />
+            <Project Name="LoginScene4.csd" Type="Scene" />
+            <TTF Name="nvpk.ttf" />
+            <Project Name="PauseLayer.csd" Type="Layer" />
+            <Project Name="RuleLayer.csd" Type="Layer" />
+            <Project Name="SettingLayer.csd" Type="Layer" />
+            <Project Name="WinLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

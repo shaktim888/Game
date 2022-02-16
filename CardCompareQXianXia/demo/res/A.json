@@ -1,0 +1,38 @@
+{
+	"game_layer" : {
+		"card" : {
+			"card_bei" : {
+				"relpath" : "res/game_layer/game/card/card_bei.png"
+			},
+			"card_di_s" : {
+				"relpath" : "res/game_layer/game/card/card_di_s.png"
+			},
+			"card_di_sr":{
+				"relpath" : "res/game_layer/game/card/card_di_sr.png"
+			},
+			"card_di_ssr":{
+				"relpath" : "res/game_layer/game/card/card_di_ssr.png"
+			}
+		},
+		"gamebg":{
+			"relpath" : "res/game_layer/game/bg.png"
+		},
+		"card_bg" : {
+			"relpath" : "res/game_layer/game/card_bg.png"
+		},
+		"head_icon" : {
+			"relpath" : "res/game_layer/game/img_icon_bg.png"
+		},
+		"winOrLose":{
+			"img_kuang" : {
+				"relpath" : "res/game_layer/game/img_kuang.png"
+			},
+			"img_lose":{
+				"relpath" : "res/game_layer/game/img_result_lose.png"
+			},
+			"img_win":{
+				"relpath" :"res/game_layer/game/img_result_win.png"
+			}
+		}
+	}
+}

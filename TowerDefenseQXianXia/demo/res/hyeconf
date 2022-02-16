@@ -1,0 +1,30 @@
+ {
+    "eventlist":[
+        {
+           "action" :"capturescreen",
+            "savename":"grabscreen_1.png",
+            "endcall":"onBtnNewStartClick",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameStartLayer"
+        },
+         {
+            "action" :"capturescreen",
+            "savename":"grabscreen_2.png",
+            "endcall":"gotoGameByRandom",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameLevelLayer"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"1",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameSceneLayer"
+        }
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_3.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameSceneLayer"
+        }
+    ]
+}

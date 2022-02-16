@@ -1,0 +1,82 @@
+<Solution>
+  <PropertyGroup Name="LocalHyGameMJSimple" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="ligatureFootball">
+            <Folder Name="chooseLayer">
+              <Image Name="bound.png" />
+              <Image Name="lock.png" />
+              <Image Name="role.png" />
+            </Folder>
+            <Folder Name="gameAccount">
+              <Image Name="fail.png" />
+              <Image Name="pause.png" />
+              <Image Name="victory.png" />
+            </Folder>
+            <Folder Name="gamebtn">
+              <Image Name="UI_again.png" />
+              <Image Name="UI_guize.png" />
+              <Image Name="UI_menu.png" />
+              <Image Name="UI_music_1.png" />
+              <Image Name="UI_music_2.png" />
+              <Image Name="UI_next.png" />
+              <Image Name="UI_restart.png" />
+              <Image Name="UI_return.png" />
+              <Image Name="UI_shoot.png" />
+              <Image Name="UI_START.png" />
+              <Image Name="UI_stopNormal.png" />
+            </Folder>
+            <Folder Name="gameLayer">
+              <Image Name="bg.png" />
+              <Image Name="bg_scene.png" />
+              <Image Name="goal.png" />
+              <Image Name="img_pop_bg.png" />
+              <Image Name="img_text_rule.png" />
+            </Folder>
+            <Folder Name="obstacle">
+              <Image Name="ball.png" />
+              <Image Name="down.png" />
+              <Image Name="missle1.png" />
+              <Image Name="missle2.png" />
+              <Image Name="Other.png" />
+              <Image Name="send.png" />
+              <Image Name="sendin.png" />
+              <Image Name="wall.png" />
+            </Folder>
+            <Folder Name="sound">
+              <PlistImageFolder Image="buyu_paotaizidanbaozha10.png" PListFile="buyu_paotaizidanbaozha10.plist" Name=".buyu_paotaizidanbaozha10_PList.Dir">
+                <PlistImageFile Name="buyu_121232112.png" Key="buyu_121232112.png" />
+                <PlistImageFile Name="buyu_paotaibaozha1_00004.png" Key="buyu_paotaibaozha1_00004.png" />
+                <PlistImageFile Name="buyu_paotaibaozha1_00008.png" Key="buyu_paotaibaozha1_00008.png" />
+                <PlistImageFile Name="buyu_paotaibaozha1_00012.png" Key="buyu_paotaibaozha1_00012.png" />
+                <PlistImageFile Name="buyu_paotaibaozha1_00020.png" Key="buyu_paotaibaozha1_00020.png" />
+                <PlistImageFile Name="buyu_paotaibaozha1_00028.png" Key="buyu_paotaibaozha1_00028.png" />
+                <PlistImageFile Name="buyu_paotaibaozha1_00032.png" Key="buyu_paotaibaozha1_00032.png" />
+                <PlistImageFile Name="buyu_paotaibaozha1_00040.png" Key="buyu_paotaibaozha1_00040.png" />
+                <PlistImageFile Name="buyu_paotaibaozha1_00048.png" Key="buyu_paotaibaozha1_00048.png" />
+              </PlistImageFolder>
+              <Audio Name="click.wav" />
+              <Audio Name="oh.wav" />
+              <Audio Name="prop1.wav" />
+              <Audio Name="prop2.wav" />
+              <Audio Name="shoot.mp3" />
+              <Audio Name="startGame.mp3" />
+              <Audio Name="xu.wav" />
+            </Folder>
+            <Project Name="AccountLayout.csd" Type="Layer" />
+            <Project Name="ChooseLayerScene.csd" Type="Layer" />
+            <Project Name="EnemyPlayerLayer.csd" Type="Layer" />
+            <TTF Name="font.ttf" />
+            <Project Name="GameLayer.csd" Type="Layer" />
+            <Project Name="GameStartScene.csd" Type="Layer" />
+            <Project Name="GameStartScene1.csd" Type="Layer" />
+            <Project Name="GameStartScene2.csd" Type="Layer" />
+            <Project Name="RuleLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

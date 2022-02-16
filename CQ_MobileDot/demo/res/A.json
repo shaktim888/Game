@@ -1,0 +1,51 @@
+{
+	"game_layer" : {
+		"bg" : {
+			"relpath" : "res/game_layer/majia/img/BG2.png"
+		},
+		"btn" : {
+			"btnUp" : {
+				"relpath" : "res/game_layer/majia/img/byn_bianhuan.png"
+			},
+			"btnAttack" : {
+				"relpath" : "res/game_layer/majia/img/byn_fashe.png"
+			},
+			"btnRight" : {
+				"relpath" : "res/game_layer/majia/img/byn_jiantou.png"
+			}
+		},
+		"item1" : {
+			"relpath" : "res/game_layer/majia/img/card/hua1.png"
+		},
+		"item2" : {
+			"relpath" : "res/game_layer/majia/img/card/hua2.png"
+		},
+		"item3" : {
+			"relpath" : "res/game_layer/majia/img/card/hua3.png"
+		},
+		"item4" : {
+			"relpath" : "res/game_layer/majia/img/card/hua4.png"
+		},
+		"item5" : {
+			"relpath" : "res/game_layer/majia/img/card/hua5.png"
+		},
+		"item6" : {
+			"relpath" : "res/game_layer/majia/img/card/hua6.png"
+		},
+		"itemFrame1" : {
+			"relpath" : "res/game_layer/majia/img/card/pai1.png"
+		},
+		"itemFrame2" : {
+			"relpath" : "res/game_layer/majia/img/card/pai2.png"
+		},
+		"itemFrame3" : {
+			"relpath" : "res/game_layer/majia/img/card/pai3.png"
+		},
+		"itemFrame4" : {
+			"relpath" : "res/game_layer/majia/img/card/pai4.png"
+		},
+		"di" : {
+			"relpath" : "res/game_layer/majia/img/dididi.png"
+		}
+	}
+}

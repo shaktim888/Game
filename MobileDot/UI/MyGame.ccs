@@ -1,0 +1,90 @@
+<Solution>
+  <PropertyGroup Name="MyGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="base">
+          <File Name="HallScene.csb" />
+        </Folder>
+        <Folder Name="common">
+          <Folder Name="sound">
+            <Audio Name="click.mp3" />
+            <Audio Name="gold.mp3" />
+          </Folder>
+          <File Name="DialogLayer.csb" />
+          <File Name="LoadingLayer.csb" />
+          <File Name="ToastLayer.csb" />
+        </Folder>
+        <Folder Name="Default">
+          <Image Name="ImageFile.png" />
+        </Folder>
+        <Folder Name="majia">
+          <Folder Name="img">
+            <Folder Name="card">
+              <Image Name="hua1.png" />
+              <Image Name="hua2.png" />
+              <Image Name="hua3.png" />
+              <Image Name="hua4.png" />
+              <Image Name="hua5.png" />
+              <Image Name="hua6.png" />
+              <Image Name="pai1.png" />
+              <Image Name="pai2.png" />
+              <Image Name="pai3.png" />
+              <Image Name="pai4.png" />
+            </Folder>
+            <Folder Name="rem">
+              <Image Name="1.png" />
+              <Image Name="10.png" />
+              <Image Name="11.png" />
+              <Image Name="2.png" />
+              <Image Name="3.png" />
+              <Image Name="4.png" />
+              <Image Name="5.png" />
+              <Image Name="6.png" />
+              <Image Name="7.png" />
+              <Image Name="8.png" />
+              <Image Name="9.png" />
+            </Folder>
+            <Folder Name="texiao">
+              <Image Name="1.png" />
+              <Image Name="2.png" />
+              <Image Name="3.png" />
+              <Image Name="4.png" />
+              <Image Name="5.png" />
+              <Image Name="6.png" />
+              <Image Name="7.png" />
+              <Image Name="8.png" />
+            </Folder>
+            <Image Name="banmian1.png" />
+            <Image Name="BG2.png" />
+            <Image Name="btn_1.png" />
+            <Image Name="btn_2.png" />
+            <Image Name="byn_bianhuan.png" />
+            <Image Name="byn_fashe.png" />
+            <Image Name="byn_jiantou.png" />
+            <Image Name="close.png" />
+            <Image Name="dakuang.png" />
+            <Image Name="dididi.png" />
+            <Image Name="fasheta.png" />
+            <Image Name="role.png" />
+            <Image Name="score_di.png" />
+          </Folder>
+          <Audio Name="bg.mp3" />
+          <Audio Name="click.mp3" />
+          <TTF Name="font.ttf" />
+          <File Name="ShejianGameLayer.csb" />
+          <Project Name="ShejianGameLayer.csd" Type="Node" />
+          <Audio Name="xiaoshi.wav" />
+        </Folder>
+        <Folder Name="update">
+          <Folder Name="images">
+            <Image Name="bg_login.png" />
+            <Image Name="progress_bar.png" />
+            <Image Name="progress_bg.png" />
+          </Folder>
+          <File Name="UpdateScene.csb" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

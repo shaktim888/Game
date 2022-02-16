@@ -1,0 +1,36 @@
+{
+    "eventlist":[
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_1.png",
+            "endcall":"onbtnStartClick",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"Main"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"1",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"Game"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_2.png",
+            "endcall":"grabscreen",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"Game"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"1",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"Jiesuan"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_3.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"Jiesuan"
+        }
+    ]
+}

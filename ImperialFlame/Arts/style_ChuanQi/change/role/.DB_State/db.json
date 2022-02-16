@@ -1,0 +1,37 @@
+{
+  "resState": [
+    {
+      "md5": "ba5323f83737623b85fdf000ab133796",
+      "fileName": "card_1.png",
+      "lastTime": 1589448048732,
+      "useTimes": 2
+    },
+    {
+      "md5": "65efca5b64f4ef8061642416e7bdd472",
+      "fileName": "card_5.png",
+      "lastTime": 1589163823890,
+      "useTimes": 1
+    },
+    {
+      "md5": "c9f96b0315739f8cb5b4d1a36c988502",
+      "fileName": "card_4.png",
+      "lastTime": 1588993972045,
+      "useTimes": 1
+    },
+    {
+      "md5": "c6deb9cc8d21fd94f77a50bf3abba185",
+      "fileName": "card_3.png",
+      "lastTime": 1588993794511,
+      "useTimes": 1
+    },
+    {
+      "md5": "41fe1ccd4d2353b65dcca745e23d15fc",
+      "fileName": "card_2.png",
+      "lastTime": 1588993660823,
+      "useTimes": 1
+    }
+  ],
+  "canUseCount": 4,
+  "archiveTimes": 1,
+  "componentResNamePath": "Arts/style_ChuanQi/change/role"
+}

@@ -1,0 +1,115 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change" : {
+			"bg":{
+				"relpath" : "h5_fanCubes/images/bg_menu-sheet0.png",
+				"order" : 1
+			},
+			"role":{
+				"relpath" : "img/role_icon/role_icon.png",
+				"order" : 1
+			}
+		},
+		"game" : {
+			"button1":{
+				"btn_easy":{
+					"relpath" : "h5_fanCubes/images/btn_easy-sheet0.png"
+				},
+				"btn_hard":{
+					"relpath" : "h5_fanCubes/images/btn_hard-sheet0.png"
+				},
+				"btn_medium":{
+					"relpath" : "h5_fanCubes/images/btn_medium-sheet0.png"
+				},
+				"btn_play":{
+					"relpath" : "h5_fanCubes/images/btn_play-sheet0.png"
+				},
+				"btn_restart":{
+					"relpath" : "h5_fanCubes/images/btn_restart_long-sheet0.png"
+				}		
+			},
+			"button2":{
+				"btn_info":{
+					"relpath" : "h5_fanCubes/images/btn_info-sheet0.png"
+				},
+				"btn_menu":{
+					"relpath" : "h5_fanCubes/images/btn_menu-sheet0.png"
+				},
+				"btn_music1":{
+					"relpath" : "h5_fanCubes/images/btn_music-sheet0.png"
+				},
+				"btn_music2":{
+					"relpath" : "h5_fanCubes/images/btn_music-sheet1.png"
+				},
+				"btn_restart":{
+					"relpath" : "h5_fanCubes/images/btn_restart-sheet0.png"
+				},
+				"btn_resume":{
+					"relpath" : "h5_fanCubes/images/btn_resume-sheet0.png"
+				},
+				"btn_sound1":{
+					"relpath" : "h5_fanCubes/images/btn_sound-sheet0.png"
+				},
+				"btn_sound2":{
+					"relpath" : "h5_fanCubes/images/btn_sound-sheet1.png"
+				}	
+			},
+			"gameNode":{
+				"header_sheet":{
+					"relpath" : "h5_fanCubes/images/header-sheet0.png"
+				},
+				"load_bar_sheet":{
+					"relpath" : "h5_fanCubes/images/load_bar-sheet0.png"
+				},
+				"tile_sheet":{
+					"relpath" : "h5_fanCubes/images/tile-sheet0.png"
+				}
+			},
+			"btn_exit":{
+				"relpath" : "h5_fanCubes/images/btn_exit-sheet0.png"
+			},
+			"gamebg":{
+				"relpath" : "h5_fanCubes/images/frame-sheet0.png"
+			},
+			"jiesuanbg":{
+				"relpath" : "h5_fanCubes/images/slice03_-sheet0.png"
+			},
+			"logo":{
+				"font_number":{
+					"relpath" : "h5_fanCubes/images/font_number.png"
+				},
+				"loading_logo":{
+					"relpath" : "h5_fanCubes/loading-logo.png"
+				},
+				"obj_sheet0":{
+					"relpath" : "h5_fanCubes/images/obj-sheet0.png"
+				},
+				"obj_sheet1":{
+					"relpath" : "h5_fanCubes/images/obj-sheet1.png"
+				},
+				"obj_sheet2":{
+					"relpath" : "h5_fanCubes/images/obj-sheet2.png"
+				}	
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "h5_fanCubes/images/bg_menu-sheet0.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"img/role_proto/role_proto.png",
+		"isL":false,
+		"clickPos": [
+			{ "x":1300, "y":840 },
+			{ "x":1300, "y":700 },
+			{"width":1380},
+			[8000, 5000, 5000]
+		],
+		"dir_structure":{
+			"bg":"背景",
+			"role":"icon人物"
+        }
+	}
+}

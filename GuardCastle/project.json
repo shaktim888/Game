@@ -1,0 +1,82 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"Plribq",
+		"exportentry":"Plribq",
+		"confusepath":"src/Plribq/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+		        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/bg_game.png",
+				"order": 1
+		    },
+		    "role" : {
+			    "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/role.png",
+				"order": 1
+			}
+		},
+		"other" : {
+			"castle" : {
+			    "relpath" : "src/Plribq/res/game/GuardCastle/images/game/castle.png",
+				"order": 1
+			},
+		    "btnCommon" : {
+		        "relpath" : "src/Plribq/res/game/GuardCastle/images/popBg/btn_commo.png"
+			},
+		    "btnGroup" :{
+		    	"btnPause":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/btnPause.png"
+		    	},
+		    	"but_off":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/but_off.png"
+		    	},
+		    	"but_on":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/but_on.png"
+				},
+				"btnPlay":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/hall/playbutton-sheet0.png"
+		    	},
+		    	"btnSkill":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/skill-sheet0.png"
+		    	}
+			},
+			"gameRole" :{
+		    	"monster_1":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/monster_1.png"
+		    	},
+		    	"monster_2":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/monster_2.png"
+		    	},
+		    	"monster_3":{
+			        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/monster_3.png"
+		    	}
+		    },
+		    "ghost":{
+		        "relpath" : "src/Plribq/res/game/GuardCastle/images/game/ghost.png"
+			}, 
+			"popBg":{
+		        "relpath" : "src/Plribq/res/game/GuardCastle/images/popBg/dialogs-sheet1.png"
+		    }
+		},
+		"common_res": {
+			"font":{
+				"relpath" : "src/Plribq/res/game/GuardCastle/nvpk.ttf"
+			},
+			"sound":{
+				"relpath" : "src/Plribq/res/game/GuardCastle/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/Plribq/res/game/GuardCastle/images/game/bg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"isL":true,
+		"proto_role":"src/Plribq/res/game/GuardCastle/images/hall/role.png",
+		"dir_structure":{
+			"bg":"游戏背景",
+			"role":"人物"
+		}
+	}
+}

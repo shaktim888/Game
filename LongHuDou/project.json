@@ -1,0 +1,139 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"9qiTcX",
+		"exportentry":"random",
+		"confusepath":"src/9qiTcX/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+		        "relpath" : "src/9qiTcX/res/game/LongHuDou/images/hall/bg_game.png",
+				"order": 1
+		    }
+		},
+		"other" : {
+		    "btnCommon" : {
+		        "relpath" : "src/9qiTcX/res/game/LongHuDou/images/hall/btn.png"
+		    },
+			"btnIcon":{
+				"btnContine":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/but_continue.png"
+				},
+				"btnHome":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/popBg/but_home.png"
+				},
+				"btnClose":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/popBg/btn_start.png"
+				},
+				"btnSoundClose":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/hall/but_off.png"
+				},
+				"btnSound":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/hall/but_on.png"
+				},
+				"btnHelp":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/hall/but_help.png"
+				},
+				"btnExit":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/but_exit.png"
+				},
+				"btnRestart":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/popBg/but_restart.png"
+				}
+			},
+			"btnYesNo" : {
+		        "btnYes":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/popBg/but_yes.png"
+				},
+				"btnNo":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/popBg/but_no.png"
+				}
+			},
+			"level":{
+				"levelBg":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/level/level_on.png"
+				},
+				"levelLock":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/level/level_off.png"
+				}
+			},
+			"popBg":{
+				"relpath" : "src/9qiTcX/res/game/LongHuDou/images/popBg/msg_box.png"
+			},
+			"select":{
+				"selectBg":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/hall/select.png"
+				},
+				"selectClick":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/hall/selectClick.png"
+				}
+			}
+		},
+		"game":{
+            "longHu":{
+               "long":{
+                   "relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/VSDragon_long.png"
+               },
+               "hu":{
+                   "relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/VSDragon_lh.png"
+               },
+               "order": 1
+             },
+			"btnAD":{
+				"btnAttack":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/btnAttack.png"
+				},
+				"btnAttackEabled":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/btnAttackEnabled.png"
+				},
+				"btnDefense":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/btnDefense.png"
+				},
+				"btnDefenseEable":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/btnDefenseEnabled.png"
+				}
+			},
+			"hp":{
+				"hp":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/lifebartiledelves.png"
+				},
+				"hpBg":{
+					"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/bloodBar.png"
+				}
+			},
+			"kill":{
+				"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/knifeLight.png"
+			},
+			"vsEffect":{
+				"relpath" : "src/9qiTcX/res/game/LongHuDou/images/hall/pkEffect.png"
+			},
+			"weaponHu":{
+				"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/weaponHu.png"
+			},
+			"weaponLong":{
+				"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/weaponLong.png"
+			},
+			"yun":{
+				"relpath" : "src/9qiTcX/res/game/LongHuDou/images/game/yun1.png"
+			}
+		},
+		"common_res": {
+			"font":{
+				"relpath" : "src/9qiTcX/res/game/LongHuDou/images/font/fish.ttf"
+			},
+			"sound":{
+				"relpath" : "src/9qiTcX/res/game/LongHuDou/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"dir_structure":{
+			"bg":"游戏背景",
+            "longHu":"龙虎"
+		},
+		"isL":true,
+		"proto_role":"src/9qiTcX/res/game/LongHuDou/images/game/VSDragon_long.png"
+	}
+}

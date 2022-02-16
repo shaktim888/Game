@@ -1,0 +1,103 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+				"relpath" : "res/majia/img/BG2.png",
+				"order": 1
+			},
+			"role":{
+				"relpath" : "res/majia/img/role.png",
+				"order": 1
+			}
+		},
+		"game" : {
+		    "bgcommon" : {
+				"relpath" : "res/majia/img/banmian1.png"
+			}, 
+			"bgdakuang" : {
+				"relpath" : "res/majia/img/dakuang.png"
+			},
+			"bgscore" : {
+				"relpath" : "res/majia/img/score_di.png"
+			},
+			"btn" : {
+				"byn_bianhuan" : {
+					"relpath" : "res/majia/img/byn_bianhuan.png"
+				},
+				"byn_fashe" : {
+					"relpath" : "res/majia/img/byn_fashe.png"
+				},
+				"byn_jiantou" : {
+					"relpath" : "res/majia/img/byn_jiantou.png"
+				}
+			},
+			"btn_close" : {
+				"relpath" : "res/majia/img/close.png"
+			},
+			"btn_help" : {
+				"relpath" : "res/majia/img/btn_1.png"
+			},
+			"btn_start" : {
+				"relpath" : "res/majia/img/btn_2.png"
+			},
+			"card" : {
+				"hua1" : {
+					"relpath" : "res/majia/img/card/hua1.png"
+				},
+				"hua2" : {
+					"relpath" : "res/majia/img/card/hua2.png"
+				},
+				"hua3" : {
+					"relpath" : "res/majia/img/card/hua3.png"
+				},
+				"hua4" : {
+					"relpath" : "res/majia/img/card/hua4.png"
+				},
+				"hua5" : {
+					"relpath" : "res/majia/img/card/hua5.png"
+				},
+				"hua6" : {
+					"relpath" : "res/majia/img/card/hua6.png"
+				},
+				"pai1" : {
+					"relpath" : "res/majia/img/card/pai1.png"
+				},
+				"pai2" : {
+					"relpath" : "res/majia/img/card/pai2.png"
+				},
+				"pai3" : {
+					"relpath" : "res/majia/img/card/pai3.png"
+				},
+				"pai4" : {
+					"relpath" : "res/majia/img/card/pai4.png"
+				}
+			},
+			"di" : {
+				"relpath" : "res/majia/img/dididi.png"
+			}
+		},
+		"common_res": {
+			"sound":{
+				"relpath" : "res/majia/bg.mp3"
+			}
+		}
+	},
+	"other" : {
+		"fnt_color_range" : [[0,0,0],[255,255,255]],
+        "gameconfigPath": "src/config.lua",
+		"produceicon_hallbg": "",
+        "produceicon_hallbgRole":"",
+        "proto_role":"",
+        "assign_game_style": "style1",
+		"addrandomcode":true,
+		"isL":true,
+		"dir_structure":{
+			"bghall":"大厅背景",
+            "bggame":"游戏背景",
+			"role":"人物"
+        }
+	}
+}

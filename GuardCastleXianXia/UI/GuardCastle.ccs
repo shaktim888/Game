@@ -1,0 +1,99 @@
+<Solution>
+  <PropertyGroup Name="GuardCastle" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="GuardCastle">
+            <Folder Name="images">
+              <Folder Name="font">
+                <TTF Name="font.ttf" />
+              </Folder>
+              <Folder Name="game">
+                <Folder Name="btn">
+                  <Image Name="btnBack.png" />
+                  <Image Name="btnPause.png" />
+                  <Image Name="btnRule.png" />
+                </Folder>
+                <Folder Name="head">
+                  <Image Name="head.png" />
+                </Folder>
+                <Image Name="arrow_1.png" />
+                <Image Name="arrow_2.png" />
+                <Image Name="btnBigKill.png" />
+                <Image Name="btnPause.png" />
+                <Image Name="castle.png" />
+                <Image Name="gamebg.png" />
+                <Image Name="ghost.png" />
+                <Image Name="monster_1.png" />
+                <Image Name="monster_2.png" />
+                <Image Name="monster_3.png" />
+                <PlistParticleFile Name="pao.plist" />
+                <Image Name="res_1.png" />
+                <Image Name="res_2.png" />
+                <Image Name="skill-sheet0.png" />
+                <PlistParticleFile Name="SmokeB001_2.plist" />
+                <PlistParticleFile Name="yanwu.plist" />
+              </Folder>
+              <Folder Name="hall">
+                <Image Name="bestFrame.png" />
+                <Image Name="btnStart.png" />
+                <Image Name="but_off.png" />
+                <Image Name="but_on.png" />
+                <Image Name="hallbg.png" />
+                <Image Name="role.png" />
+              </Folder>
+              <Folder Name="popBg">
+                <Image Name="btnSmall.png" />
+                <Image Name="Over.png" />
+              </Folder>
+              <Folder Name="select">
+                <Image Name="btnMan.png" />
+                <Image Name="btnWoman.png" />
+                <Image Name="dz1.png" />
+                <Image Name="head_1.png" />
+                <Image Name="head_2.png" />
+                <Image Name="jinruyouxi.png" />
+                <Image Name="role_1.png" />
+                <Image Name="role_2.png" />
+                <Image Name="select.png" />
+                <Image Name="shurumingcheng.png" />
+                <Image Name="tuozi.png" />
+                <Image Name="yun.png" />
+              </Folder>
+              <Folder Name="win">
+                <Image Name="k1.png" />
+                <Image Name="mingchengkuang .png" />
+                <Image Name="text1.png" />
+                <Image Name="text2.png" />
+                <Image Name="title.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="arrow.mp3" />
+              <PlistParticleFile Name="arrow.plist" />
+              <Audio Name="attackArrow.mp3" />
+              <Audio Name="attackSword.mp3" />
+              <Audio Name="bgm.mp3" />
+              <Audio Name="bigSkill.mp3" />
+              <Audio Name="castledamage.mp3" />
+              <Audio Name="click.mp3" />
+              <Audio Name="enemydamage.mp3" />
+              <Audio Name="game_over.mp3" />
+              <File Name="particle_texture.json" />
+              <Audio Name="win.mp3" />
+            </Folder>
+            <Folder Name="txt">
+              <File Name="name.txt" />
+            </Folder>
+            <Project Name="Game.csd" Type="Scene" />
+            <Project Name="Main.csd" Type="Scene" />
+            <Project Name="Pause.csd" Type="Layer" />
+            <Project Name="Rule.csd" Type="Layer" />
+            <Project Name="WinMsg.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

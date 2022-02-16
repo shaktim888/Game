@@ -1,0 +1,183 @@
+<Solution>
+  <PropertyGroup Name="luaWrap" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="image">
+          <Folder Name="help">
+            <Image Name="bg.png" />
+            <Image Name="close.png" />
+            <Image Name="compare.png" />
+            <Image Name="daxiaotext.png" />
+            <Image Name="gotit.png" />
+            <Image Name="helpTitle.png" />
+            <Image Name="heng.png" />
+            <Image Name="lan1.png" />
+            <Image Name="lan2.png" />
+            <Image Name="lan3.png" />
+            <Image Name="lv1.png" />
+            <Image Name="lv2.png" />
+            <Image Name="lv3.png" />
+            <Image Name="previous.png" />
+            <Image Name="quan.png" />
+            <Image Name="same.png" />
+            <Image Name="sametext.png" />
+            <Image Name="tonghua.png" />
+            <Image Name="tonghuatext.png" />
+            <Image Name="xiongleft.png" />
+            <Image Name="xiongright.png" />
+          </Folder>
+          <Folder Name="lose">
+            <Image Name="bg.png" />
+            <Image Name="jia.png" />
+            <Image Name="jinbi.png" />
+            <Image Name="lost.png" />
+            <Image Name="mengban.png" />
+            <Image Name="next.png" />
+            <Image Name="one.png" />
+            <Image Name="pax.png" />
+            <Image Name="qiu.png" />
+            <Image Name="title.png" />
+            <Image Name="xiong.png" />
+            <Image Name="yifu.png" />
+            <Image Name="yifu2.png" />
+            <Image Name="ying.png" />
+            <Image Name="yu.png" />
+          </Folder>
+          <Folder Name="play">
+            <Image Name="bg.png" />
+            <Image Name="Bringalong1.png" />
+            <Image Name="Bringalong2.png" />
+            <Image Name="Bringalong3.png" />
+            <Image Name="Bringalong4.png" />
+            <Image Name="fanhui.png" />
+            <Image Name="Final.png" />
+            <Image Name="Groupstage1.png" />
+            <Image Name="Groupstage2.png" />
+            <Image Name="Groupstage3.png" />
+            <Image Name="help.png" />
+            <Image Name="hg.png" />
+            <Image Name="mengban.png" />
+            <Image Name="pass.png" />
+            <Image Name="pass2.png" />
+            <Image Name="pax.png" />
+            <Image Name="pokerbg.png" />
+            <Image Name="Quarterfinal.png" />
+            <Image Name="SemiFinals.png" />
+            <Image Name="vs.png" />
+            <Image Name="ying.png" />
+            <Image Name="yinyue.png" />
+            <Image Name="zq.png" />
+            <Image Name="zq2.png" />
+            <Image Name="zqbar.png" />
+          </Folder>
+          <Folder Name="poker">
+            <Image Name="bei.png" />
+            <Image Name="fangkuai10.png" />
+            <Image Name="fangkuai2.png" />
+            <Image Name="fangkuai3.png" />
+            <Image Name="fangkuai4.png" />
+            <Image Name="fangkuai5.png" />
+            <Image Name="fangkuai6.png" />
+            <Image Name="fangkuai7.png" />
+            <Image Name="fangkuai8.png" />
+            <Image Name="fangkuai9.png" />
+            <Image Name="fangkuaia.png" />
+            <Image Name="fangkuaij.png" />
+            <Image Name="fangkuaik.png" />
+            <Image Name="fangkuaiq.png" />
+            <Image Name="heitao10.png" />
+            <Image Name="heitao2.png" />
+            <Image Name="heitao3.png" />
+            <Image Name="heitao4.png" />
+            <Image Name="heitao5.png" />
+            <Image Name="heitao6.png" />
+            <Image Name="heitao7.png" />
+            <Image Name="heitao8.png" />
+            <Image Name="heitao9.png" />
+            <Image Name="heitaoa.png" />
+            <Image Name="heitaoj.png" />
+            <Image Name="heitaok.png" />
+            <Image Name="heitaoq.png" />
+            <Image Name="hongxin10.png" />
+            <Image Name="hongxin2.png" />
+            <Image Name="hongxin3.png" />
+            <Image Name="hongxin4.png" />
+            <Image Name="hongxin5.png" />
+            <Image Name="hongxin6.png" />
+            <Image Name="hongxin7.png" />
+            <Image Name="hongxin8.png" />
+            <Image Name="hongxin9.png" />
+            <Image Name="hongxina.png" />
+            <Image Name="hongxinj.png" />
+            <Image Name="hongxink.png" />
+            <Image Name="hongxinq.png" />
+            <Image Name="meihua10.png" />
+            <Image Name="meihua2.png" />
+            <Image Name="meihua3.png" />
+            <Image Name="meihua4.png" />
+            <Image Name="meihua5.png" />
+            <Image Name="meihua6.png" />
+            <Image Name="meihua7.png" />
+            <Image Name="meihua8.png" />
+            <Image Name="meihua9.png" />
+            <Image Name="meihuaa.png" />
+            <Image Name="meihuaj.png" />
+            <Image Name="meihuak.png" />
+            <Image Name="meihuaq.png" />
+          </Folder>
+          <Folder Name="set">
+            <Image Name="bg.png" />
+            <Image Name="close.png" />
+            <Image Name="Effects.png" />
+            <Image Name="guan.png" />
+            <Image Name="kai.png" />
+            <Image Name="kgbg.png" />
+            <Image Name="Music.png" />
+            <Image Name="title.png" />
+          </Folder>
+          <Folder Name="start">
+            <Image Name="bg.png" />
+            <Image Name="btnStart.png" />
+            <Image Name="icon.png" />
+            <Image Name="help.png" />
+            <Image Name="Options.png" />
+            <Image Name="xiong.png" />
+            <Image Name="ying.png" />
+          </Folder>
+          <Folder Name="win">
+            <Image Name="10.png" />
+            <Image Name="bg.png" />
+            <Image Name="jia.png" />
+            <Image Name="jinbi.png" />
+            <Image Name="next.png" />
+            <Image Name="pax.png" />
+            <Image Name="qiu.png" />
+            <Image Name="stars.png" />
+            <Image Name="title.png" />
+            <Image Name="xiong.png" />
+            <Image Name="yifu.png" />
+            <Image Name="yifu2.png" />
+            <Image Name="ying.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="zqmp3">
+          <Audio Name="button.mp3" />
+          <Audio Name="lose.mp3" />
+          <Audio Name="music.mp3" />
+          <Audio Name="sendpoker.mp3" />
+          <Audio Name="win.mp3" />
+        </Folder>
+        <Project Name="Help.csd" Type="Node" />
+        <Project Name="Loading.csd" Type="Node" />
+        <Project Name="Lose.csd" Type="Node" />
+        <Project Name="Play.csd" Type="Node" />
+        <Project Name="Set.csd" Type="Node" />
+        <Project Name="Start.csd" Type="Node" />
+        <Project Name="Start_0.csd" Type="Node" />
+        <Project Name="Start_1.csd" Type="Node" />
+        <Project Name="Win.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

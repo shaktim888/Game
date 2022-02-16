@@ -1,0 +1,34 @@
+{
+	"game_layer" : {
+		"gameBg" : {
+			"relpath" : "res/game_layer/game/tiger/image/bg.png"
+		},
+		"item":{
+			"item1" : {
+				"relpath" : "res/game_layer/game/tiger/image/qiandai.png"
+			},
+			"item2":{
+				"relpath" : "res/game_layer/game/tiger/image/zhubao.png"
+			}
+		},
+		"over" : {
+			"win" : {
+				"relpath" : "res/game_layer/game/tiger/image/jie.png"
+			},
+			"lose":{
+				"relpath" : "res/game_layer/game/tiger/image/jie2.png"
+			}
+		},
+		"overItemFrame":{
+			"relpath" : "res/game_layer/game/tiger/image/overItemFrame.png"
+		},
+		"springboard":{
+			"relpath" : "res/game_layer/game/tiger/image/tiger_ji_1.png"
+		},
+		"tiger" : {
+			"relpath" : "res/game_layer/game/tiger/image/tiger_1.png"
+			
+		}
+		
+	}
+}

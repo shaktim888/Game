@@ -1,0 +1,53 @@
+<Solution>
+  <PropertyGroup Name="shilong" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="shilong">
+            <Folder Name="boss">
+              <Image Name="boss1.png" />
+              <Image Name="boss2.png" />
+              <Image Name="boss3.png" />
+              <Image Name="boss4.png" />
+              <Image Name="boss5.png" />
+              <Image Name="long1.png" />
+              <Image Name="long2.png" />
+              <Image Name="long3.png" />
+            </Folder>
+            <Folder Name="image">
+              <Image Name="aixin.png" />
+              <Image Name="BG.png" />
+              <Image Name="btn.png" />
+              <Image Name="fanhui.png" />
+              <Image Name="huobi.png" />
+              <Image Name="kan.png" />
+              <TTF Name="mzdzt.ttf" />
+              <Image Name="role.png" />
+              <Image Name="shezhi.png" />
+              <Image Name="tc.png" />
+              <Image Name="tiao1.png" />
+              <Image Name="tiao2.png" />
+              <Image Name="tiao3.png" />
+              <Image Name="zhantai.png" />
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="boss.mp3" />
+              <Audio Name="fei.mp3" />
+              <Audio Name="long.mp3" />
+            </Folder>
+            <Project Name="ClassicScene.csd" Type="Scene" />
+            <Project Name="JiesuanLayer.csd" Type="Layer" />
+            <Project Name="MainScene.csd" Type="Scene" />
+            <Project Name="MainScene1.csd" Type="Scene" />
+            <Project Name="MainScene2.csd" Type="Scene" />
+            <Project Name="MainScene3.csd" Type="Scene" />
+            <Project Name="MainScene4.csd" Type="Scene" />
+            <Project Name="setting.csd" Type="Layer" />
+            <Project Name="SurvivalScene.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

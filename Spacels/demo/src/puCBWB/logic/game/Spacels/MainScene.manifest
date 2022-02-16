@@ -1,0 +1,4 @@
+return {
+    "game/Spacels/mainView.lua",
+    "game/Spacels/setting.lua"
+}

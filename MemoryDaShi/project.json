@@ -1,0 +1,82 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"VxhNdb",
+		"exportentry":"random",
+		"confusepath":"src/VxhNdb/"
+	},
+	"modules" : {
+		"change" : {
+			 "bg" : {
+				"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/bg.png",
+				"order": 1
+			},
+			"role":{
+				"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/woman.png",
+				"order": 1
+			}
+		},
+		"game" : {
+			"btn" : {
+				"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/btn.png"
+			},
+			"btn_back" : {
+				"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/btn_back.png"
+			},
+			"btn_set" : {
+				"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/btn_set.png"
+			},
+		    "popbg" : {
+		        "relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/bg2.png"
+			},
+		    "winBg" : {
+		        "relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/winBg.png"
+			},
+		    "cardBg" : {
+		        "relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/cardBg.png"
+			},
+			"poker":{
+				"3_1":{
+					"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/3_1.png"
+				},
+				"3_2":{
+					"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/3_2.png"
+				},
+				"4_1":{
+					"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/4_1.png"
+				},
+				"4_2":{
+					"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/4_2.png"
+				},
+				"5_1":{
+					"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/5_1.png"
+				},
+				"5_2":{
+					"relpath" : "src/VxhNdb/res/game/DiamondMemory/ui/5_2.png"
+				}
+			}
+		},
+		"hall":{
+			"halllayoutlua":{
+				"relpath" : "src/VxhNdb/res/game/DiamondMemory/login.lua"
+			}
+		},
+		"common_res":{
+			"sound":{
+				"relpath" : "src/VxhNdb/res/game/DiamondMemory/sound/bgm.mp3"
+			}
+		}
+	},
+
+	"other" : {
+		"produceicon_hallbg": "src/VxhNdb/res/game/DiamondMemory/ui/bg.png",
+		"isL":true,
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":"大厅人物"
+        }
+	}
+
+
+}

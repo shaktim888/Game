@@ -1,0 +1,103 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"ojgRAL",
+		"exportentry":"random",
+		"confusepath":"src/ojgRAL/"
+	},
+	"modules" : {
+		"change" : {
+			"role":{
+			    "relpath" : "src/ojgRAL/res/game/chuangchuang/images/role.png",
+				"order" : 1
+			}, 
+			"bg" : {
+				"relpath" : "src/ojgRAL/res/game/chuangchuang/images/bg.png",
+				"order" : 1
+			}
+		},
+		"hall" : {
+			"hall_btn" : {
+		        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/btn.png"
+			},
+		    "popbg" : {
+		        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/PopBG.png"
+			},
+		    "hallbtns" :{
+		    	"btn_back":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/fanhui.png"
+		    	},
+		    	"btn_set":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/shezhi.png"
+		    	}
+		    },
+		   
+			"halllayoutlua":{
+				"relpath" : "src/ojgRAL/res/game/chuangchuang/enter.lua"
+			}
+		},
+		"game":{
+			"bottom":{
+				"relpath" : "src/ojgRAL/res/game/chuangchuang/images/bottom.png"
+			},
+			"knife":{
+				"relpath" : "src/ojgRAL/res/game/chuangchuang/images/gunzi.png"
+			},
+			"monster":{
+				"monster1":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/1.png"
+		    	},
+				"monster2":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/2.png"
+		    	},
+				"monster3":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/3.png"
+		    	},
+				"monster4":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/4.png"
+		    	},
+				"monster5":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/5.png"
+		    	},
+				"monster6":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/6.png"
+		    	},
+				"monster7":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/7.png"
+		    	},
+				"monster8":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/8.png"
+		    	},
+				"monster9":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/9.png"
+		    	},
+				"monster10":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/food/10.png"
+		    	}
+			},
+			"music":{
+				"loadingbar":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/loadingbar.png"
+		    	},
+				"loadingbar2":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/loadingbar2.png"
+		    	},
+				"loadingbarBall":{
+			        "relpath" : "src/ojgRAL/res/game/chuangchuang/images/loadingbarBall.png"
+		    	}
+			}
+		},
+		"common_res": {
+			"font_en":{
+				"relpath" : "src/ojgRAL/res/game/chuangchuang/images/hwxk.ttf"
+			},
+			"sound":{
+				"relpath" : "src/ojgRAL/res/game/chuangchuang/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"isL": false
+	}
+}

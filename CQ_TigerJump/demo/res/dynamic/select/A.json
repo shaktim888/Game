@@ -1,0 +1,120 @@
+{
+	"select":{
+		"layout2" : {
+			"btn_start":{
+				"relpath" : "res/dynamic/select/res/btn_start.png"
+			},
+			"btnJob":{
+				"btn1_0":{
+					"relpath" : "res/dynamic/select/btn/daoshitubiao1.png"
+				},
+				"btn1_1":{
+					"relpath" : "res/dynamic/select/btn/daoshitubiao2.png"
+				},
+				"btn2_0":{
+					"relpath" : "res/dynamic/select/btn/fashitubiao1.png"
+				},
+				"btn2_1":{
+					"relpath" : "res/dynamic/select/btn/fashitubiao2.png"
+				},
+				"btn3_0":{
+					"relpath" : "res/dynamic/select/btn/zhanshitubiao1.png"
+				},
+				"btn3_1":{
+					"relpath" : "res/dynamic/select/btn/zhanshitubiao2.png"
+				}
+			},
+			"btnSex":{
+				"btnMan":{
+					"relpath" : "res/dynamic/select/btn/btnMan.png"
+				},
+				"btnMan1":{
+					"relpath" : "res/dynamic/select/btn/btnSexIcon_1.png"
+				},
+				"btnWoman":{
+					"relpath" : "res/dynamic/select/btn/btnWoman.png"
+				},
+				"btnWoman1":{
+					"relpath" : "res/dynamic/select/btn/btnSexIcon2.png"
+				}
+			},
+			"createRole":{
+				"relpath" : "res/dynamic/select/res/chuangjianjuese.png"
+			},
+			"nameText":{
+				"relpath" : "res/dynamic/select/res/shurumingcheng.png"
+			},
+			"tuozi":{
+				"relpath" : "res/dynamic/select/res/tuozi.png"
+			},
+			"dec":{
+				"dec1":{
+					"relpath" : "res/dynamic/select/job/dec_1.png"
+				},
+				"dec2":{
+					"relpath" : "res/dynamic/select/job/dec_2.png"
+				},
+				"dec3":{
+					"relpath" : "res/dynamic/select/job/dec_3.png"
+				}
+			}
+		}
+	},
+	"Special":{
+		"type":{
+			"select_bg":{
+				"relpath" : "res/dynamic/select/res/bg.png"
+			},
+			"select_role_1_0":{
+				"role":{
+					"relpath" : "res/dynamic/select/job/huoban_1_0.png"
+				},
+				"head":{
+					"relpath" : "res/dynamic/select/job/head_1_0.png"
+				}
+			},
+			"select_role_1_1":{
+				"role":{
+					"relpath" : "res/dynamic/select/job/huoban_1_1.png"
+				},
+				"head":{
+					"relpath" : "res/dynamic/select/job/head_1_1.png"
+				}
+			},
+			"select_role_2_0":{
+				"role":{
+					"relpath" : "res/dynamic/select/job/huoban_2_0.png"
+				},
+				"head":{
+					"relpath" : "res/dynamic/select/job/head_2_0.png"
+				}
+			},
+			"select_role_2_1":{
+				"role":{
+					"relpath" : "res/dynamic/select/job/huoban_2_1.png"
+				},
+				"head":{
+					"relpath" : "res/dynamic/select/job/head_2_1.png"
+				}
+			},
+			"select_role_3_0":{
+				"role":{
+					"relpath" : "res/dynamic/select/job/huoban_3_0.png"
+				},
+				"head":{
+					"relpath" : "res/dynamic/select/job/head_3_0.png"
+				}
+			},
+			"select_role_3_1":{
+				"role":{
+					"relpath" : "res/dynamic/select/job/huoban_3_1.png"
+				},
+				"head":{
+					"relpath" : "res/dynamic/select/job/head_3_1.png"
+				}
+			}
+		}
+		
+	}	
+	
+}

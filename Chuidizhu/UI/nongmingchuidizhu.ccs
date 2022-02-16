@@ -1,0 +1,62 @@
+<Solution>
+  <PropertyGroup Name="nongmingchuidizhu" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="chuidizhu">
+            <Folder Name="image">
+              <Folder Name="game">
+                <Folder Name="btn">
+                  <Image Name="btn_music.png" />
+                  <Image Name="btn_musicOff.png" />
+                  <Image Name="btn_pause.png" />
+                  <Image Name="btn_sound.png" />
+                  <Image Name="btn_soundOff.png" />
+                </Folder>
+                <Image Name="cellbg.png" />
+                <Image Name="effectHit.png" />
+                <Image Name="hammer.png" />
+                <Image Name="heart.png" />
+                <Image Name="itemAddHeart.png" />
+                <Image Name="itemAddTime.png" />
+                <Image Name="landllord1.png" />
+                <Image Name="landllord2.png" />
+                <Image Name="peasant1.png" />
+                <Image Name="peasant2.png" />
+                <Image Name="progressBar.png" />
+                <Image Name="progressBg.png" />
+                <Image Name="role.png" />
+                <Image Name="textHp.png" />
+                <Image Name="textScore.png" />
+                <Image Name="textTime.png" />
+              </Folder>
+              <Folder Name="gameover">
+                <Image Name="btnBack.png" />
+                <Image Name="btnReplay.png" />
+                <Image Name="gameEndBg.png" />
+              </Folder>
+              <Folder Name="main">
+                <Image Name="gamemodel.png" />
+                <Image Name="unlimit_model.png" />
+              </Folder>
+              <Folder Name="pause">
+                <Image Name="btnContinue.png" />
+                <Image Name="pauseBg.png" />
+              </Folder>
+              <Image Name="BG.png" />
+              <Fnt Name="scorenumber.fnt" />
+              <Image Name="unlimitBg.png" />
+            </Folder>
+            <Project Name="balance.csd" Type="Layer" />
+            <Project Name="chuidizhu.csd" Type="Layer" />
+            <Project Name="main.csd" Type="Layer" />
+            <Project Name="main_1.csd" Type="Layer" />
+            <Project Name="main_2.csd" Type="Layer" />
+            <Project Name="setting.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,37 @@
+{
+    "eventlist":[
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_1.png",
+            "endcall":"onBtnStartClick",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameStartLayer"
+        },
+         {
+            "action" :"delay",
+            "delaytime":"2",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameScene"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_2.png",
+            "timename" :"enterTransitionFinish",
+            "endcall":"onJieSuan",
+            "targetname" :"GameScene"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"2",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameScene"
+        }
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_3.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameScene"
+        }
+        
+    ]
+}

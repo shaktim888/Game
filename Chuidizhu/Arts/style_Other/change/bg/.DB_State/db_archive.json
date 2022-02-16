@@ -1,0 +1,37 @@
+{
+  "resState": [
+    {
+      "md5": "a3310d5ff634e108960bf08d80de0085",
+      "fileName": "1.png",
+      "lastTime": 1589530211615,
+      "useTimes": 1
+    },
+    {
+      "md5": "ae8c416b8838218a09b574c2463ef05f",
+      "fileName": "3.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "caf901f3ba4a4cd29575ef32b59b009b",
+      "fileName": "5.png",
+      "lastTime": 1589528325340,
+      "useTimes": 1
+    },
+    {
+      "md5": "fcb94bc2f597be06443796d66565b0a1",
+      "fileName": "2.png",
+      "lastTime": 1589528276793,
+      "useTimes": 1
+    },
+    {
+      "md5": "679f8ca2c68868064323213152308ec9",
+      "fileName": "4.png",
+      "lastTime": 1589528890122,
+      "useTimes": 1
+    }
+  ],
+  "canUseCount": 6,
+  "archiveTimes": 0,
+  "componentResNamePath": "Arts/style_Other/change/bg"
+}

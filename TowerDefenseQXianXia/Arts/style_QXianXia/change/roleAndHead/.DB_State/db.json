@@ -1,0 +1,37 @@
+{
+  "resState": [
+    {
+      "md5": "b8fe50f216ec437e325da91b9f5407da",
+      "fileName": "style5",
+      "lastTime": 1589789670180,
+      "useTimes": 2
+    },
+    {
+      "md5": "bea4a54aeb7f90b64702acba56950de9",
+      "fileName": "style2",
+      "lastTime": 1589468477981,
+      "useTimes": 1
+    },
+    {
+      "md5": "0b1484f312347391fd025a3ae62f757b",
+      "fileName": "style3",
+      "lastTime": 1589788413658,
+      "useTimes": 2
+    },
+    {
+      "md5": "9b1b93335bda25a807174315da579e2a",
+      "fileName": "style4",
+      "lastTime": 1589531820711,
+      "useTimes": 2
+    },
+    {
+      "md5": "75c573f9baa4a33b0c4f49d4809fb5a6",
+      "fileName": "style1",
+      "lastTime": 1589532125005,
+      "useTimes": 2
+    }
+  ],
+  "canUseCount": 1,
+  "archiveTimes": 1,
+  "componentResNamePath": "Arts/style_QXianXia/change/roleAndHead"
+}

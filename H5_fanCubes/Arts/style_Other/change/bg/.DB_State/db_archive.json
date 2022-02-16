@@ -1,0 +1,55 @@
+{
+  "resState": [
+    {
+      "md5": "8cb2feaa8e3ff56ef397e3a9eed3a95f",
+      "fileName": "8.png",
+      "lastTime": 1589513434541,
+      "useTimes": 1
+    },
+    {
+      "md5": "767141ade824ed79b524d9835247b0c3",
+      "fileName": "1.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "1dc82b5b5aaebbdc99abfa403fc2cc47",
+      "fileName": "5.png",
+      "lastTime": 1589447286884,
+      "useTimes": 0
+    },
+    {
+      "md5": "db04b555622550ec64b22af7d67c0b8d",
+      "fileName": "3.png",
+      "lastTime": 1589370813694,
+      "useTimes": 0
+    },
+    {
+      "md5": "5ca7593ae53cce0fa317c691f9b53ab9",
+      "fileName": "6.png",
+      "lastTime": 1589370813702,
+      "useTimes": 0
+    },
+    {
+      "md5": "3b17f2c4d35296138a971a853b2ee83d",
+      "fileName": "2.png",
+      "lastTime": 0,
+      "useTimes": 0
+    },
+    {
+      "md5": "d09cfbc50c629cc8502633abdf5ff0d2",
+      "fileName": "4.png",
+      "lastTime": 1589447286984,
+      "useTimes": 1
+    },
+    {
+      "md5": "cd0a6694a134e1d6b2456f25f841678a",
+      "fileName": "7.png",
+      "lastTime": 1589370813796,
+      "useTimes": 1
+    }
+  ],
+  "canUseCount": 13,
+  "archiveTimes": 0,
+  "componentResNamePath": "Arts/style_Other/change/bg"
+}

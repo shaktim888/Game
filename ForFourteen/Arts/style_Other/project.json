@@ -1,0 +1,98 @@
+{
+	"exportAppCount":3,
+	"originAppPath":"../root_demo/Poker_And_Card/FishFor14/demo/",
+	"resPath":"../root_demo/Poker_And_Card/FishFor14/Arts/",
+	"outputPath":"../root_demo/Poker_And_Card/FishFor14/output/",
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"Xgk7VM",
+		"exportentry":"random",
+		"confusepath":"src/Xgk7VM/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+		        "relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/bg.png",
+				"order": 1
+		    },
+		    "role" : {
+				"roleHall":{
+			        "relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/role.png"
+		    	},
+		    	"roleIcon":{
+			        "relpath" : "img/role_icon/role_icon.png"
+		    	},
+				"order": 1
+			}
+		},
+		"hall" : {
+		    "popbg" : {
+		        "relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/windowBg.png"
+			},
+			
+		    "hallbtns" :{
+		    	"btn_start":{
+			        "relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/startBtn.png"
+		    	},
+		    	"btn_rule":{
+			        "relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/ruleBtn.png"
+		    	}
+			},
+			"halllayoutlua":{
+				"relpath" : "src/Xgk7VM/res/game/FishFor14/LoginScene.lua"
+			}
+		},
+		"game":{
+			"gamebtns":{
+				"btn_ok":{
+					"relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/fishBtn.png"
+				},
+				"btn_discard":{
+					"relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/abandonBtn.png"
+				}	
+			},
+			"set_backbtn":{
+				"btn_back":{
+					"relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/backBtn.png"
+				},
+				"btn_sound":{
+					"relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/musicBtn.png"
+				},
+				"btn_soundClose":{
+					"relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/musicBtn2.png"
+				}
+			},
+			"cardbg":{
+				"relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/Images_Cards_Card_2_56.png"
+			},
+			"topbg":{
+				"relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/topBg.png"
+			},
+			"flash":{
+				"relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/flash.png"
+			},
+			"gamelayoutlua":{
+				"relpath" : "src/Xgk7VM/res/game/FishFor14/GameScene.lua"
+			}
+		},
+		"common_res": {
+			"font":{
+				"relpath" : "src/Xgk7VM/res/game/FishFor14/ui2/body.TTF"
+			},
+			"sound":{
+				"relpath" : "src/Xgk7VM/res/game/FishFor14/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg":"src/Xgk7VM/res/game/FishFor14/ui2/bg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"img/role_proto/role_proto.png",
+		"isL":true,
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":"人物"
+		}
+	}
+}

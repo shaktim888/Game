@@ -1,0 +1,37 @@
+{
+  "resState": [
+    {
+      "md5": "4d3d72be88d7414695ec5241255c2d0d",
+      "fileName": "style5",
+      "lastTime": 1589793173051,
+      "useTimes": 1
+    },
+    {
+      "md5": "df39a491b3cb916121f87da5f0a0f190",
+      "fileName": "style1",
+      "lastTime": 1589793172963,
+      "useTimes": 0
+    },
+    {
+      "md5": "d79c0567a0778226948004e934338cbe",
+      "fileName": "style3",
+      "lastTime": 1589793172974,
+      "useTimes": 0
+    },
+    {
+      "md5": "0eac2618033d8c6ece1446e2e9f75070",
+      "fileName": "style4",
+      "lastTime": 1589793172979,
+      "useTimes": 0
+    },
+    {
+      "md5": "15a29a74a1649c6c4ee3608cf5e5d9e1",
+      "fileName": "style2",
+      "lastTime": 1589793172969,
+      "useTimes": 0
+    }
+  ],
+  "canUseCount": 9,
+  "archiveTimes": 1,
+  "componentResNamePath": "Arts/style_Other/change/role"
+}

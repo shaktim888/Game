@@ -1,0 +1,94 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"panda7Q",
+		"exportentry":"random",
+		"confusepath":"src/panda7Q/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+		        "relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/bg.png",
+				"order": 1
+			},
+			"role":{
+				"role_hall":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/role.png"
+				},
+				"role_icon":{
+					"relpath" : "img/role_icon/role_icon.png"
+				},
+				"order": 1
+			}
+		},
+		"game":{
+			"btn":{
+				"btn_jichu":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/btns/basemodel.png"
+				},
+				"btn_jinjie":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/btns/upmodel.png"
+				},
+				"btn_replay":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/btns/restart.png"
+				},
+				"btn_return":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/btns/backhome.png"
+				},
+				"btn_start":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/btns/startgame.png"
+				}
+			},
+			"btn_back":{
+				"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/btns/back.png"
+			},
+			"click_border":{
+				"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/border/click_border.png"
+			},
+			"gameborder":{
+				"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/border/gameborder.png"
+			},
+			"gameover":{
+				"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/border/gameover.png"
+			},
+			"icon":{
+				"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/icon/icon1.png"
+			},
+			"ready":{
+				"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/ready_go.png"
+			},
+			"upmodel":{
+				"1":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/upmodel/upmodel_eye.png"
+				},
+				"2":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/upmodel/upmodel_highscore.png"
+				},
+				"3":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/upmodel/upmodel_nomistake.png"
+				},
+				"4":{
+					"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/upmodel/upmodel_showtime.png"
+				}
+			},
+			"unclick_border":{
+				"relpath" : "src/panda7Q/res/game/niuniutiaozhan/images/border/unclick_border.png"
+			}
+		},
+		"common_res": {
+			
+		}
+		
+	},
+	"other" : {
+		"produceicon_hallbg": "src/panda7Q/res/game/niuniutiaozhan/images/bg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"src/panda7Q/res/game/niuniutiaozhan/images/role.png",
+		"isL":false,
+		"dir_structure":{
+			"bg":"背景",
+			"role":"大厅人物"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+<Solution>
+  <PropertyGroup Name="xiaoniukuaipao" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="cattleRun">
+            <Folder Name="image">
+              <Folder Name="choice">
+                <Image Name="baconic.png" />
+                <Image Name="chips1.png" />
+                <Image Name="haborup.png" />
+              </Folder>
+              <Image Name="gamebg.png" />
+              <Image Name="jineng.png" />
+              <TTF Name="nvpk.ttf" />
+              <Image Name="plate.png" />
+              <Image Name="role_2.png" />
+              <Image Name="tx.png" />
+              <Image Name="zdl_7d207200.png" />
+            </Folder>
+            <Project Name="cattleRun.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

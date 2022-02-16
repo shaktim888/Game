@@ -1,0 +1,99 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"mDpbL0",
+		"exportentry":"random",
+		"confusepath":"src/mDpbL0/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+				"relpath" : "src/mDpbL0/res/game/chuidizhu/image/BG.png",
+				"order" : 1
+			},
+			"role":{
+			    "relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/role.png",
+				"order" : 1
+		    }
+		},
+		"game" : {
+		    "btn1" : {
+		        "btn_music_off":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/btn/btn_musicOff.png"
+		    	},
+		    	"btn_music_on":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/btn/btn_music.png"
+				},
+				"btn_pause":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/btn/btn_pause.png"
+		    	}
+			},
+			"btn2": {
+				"btn_conuite":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/pause/btnContinue.png"
+		    	},
+		    	"btn_jieji":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/main/gamemodel.png"
+				},
+				"btn_replay":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/gameover/btnReplay.png"
+		    	},
+		    	"btn_return":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/gameover/btnBack.png"
+				},
+				"btn_wuxian":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/main/unlimit_model.png"
+		    	}
+			},
+		    "cellbg":{
+				"relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/cellbg.png"
+		    }, 
+			"gameover":{
+				"relpath" : "src/mDpbL0/res/game/chuidizhu/image/gameover/gameEndBg.png"
+			},
+			"hammer":{
+				"relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/hammer.png"
+			},
+			"heart":{
+				"relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/heart.png"
+			},
+			"label" : {
+		        "textHp":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/textHp.png"
+		    	},
+		    	"textScore":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/textScore.png"
+				},
+				"textTime":{
+			        "relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/textTime.png"
+		    	}
+			},
+			"landllord1":{
+				"relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/landllord1.png",
+				"order": 1
+			},
+			"landllord2":{
+				"relpath" : "src/mDpbL0/res/game/chuidizhu/image/game/landllord2.png"
+			},
+			"pause":{
+				"relpath" : "src/mDpbL0/res/game/chuidizhu/image/pause/pauseBg.png"
+			},
+			"mainlua":{
+				"relpath" : "src/mDpbL0/res/game/chuidizhu/main.lua"
+			}
+		},
+		"common_res": {
+			
+		}
+	},
+	"other" : {
+		"proto_role":"src/mDpbL0/res/game/chuidizhu/image/game/role.png",
+		"isL":true,
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":"人物"
+        }
+
+	}
+}

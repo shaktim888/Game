@@ -1,0 +1,41 @@
+{
+    "eventlist":[
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_1.png",
+            "endcall":"onbeganClick",
+            
+            "timename" :"enterTransitionFinish",
+            "targetname" :"MainScene"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"1",
+
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameScene"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_2.png",
+            "endcall":"jiesuan",
+
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GameScene"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"1",
+
+            "timename" :"enterTransitionFinish",
+            "targetname" :"JiesuanLayer"
+        },
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_3.png",
+
+            "timename" :"enterTransitionFinish",
+            "targetname" :"JiesuanLayer"
+        }
+    ]
+}

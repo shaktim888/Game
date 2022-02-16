@@ -1,0 +1,77 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"dagede",
+		"exportentry":"random",
+		"confusepath":"src/dagede/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+		        "relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/bg.png",
+				"order": 1
+			},
+			"role": {
+		        "relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/pk.png",
+				"order": 1
+			}
+		},
+		"game":{
+			"bomb":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/bomb.png"
+			},
+			"brick":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/brick.png"
+			},
+			"button":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/button.png"
+			},
+			"clone":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/clone.png"
+			},
+			"darts":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/darts.png"
+			},
+			"hammer":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/hammer.png"
+			},
+			"halllayoutlua":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/LoginScene.lua"
+			},
+			"hasBeenSold":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/hasBeenSold.png"
+			},
+			"farmer":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/farmer.png"
+			},
+			"landlord":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/landlord.png"
+			},
+			"popbg" : {
+		        "relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/popbg.png"
+			},
+			"shop":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/image/shop.png"
+			}
+		},
+		"common_res": {
+			"font_en":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/nvpk.ttf"
+			},
+			"sound":{
+				"relpath" : "src/dagede/res/game/FarmerfFightLandlord/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/dagede/res/game/FarmerfFightLandlord/image/bg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"src/dagede/res/game/FarmerfFightLandlord/image/pk.png",
+		"isL": false,
+		"dir_structure":{
+            "bg":"背景",
+			"role":"大厅人物"
+        }
+	}
+}

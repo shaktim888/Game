@@ -1,0 +1,76 @@
+{
+	"game_layer" : {
+		"bg" : {
+			"relpath" : "res/game_layer/majia/img/gamePanel/bg.png",
+			"order": 1
+		},
+		"allCard" : {
+			"defense1" : {
+				"relpath" : "res/game_layer/majia/img/card/defense/defense1.png"
+			},
+			 "defense2" : {
+				"relpath" : "res/game_layer/majia/img/card/defense/defense2.png"
+			},
+			"enemy1" : {
+				"relpath" : "res/game_layer/majia/img/card/enemy/enemy1.png"
+			},
+			"enemy2" : {
+				"relpath" : "res/game_layer/majia/img/card/enemy/enemy2.png"
+			},
+			 "enemy3" : {
+				"relpath" : "res/game_layer/majia/img/card/enemy/enemy3.png"
+			},
+			"hero1" : {
+				"relpath" : "res/game_layer/majia/img/card/hero/hero1.png"
+			},
+			"hero2" : {
+				"relpath" : "res/game_layer/majia/img/card/hero/hero2.png"
+			},
+			"hero3" : {
+				"relpath" : "res/game_layer/majia/img/card/hero/hero3.png"
+			},
+			"medicine1" : {
+				"relpath" : "res/game_layer/majia/img/card/medicine/medicine1.png"
+			},
+			 "medicine2" : {
+				"relpath" : "res/game_layer/majia/img/card/medicine/medicine2.png"
+			},
+			"money1" : {
+				"relpath" : "res/game_layer/majia/img/card/money/money1.png"
+			},
+			"tool1" : {
+				"relpath" : "res/game_layer/majia/img/card/tool/tool1.png"
+			},
+			 "tool2" : {
+				"relpath" : "res/game_layer/majia/img/card/tool/tool2.png"
+			},
+			"weapon1" : {
+				"relpath" : "res/game_layer/majia/img/card/weapon/weapon1.png"
+			},
+			"weapon2" : {
+				"relpath" : "res/game_layer/majia/img/card/weapon/weapon2.png"
+			}
+			
+		},
+		"card" : {
+			"cardbg" : {
+				"relpath" : "res/game_layer/majia/img/gamePanel/cardbg.png"
+			},
+			"img_bag" : {
+				"relpath" : "res/game_layer/majia/img/gamePanel/img_bag.png"
+			},
+			"img_hero" : {
+				"relpath" : "res/game_layer/majia/img/gamePanel/img_hero.png"
+			},
+			"img_left" : {
+				"relpath" : "res/game_layer/majia/img/gamePanel/img_left.png"
+			},
+			"img_right" : {
+				"relpath" : "res/game_layer/majia/img/gamePanel/img_right.png"
+			}
+		},
+		"trashbox" : {
+			"relpath" : "res/game_layer/majia/img/gamePanel/trashbox.png"
+		}
+	}
+}

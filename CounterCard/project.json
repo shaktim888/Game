@@ -1,0 +1,158 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change" : {
+				"bg" : {
+					"relpath" : "res/majia/img/hallPanel/bg.png",
+					"order": 1
+				},
+				"role" : {
+					"relpath" : "res/majia/img/hallPanel/role.png",
+					"order": 1
+				}
+			},
+		"game" : {
+			"boss" : {
+				"boss1" : {
+					"relpath" : "res/majia/img/boss/boss1.png"
+				},
+				"boss2" : {
+					"relpath" : "res/majia/img/boss/boss2.png"
+				},
+				"boss3" : {
+					"relpath" : "res/majia/img/boss/boss3.png"
+				},
+				"boss4" : {
+					"relpath" : "res/majia/img/boss/boss4.png"
+				},
+				"boss5" : {
+					"relpath" : "res/majia/img/boss/boss5.png"
+				},
+				"boss6" : {
+					"relpath" : "res/majia/img/boss/boss6.png"
+				},
+				"boss7" : {
+					"relpath" : "res/majia/img/boss/boss7.png"
+				},
+				"boss8" : {
+					"relpath" : "res/majia/img/boss/boss8.png"
+				},
+				"boss9" : {
+					"relpath" : "res/majia/img/boss/boss9.png"
+				},
+				"boss10" : {
+					"relpath" : "res/majia/img/boss/boss10.png"
+				},
+				"boss11" : {
+					"relpath" : "res/majia/img/boss/boss11.png"
+				},
+				"boss12" : {
+					"relpath" : "res/majia/img/boss/boss12.png"
+				}
+			},
+			"btn" : {
+				"btn_exit" : {
+					"relpath" : "res/majia/img/gamePanel/btn_exit.png"
+				},
+				"btn_sound" : {
+					"relpath" : "res/majia/img/gamePanel/btn_sound.png"
+				},
+				"btn_sound1" : {
+					"relpath" : "res/majia/img/gamePanel/btn_sound1.png"
+				}
+			},
+			"btnbg" : {
+				"relpath" : "res/majia/img/hallPanel/btnbg.png"
+			},
+			"btnclose" : {
+				"relpath" : "res/majia/img/hallPanel/btn_guanbi.png"
+			},
+			"card" : {
+				"hero1" : {
+					"relpath" : "res/majia/img/hero/hero1.png"
+				},
+				"hero2" : {
+					"relpath" : "res/majia/img/hero/hero2.png"
+				},
+				"hero3" : {
+					"relpath" : "res/majia/img/hero/hero3.png"
+				},
+				"hero4" : {
+					"relpath" : "res/majia/img/hero/hero4.png"
+				},
+				"hero5" : {
+					"relpath" : "res/majia/img/hero/hero5.png"
+				}
+			},
+			"cardDi":{
+				"relpath" : "res/majia/img/gamePanel/cellbg.png"
+			},
+			"cardbg" : {
+				"relpath" : "res/majia/img/gamePanel/cardbg1.png"
+			},
+			"cardselect" : {
+				"relpath" : "res/majia/img/hallPanel/bg_select.png"
+			},
+			"gamecsbFile":{
+				"relpath":"res/majia/ShejianGameLayer.csb"
+			},
+			"group":{
+				"relpath":"res/majia/img/hallPanel/group.png"
+			},
+			"magic" : {
+				"magic1" : {
+					"relpath" : "res/majia/img/magic/magic1.png"
+				},
+				"magic2" : {
+					"relpath" : "res/majia/img/magic/magic2.png"
+				},
+				"magic3" : {
+					"relpath" : "res/majia/img/magic/magic3.png"
+				},
+				"magic4" : {
+					"relpath" : "res/majia/img/magic/magic4.png"
+				},
+				"magic5" : {
+					"relpath" : "res/majia/img/magic/magic5.png"
+				},
+				"magic6" : {
+					"relpath" : "res/majia/img/magic/magic6.png"
+				},
+				"magic7" : {
+					"relpath" : "res/majia/img/magic/magic7.png"
+				},
+				"magic8" : {
+					"relpath" : "res/majia/img/magic/magic8.png"
+				},
+				"magic9" : {
+					"relpath" : "res/majia/img/magic/magic9.png"
+				},
+				"magic10" : {
+					"relpath" : "res/majia/img/magic/magic10.png"
+				}
+			},
+			"lock" : {
+				"lock":{
+					"relpath" : "res/majia/img/hallPanel/lock.png"
+				},
+				"unlock":{
+					"relpath" : "res/majia/img/hallPanel/unlock.png"
+				}
+			}
+		},
+		"common_res": {
+			"sound":{
+				"relpath" : "res/majia/sound/bg.mp3"
+			}
+		}
+	},
+	"other" : {
+		"isL":true,
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":"人物"
+        }
+	}
+}

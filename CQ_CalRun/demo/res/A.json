@@ -1,0 +1,29 @@
+{
+	"game_layer" : {
+		"choice" : {
+			"baconic" : {
+				"relpath" : "res/game_layer/game/cattleRun/image/choice/baconic.png"
+			},
+			"chips1":{
+				"relpath" : "res/game_layer/game/cattleRun/image/choice/chips1.png"
+			},
+			"haborup":{
+				"relpath" : "res/game_layer/game/cattleRun/image/choice/haborup.png"
+			}
+		},
+		"gamebg" : {
+			"relpath" : "res/game_layer/game/cattleRun/image/gamebg.png"
+		},
+		"gamerole":{
+			"Woman":{
+				"relpath" : "res/game_layer/game/cattleRun/image/plate.png"
+			},
+			"man":{
+				"relpath" : "res/game_layer/game/cattleRun/image/role_2.png"
+			}
+		},
+		"skillBtn" : {
+			"relpath" : "res/game_layer/game/cattleRun/image/jineng.png"
+		}
+	}
+}

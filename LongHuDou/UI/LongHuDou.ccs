@@ -1,0 +1,75 @@
+<Solution>
+  <PropertyGroup Name="LongHuDou" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="LongHuDou">
+            <Folder Name="images">
+              <Folder Name="font">
+                <TTF Name="fish.ttf" />
+              </Folder>
+              <Folder Name="game">
+                <Image Name="bloodBar.png" />
+                <Image Name="btnAttack.png" />
+                <Image Name="btnAttackEnabled.png" />
+                <Image Name="btnDefense.png" />
+                <Image Name="btnDefenseEnabled.png" />
+                <Image Name="but_back.png" />
+                <Image Name="but_continue.png" />
+                <Image Name="but_exit.png" />
+                <Image Name="knifeLight.png" />
+                <Image Name="lifebartiledelves.png" />
+                <Image Name="score_board.png" />
+                <Image Name="VSDragon_lh.png" />
+                <Image Name="VSDragon_long.png" />
+                <Image Name="weaponHu.png" />
+                <Image Name="weaponLong.png" />
+                <Image Name="yun1.png" />
+              </Folder>
+              <Folder Name="hall">
+                <Image Name="bg_game.png" />
+                <Image Name="btn.png" />
+                <Image Name="but_help.png" />
+                <Image Name="but_off.png" />
+                <Image Name="but_on.png" />
+                <Image Name="pkEffect.png" />
+                <Image Name="select.png" />
+                <Image Name="selectClick.png" />
+              </Folder>
+              <Folder Name="level">
+                <Image Name="level_off.png" />
+                <Image Name="level_on.png" />
+              </Folder>
+              <Folder Name="popBg">
+                <Image Name="but_home.png" />
+                <Image Name="but_no.png" />
+                <Image Name="but_restart.png" />
+                <Image Name="but_yes.png" />
+                <Image Name="msg_box.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="attack.mp3" />
+              <Audio Name="blood.mp3" />
+              <Audio Name="click.mp3" />
+              <Audio Name="defense.mp3" />
+              <Audio Name="game_over.mp3" />
+              <Audio Name="hu.mp3" />
+              <Audio Name="long.mp3" />
+              <Audio Name="win.mp3" />
+            </Folder>
+            <Project Name="Game.csd" Type="Scene" />
+            <Project Name="Help.csd" Type="Layer" />
+            <Project Name="Increase.csd" Type="Layer" />
+            <Project Name="Level.csd" Type="Scene" />
+            <Project Name="LevelBlock.csd" Type="Node" />
+            <Project Name="Main.csd" Type="Scene" />
+            <Project Name="Select.csd" Type="Scene" />
+            <Project Name="WinMsg.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

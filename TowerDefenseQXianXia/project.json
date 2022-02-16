@@ -1,0 +1,158 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+				"relpath" : "res/start/bg.png",
+				"order": 1
+			},
+			"gameBg":{
+				"relpath":"res/game/bg.png"
+			},
+			"roleAndHead":{
+				"role" : {
+					"relpath" : "res/start/role.png"
+				},
+				"head":{
+					"relpath" : "res/start/icon.png"
+				},
+				"icon_bg":{
+					"relpath" : "res/start/icon_bg.png"
+				},
+				"gamehead":{
+					"relpath" : "res/dynamic/player.png"
+				}
+			}
+			
+		},
+		"game" : {
+			"housePlayer":{
+				"house1" : {
+					"relpath" : "res/skin/tower_skin/1.png"
+				},
+				"house2" : {
+					"relpath" : "res/skin/tower_skin/2.png"
+				},
+				"house3":{
+					"relpath" : "res/skin/tower_skin/3.png"
+				},
+				"house4" : {
+					"relpath" : "res/skin/tower_skin/4.png"
+				},
+				"house5" : {
+					"relpath" : "res/skin/tower_skin/5.png"
+				},
+				"house6":{
+					"relpath" : "res/skin/tower_skin/6.png"
+				},
+				"house7" : {
+					"relpath" : "res/dynamic/other.png"
+				},
+				"house8":{
+					"relpath" : "res/dynamic/small_empty.png"
+				}
+			},
+			"winOrLose":{
+				"img_win" : {
+					"relpath" : "res/game/img_result_win.png"
+				},
+				"img_lose":{
+					"relpath" : "res/game/img_result_lose.png"
+				},
+				"img_kuang":{
+					"relpath" : "res/game/img_kuang.png"
+				}
+			},
+			"vs":{
+				"relpath":"res/game/img_vs.png"
+			},
+			"vsrole":{
+				"relpath":"res/game/img_role.png"
+			}
+		},
+		"hall":{
+			"btnCommon":{
+				"relpath":"res/common/img_pop_bg.png"
+			},
+			"btnGroup" : {
+				"back" : {
+					"relpath" :"res/common/btn_return.png"
+				},
+				"skin" : {
+					"relpath" : "res/start/btn_skin.png"
+				},
+				"help" : {
+					"relpath" : "res/start/btn_help.png"
+				},
+				"set" : {
+					"relpath" : "res/start/btn_setting.png"
+				},
+				"sign" : {
+					"relpath" : "res/start/btn_daily.png"
+				}
+			},
+			"btn_day" : {
+				"kuang" : {
+					"relpath" : "res/common/img_item.png"
+				},
+				"mask" : {
+					"relpath" : "res/common/img_unlock_mask.png"
+				},
+				"select_bg" : {
+					"relpath" : "res/common/img_tag.png"
+				}
+			},
+			"btnStart":{
+				"btn_start_1" : {
+					"relpath" : "res/start/btn_start_1.png"
+				},
+				"btn_start_2" : {
+					"relpath" : "res/start/btn_start_2.png"
+				}
+			},
+			"msgBox":{
+				"relpath":"res/common/img_pop_bg.png"
+			},
+			"setting":{
+				"btn_music":{
+					"relpath" : "res/setting/btn_music.png"
+				},
+				"btn_sound" : {
+					"relpath" : "res/setting/btn_sound.png"
+				},
+				"img_off_bg":{
+					"relpath" : "res/setting/img_off.png"
+				},
+				"img_on_bg":{
+					"relpath" : "res/setting/img_on.png"
+				}
+			}
+		},
+		"level":{
+			"img_bg":{
+				"relpath" :  "res/level/bg.png"
+			},
+			"img_role" : {
+				"relpath" :  "res/level/img_tip_bg.png"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "res/start/bg.png",
+        "produceicon_hallbgRole":"img/role_icon/role_icon.png",
+        "proto_role": "res/start/role.png",
+		"dir_structure":{
+            "bg":"大厅背景",
+			"gameBg":"游戏背景",
+			"roleAndHead":{
+				"role":"大厅人物",
+				"head":"头像",
+				"icon_bg":"头像背景",
+				"gamehead":"游戏人物"
+			}
+		},
+		"isL": true
+	}
+}

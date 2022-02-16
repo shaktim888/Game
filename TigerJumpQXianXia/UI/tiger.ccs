@@ -1,0 +1,47 @@
+<Solution>
+  <PropertyGroup Name="tiger" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="tiger">
+            <Folder Name="daoju">
+              <Image Name="daoju_1.png" />
+              <Image Name="daoju_10.png" />
+              <Image Name="daoju_2.png" />
+              <Image Name="daoju_3.png" />
+              <Image Name="daoju_4.png" />
+              <Image Name="daoju_5.png" />
+              <Image Name="daoju_6.png" />
+              <Image Name="daoju_7.png" />
+              <Image Name="daoju_8.png" />
+              <Image Name="daoju_9.png" />
+            </Folder>
+            <Folder Name="image">
+              <Image Name="back.png" />
+              <Image Name="bg.png" />
+              <Image Name="btnBack.png" />
+              <Image Name="huodewuping.png" />
+              <Image Name="jie.png" />
+              <Image Name="jineng.png" />
+              <TTF Name="nvpk.ttf" />
+              <Image Name="pingjia.png" />
+              <Image Name="qiandai.png" />
+              <Image Name="queren.png" />
+              <Image Name="shengli.png" />
+              <Image Name="texiao.png" />
+              <Image Name="tiger_1.png" />
+              <Image Name="tiger_ji_1.png" />
+              <Image Name="xingxing.png" />
+              <Image Name="zhezhao.png" />
+              <Image Name="zhubao.png" />
+              <Image Name="zhuye_1.png" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="JieSuanLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

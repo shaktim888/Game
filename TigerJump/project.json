@@ -1,0 +1,126 @@
+{
+
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"aDQdgU",
+		"exportentry":"random"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+		        "relpath" : "src/aDQdgU/res/game/tiger/image/bg.png",
+				"order": 1
+			},
+			"role" : {
+				"relpath" : "src/aDQdgU/res/game/tiger/image/tiger.png",
+				"order": 1
+		    }
+		},
+		"game" : {
+		    "btn1" : {
+		        "btn_return":{
+					"relpath" : "src/aDQdgU/res/game/tiger/image/back.png "
+				},
+				"btn_rule1":{
+					"relpath" : "src/aDQdgU/res/game/tiger/image/rule_1.png"
+				},
+				"btn_rule2":{
+					"relpath" : "src/aDQdgU/res/game/tiger/image/rule_2.png"
+				},
+				"btn_start1":{
+					"relpath" : "src/aDQdgU/res/game/tiger/image/start_1.png"
+				},
+				"btn_start2":{
+					"relpath" : "src/aDQdgU/res/game/tiger/image/start_2.png"
+				}
+			},
+		    "btn2" :{
+			    "btn_home1":{
+					"relpath" : "src/aDQdgU/res/game/tiger/image/zhuye_1.png "
+				},
+				"btn_home2":{
+					"relpath" : "/src/aDQdgU/res/game/tiger/image/zhuye_2.png "
+				},
+				"btn_music_off":{
+					"relpath" : "/src/aDQdgU/res/game/tiger/image/music_2.png"
+				},
+				"btn_music_on":{
+					"relpath" : "/src/aDQdgU/res/game/tiger/image/music_1.png "
+				}
+			},
+			"daoju":{
+				"daoju1":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_1.png"
+				},
+				"daoju2":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_2.png"
+				},
+				"daoju3":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_3.png"
+				},
+				"daoju4":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_4.png"
+				},
+				"daoju5":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_5.png"
+				},
+				"daoju6":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_6.png"
+				},
+				"daoju7":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_7.png"
+				},
+				"daoju8":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_8.png"
+				},
+				"daoju9":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_9.png"
+				},
+				"daoju10":{
+					"relpath" : "src/aDQdgU/res/game/tiger/daoju/daoju_10.png"
+				}
+			},
+			"jizi1":{
+				"relpath" : "src/aDQdgU/res/game/tiger/image/tiger_ji_1.png"
+			},
+			"jizi2":{
+				"relpath" : "src/aDQdgU/res/game/tiger/image/tiger_ji_2.png"
+			},
+			"jizi3":{
+				"relpath" : "src/aDQdgU/res/game/tiger/image/tiger_ji_3.png"
+			},
+			"jizi4":{
+				"relpath" : "src/aDQdgU/res/game/tiger/image/tiger_ji_4.png"
+			},
+			"jizi5":{
+				"relpath" : "src/aDQdgU/res/game/tiger/image/tiger_ji_5.png"
+			},
+			"popbg":{
+				"relpath" : "src/aDQdgU/res/game/tiger/image/window.png"
+			},
+			"mainScenelua":{
+				"relpath" : "src/aDQdgU/res/game/tiger/MainScene.lua"
+			}
+		},
+		"common_res": {
+			"font_zh":{
+				"relpath" : "src/aDQdgU/res/game/tiger/image/nvpk.ttf"
+			},
+			"sound":{
+				"relpath" : "src/aDQdgU/res/game/tiger/image/tx.mp3"
+			}
+		}
+		
+	},
+	"other" : {
+		"isL":true,
+		"dir_structure":{
+			"bg":"游戏背景",
+			"role" : {
+				"role_game" : "游戏人物",
+				"role_hall" : "大厅人物"
+		    }
+		}
+	}
+}

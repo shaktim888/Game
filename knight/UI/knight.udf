@@ -1,0 +1,45 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.knight" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="knight iOS" />
+        <iOS_BundleID Value="iPhone Developer: wei shu (TTUAA2Q264)" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="无" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="game/knight/balance.csd" />
+          <FilePathData Path="game/knight/game.csd" />
+          <FilePathData Path="game/knight/hall_rule.csd" />
+          <FilePathData Path="game/knight/hall_set.csd" />
+          <FilePathData Path="game/knight/login.csd" />
+          <FilePathData Path="game/knight/pause.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="game/knight/game.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

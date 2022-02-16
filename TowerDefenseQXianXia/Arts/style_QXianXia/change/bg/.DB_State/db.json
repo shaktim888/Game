@@ -1,0 +1,37 @@
+{
+  "resState": [
+    {
+      "md5": "ac0fff038380deaa420905e39bfc8fe5",
+      "fileName": "art_5.png",
+      "lastTime": 1589789670143,
+      "useTimes": 2
+    },
+    {
+      "md5": "90f692d0601034a99fa57a09861aea8a",
+      "fileName": "art_2.png",
+      "lastTime": 1589468477946,
+      "useTimes": 1
+    },
+    {
+      "md5": "6bbda1d4afb7a929c6b5f9adb0c0dd8d",
+      "fileName": "art_4.png",
+      "lastTime": 1589788413624,
+      "useTimes": 2
+    },
+    {
+      "md5": "dd57bdc1892cf9cdc4993047c132864d",
+      "fileName": "art_1.png",
+      "lastTime": 1589532124967,
+      "useTimes": 2
+    },
+    {
+      "md5": "df336e38c5d695e2c1f93168c7c26db8",
+      "fileName": "art_3.png",
+      "lastTime": 1589531820674,
+      "useTimes": 2
+    }
+  ],
+  "canUseCount": 1,
+  "archiveTimes": 1,
+  "componentResNamePath": "Arts/style_QXianXia/change/bg"
+}

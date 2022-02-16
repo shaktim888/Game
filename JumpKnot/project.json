@@ -1,0 +1,106 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"pa6NPw",
+		"exportentry":"random",
+		"confusepath":"src/pa6NPw/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+				"relpath" : "src/pa6NPw/res/game/jump/image/bg.png",
+				"order" : 1
+			},
+			"role" : {
+				"relpath" : "src/pa6NPw/res/game/jump/image/role.png",
+				"order" : 1
+		    }
+		},
+		"game" : {
+		    "btn" : {
+				"btn_music" :{
+					"relpath" : "src/pa6NPw/res/game/jump/image/music.png"
+				},
+				"btn_musicoff":{
+					"relpath" : "src/pa6NPw/res/game/jump/image/musicoff.png"
+				},
+				"btn_return":{
+					"relpath" : "src/pa6NPw/res/game/jump/image/btn_return.png"
+				}
+			},
+		    "btn_common" :{
+			    "relpath" : "src/pa6NPw/res/game/jump/image/btn_common.png"
+		    },
+			"btn_shop":{
+				"relpath" : "src/pa6NPw/res/game/jump/image/btn_shop.png"
+			},
+			"gold":{
+				"1":{
+					"relpath" : "src/pa6NPw/res/game/jump/image/gold_icon.png"
+				},
+				"2" : {
+					"relpath" : "src/pa6NPw/res/game/jump/image/addgoldbg.png"
+				}
+			},
+			"hero":{
+				"1":{
+					"relpath" : "src/pa6NPw/res/game/jump/image/hero/1.png"
+				},
+				"2" : {
+					"relpath" : "src/pa6NPw/res/game/jump/image/hero/2.png"
+				},
+				"3":{
+					"relpath" : "src/pa6NPw/res/game/jump/image/hero/3.png"
+				},
+				"4" : {
+					"relpath" : "src/pa6NPw/res/game/jump/image/hero/4.png"
+				}
+			},
+			"knot" : {
+		        "relpath" : "src/pa6NPw/res/game/jump/image/knot.png"
+			},
+		    "obstacle" :{
+				"1":{
+					"relpath" : "src/pa6NPw/res/game/jump/image/obstacle1.png"
+				},
+				"2" : {
+					"relpath" : "src/pa6NPw/res/game/jump/image/obstacle2.png"
+				}
+			},
+		    
+			"popbg":{
+				"relpath" : "src/pa6NPw/res/game/jump/image/popbg.png"
+			},
+			"shopbg":{
+				"relpath" : "src/pa6NPw/res/game/jump/image/role_bg.png"
+			},
+		
+			"halllayoutlua":{
+				"relpath" : "src/pa6NPw/res/game/jump/MainScene.lua",
+				"order" : 1
+			}
+		},
+		"common_res":{
+			"font_en":{
+				"relpath" : "src/pa6NPw/res/game/jump/image/7.ttf"
+			},
+			"sound":{
+				"relpath" : "src/pa6NPw/res/game/jump/sound.mp3"
+		    }
+		}
+	},
+
+	"other" : {
+		"produceicon_hallbg": "src/pa6NPw/res/game/jump/image/bg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"src/pa6NPw/res/game/jump/image/role.png",
+		"isL":false,
+		"dir_structure":{
+            "bg":"背景",
+			"role":"大厅人物"
+        }
+	}
+
+
+}

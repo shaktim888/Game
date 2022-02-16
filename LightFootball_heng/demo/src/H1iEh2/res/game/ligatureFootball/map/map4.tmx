@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="750" tileheight="1334" nextobjectid="11">
+ <objectgroup name="object1">
+  <object id="1" x="484.848" y="1160.61" width="66.6667" height="60.6061"/>
+  <object id="2" x="151.515" y="1157.58" width="66.6667" height="60.6061"/>
+  <object id="3" x="175.758" y="845.455" width="66.6667" height="60.6061"/>
+  <object id="4" x="481.818" y="893.939" width="66.6667" height="60.6061"/>
+  <object id="5" x="603.03" y="369.697" width="66.6667" height="60.6061"/>
+  <object id="6" x="45.4545" y="384.848" width="66.6667" height="60.6061"/>
+ </objectgroup>
+ <objectgroup name="object2">
+  <object id="7" x="581.818" y="660.606" width="78.7879" height="84.8485">
+   <ellipse/>
+  </object>
+  <object id="9" x="263.636" y="630.303" width="78.7879" height="84.8485">
+   <ellipse/>
+  </object>
+  <object id="10" x="224.242" y="184.848" width="78.7879" height="84.8485">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="object3"/>
+ <objectgroup name="object4"/>
+ <objectgroup name="object5"/>
+</map>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="750" tileheight="1334" nextobjectid="28">
+ <objectgroup name="object1">
+  <object id="18" x="324.242" y="845.455" width="78.7879" height="75.7576"/>
+  <object id="19" x="567.879" y="1066" width="78.7879" height="75.7576"/>
+  <object id="20" x="112.121" y="1037.88" width="78.7879" height="75.7576"/>
+  <object id="21" x="69.697" y="395.455" width="78.7879" height="75.7576"/>
+  <object id="22" x="603.03" y="665.152" width="78.7879" height="75.7576"/>
+  <object id="23" x="527.273" y="256.061" width="78.7879" height="75.7576"/>
+  <object id="26" x="306.061" y="507.576" width="78.7879" height="75.7576"/>
+ </objectgroup>
+ <objectgroup name="object2">
+  <object id="27" x="315.152" y="687.879" width="87.8788" height="81.8182">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="object3"/>
+ <objectgroup name="object4">
+  <object id="11" x="12.2424" y="-200" width="57.5758" height="51.5152"/>
+  <object id="12" x="101.636" y="-259.091" width="57.5758" height="51.5152"/>
+  <object id="13" x="198.606" y="-201.515" width="57.5758" height="51.5152"/>
+  <object id="14" x="307.697" y="-225.758" width="57.5758" height="51.5152"/>
+  <object id="15" x="410.727" y="-225.758" width="57.5758" height="51.5152"/>
+  <object id="16" x="513.758" y="-231.818" width="57.5758" height="51.5152"/>
+  <object id="17" x="625.879" y="-228.788" width="57.5758" height="51.5152"/>
+ </objectgroup>
+ <objectgroup name="object5"/>
+ <objectgroup name="object6"/>
+</map>

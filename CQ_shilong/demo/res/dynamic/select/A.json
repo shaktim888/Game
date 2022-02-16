@@ -1,0 +1,10 @@
+{
+	"select":{
+		"layout1" : {
+			"bg":{
+				"relpath" : "res/dynamic/select/res/bg.png"
+			}
+			
+		}
+	}
+}

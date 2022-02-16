@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="750" tileheight="1334" nextobjectid="23">
+ <objectgroup name="object1">
+  <object id="1" x="109.091" y="1115.15" width="63.6364" height="63.6364"/>
+  <object id="2" x="443.94" y="1113.64" width="63.6364" height="63.6364"/>
+  <object id="3" x="280.303" y="992.424" width="63.6364" height="63.6364"/>
+  <object id="4" x="53.0303" y="825.758" width="63.6364" height="63.6364"/>
+  <object id="5" x="401.515" y="628.788" width="63.6364" height="63.6364"/>
+  <object id="6" x="77.2727" y="525.758" width="63.6364" height="63.6364"/>
+  <object id="7" x="571.212" y="765.151" width="63.6364" height="63.6364"/>
+  <object id="15" x="628.788" y="431.818" width="63.6364" height="63.6364"/>
+  <object id="17" x="350" y="316.667" width="63.6364" height="63.6364"/>
+  <object id="18" x="571.212" y="189.394" width="63.6364" height="63.6364"/>
+ </objectgroup>
+ <objectgroup name="object2">
+  <object id="8" x="63.6364" y="969.697" width="78.7879" height="81.8182">
+   <ellipse/>
+  </object>
+  <object id="9" x="466.667" y="931.818" width="78.7879" height="81.8182">
+   <ellipse/>
+  </object>
+  <object id="10" x="203.03" y="743.939" width="78.7879" height="81.8182">
+   <ellipse/>
+  </object>
+  <object id="11" x="218.182" y="516.667" width="78.7879" height="81.8182">
+   <ellipse/>
+  </object>
+  <object id="14" x="315.152" y="834.848" width="78.7879" height="81.8182">
+   <ellipse/>
+  </object>
+  <object id="16" x="630.303" y="589.394" width="78.7879" height="81.8182">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="object3"/>
+ <objectgroup name="object4">
+  <object id="19" x="48.4848" y="-252" width="57.5758" height="60.6061"/>
+  <object id="20" x="300" y="-239.879" width="66.6667" height="63.6364"/>
+  <object id="21" x="542.424" y="-239.879" width="66.6667" height="60.6061"/>
+  <object id="22" x="663.636" y="-242.909" width="60.6061" height="66.6667"/>
+ </objectgroup>
+ <objectgroup name="object5">
+  <object id="12" x="112.121" y="354.545">
+   <polygon points="0,0 75.7576,-57.5758 109.091,24.2424"/>
+  </object>
+  <object id="13" x="560.606" y="1084.85">
+   <polygon points="0,0 75.7576,-57.5758 109.091,24.2424"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="object6"/>
+</map>

@@ -1,0 +1,14 @@
+{
+	"over":{
+		"layout1":{
+			"btnGroup":{
+				"btnExit":{
+					"relpath" : "res/dynamic/over/btnExit.png"
+				},
+				"btnRestart":{
+					"relpath" : "res/dynamic/over/btnRestart.png"
+				}
+			}
+		}
+	}
+}

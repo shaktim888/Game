@@ -1,0 +1,77 @@
+{
+	"confuse":{
+		"has":true
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+				"relpath" : "src/minigame/images/rombg.png",
+				"order":1
+			},
+			"role":{
+				"relpath" : "src/minigame/images/role.png",
+				"order":1
+			}
+		},
+		"game" : {
+			"btn_start":{
+				"relpath" : "src/minigame/images/startb.png"
+			},
+			"btn1":{
+				"btn_restart":{
+					"relpath" : "src/minigame/images/resa2.png"
+				},
+				"btn_return":{
+					"relpath" : "src/minigame/images/rea1.png"
+				}
+			},
+			"btn2":{
+				"btn_help":{
+					"relpath" : "src/minigame/images/helpbutn.png"
+				},
+				"btn_return":{
+					"relpath" : "src/minigame/images/btntable_return.png"
+				}
+			},
+			"cardbg1":{
+				"relpath" : "src/minigame/images/pai/bg_back1.png"
+			},
+			"cardbg2":{
+				"relpath" : "src/minigame/images/pai/bg_back2.png"
+			},
+			"cardbg3":{
+				"relpath" : "src/minigame/images/pai/bg_back3.png"
+			},
+			"gameDi":{
+				"relpath" : "src/minigame/images/frame.png"
+			},
+			"logo":{
+				"relpath" : "src/minigame/images/hallogo.png"
+			},
+			"room":{
+				"room1":{
+					"relpath" : "src/minigame/images/room21.png"
+				},
+				"room2":{
+					"relpath" : "src/minigame/images/room22.png"
+				},
+				"room3":{
+					"relpath" : "src/minigame/images/room33.png"
+				}
+			},
+			"score_panel":{
+				"relpath" : "src/minigame/images/scorebg.png"
+			}
+		}
+		
+	},
+	"other" : {
+		"produceicon_hallbgRole":"src/minigame/images/rombg.png",
+		"proto_role": "src/minigame/images/role.png",
+		"isL":true,
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":"人物"
+		}
+	}
+}

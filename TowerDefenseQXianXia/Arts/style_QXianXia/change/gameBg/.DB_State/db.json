@@ -1,0 +1,37 @@
+{
+  "resState": [
+    {
+      "md5": "86d2fda4016be47f69710e4ff8d4e673",
+      "fileName": "art_3.png",
+      "lastTime": 1589789670162,
+      "useTimes": 2
+    },
+    {
+      "md5": "18c52f152b682691a17db33672a830b6",
+      "fileName": "art_2.png",
+      "lastTime": 1589508628566,
+      "useTimes": 1
+    },
+    {
+      "md5": "991f59792c69de5a13ae2230c936ecb8",
+      "fileName": "art_4.png",
+      "lastTime": 1589531820695,
+      "useTimes": 2
+    },
+    {
+      "md5": "6b6d208d1d29dcdab664e89225c30aa5",
+      "fileName": "art_1.png",
+      "lastTime": 1589532124988,
+      "useTimes": 2
+    },
+    {
+      "md5": "b7f59930e942516cca603bef467c804f",
+      "fileName": "art_5.png",
+      "lastTime": 1589788413642,
+      "useTimes": 2
+    }
+  ],
+  "canUseCount": 1,
+  "archiveTimes": 1,
+  "componentResNamePath": "Arts/style_QXianXia/change/gameBg"
+}

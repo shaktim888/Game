@@ -1,0 +1,50 @@
+<Solution>
+  <PropertyGroup Name="MountaintopJumps" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="MountaintopJumps">
+            <Folder Name="image">
+              <Folder Name="people">
+                <Image Name="00.png" />
+                <Image Name="01.png" />
+                <Image Name="02.png" />
+                <Image Name="03.png" />
+              </Folder>
+              <Folder Name="props">
+                <Image Name="00.png" />
+                <Image Name="01.png" />
+              </Folder>
+              <Folder Name="terrain">
+                <Image Name="00.png" />
+                <Image Name="01.png" />
+                <Image Name="02.png" />
+                <Image Name="03.png" />
+                <Image Name="04.png" />
+                <Image Name="05.png" />
+                <Image Name="06.png" />
+                <Image Name="07.png" />
+                <Image Name="08.png" />
+              </Folder>
+              <Image Name="bg.png" />
+              <Image Name="btn_return.png" />
+              <Image Name="button.png" />
+              <TTF Name="nvpk.ttf" />
+              <Image Name="popbg.png" />
+              <Image Name="role.png" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="LoginScene.csd" Type="Scene" />
+            <Project Name="LoginScene_0.csd" Type="Scene" />
+            <Project Name="LoginScene_1.csd" Type="Scene" />
+            <Project Name="LoginScene_2.csd" Type="Scene" />
+            <Project Name="LoginScene_3.csd" Type="Scene" />
+            <Project Name="RuleLayer.csd" Type="Layer" />
+            <Project Name="WinLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

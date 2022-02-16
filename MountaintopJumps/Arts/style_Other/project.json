@@ -1,0 +1,90 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"yang",
+		"exportentry":"random",
+		"confusepath":"src/yang/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+		        "relpath" : "src/yang/res/game/MountaintopJumps/image/bg.png",
+				"order": 1
+			},
+		    "role" : {
+				"role_hall" :{
+					"relpath" : "src/yang/res/game/MountaintopJumps/image/role.png"
+				},
+				"role_icon" :{
+					"relpath" : "img/role_icon/role_icon.png"
+				},
+				"order" : 1
+			}
+		},
+		"hall" : {
+		    "popbg" : {
+		        "relpath" : "src/yang/res/game/MountaintopJumps/image/popbg.png"
+			},
+		    "hallbtns" :{
+			    "relpath" : "src/yang/res/game/MountaintopJumps/image/button.png"
+		    },
+			"halllayoutlua":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/LoginScene.lua"
+			}
+		},
+		"game":{
+			"cube1":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/terrain/00.png"
+			},
+			"cube2":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/terrain/01.png"
+			},
+			"impact":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/terrain/04.png"
+			},
+			"tree":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/terrain/03.png"
+			},
+			"props1":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/props/00.png"
+			},
+			"props2":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/props/01.png"
+			},
+			"people1":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/people/00.png"
+			},
+			"people2":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/people/01.png"
+			},
+			"people3":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/people/02.png"
+			},
+			"people4":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/image/people/03.png"
+			}
+		},
+		"common_res": {
+			"font_en":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/nvpk.ttf"
+			},
+			"sound":{
+				"relpath" : "src/yang/res/game/MountaintopJumps/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/yang/res/game/MountaintopJumps/image/bg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"img/role_proto/role_proto.png",
+		"isL": false,
+		"dir_structure":{
+            "bg":"大厅背景",
+            "role":{
+				"hall_role":"大厅人物",
+				"icon_role":"icon人物"
+			}
+        }
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"random",
+		"exportentry":"random",
+		"confusepath":"src/random/"
+	},
+	"modules" : {
+		"change" : {
+			"bg" : {
+		        "relpath" : "src/random/res/game/WitchPoker/image/ui2/bg.png",
+				"order": 1
+		    },
+		    "role" : {
+			    "relpath" : "src/random/res/game/WitchPoker/image/ui2/role.png",
+				"order": 1
+			}
+
+		},
+		"hall" : {
+		    "popbg" : {
+		        "relpath" : "src/random/res/game/WitchPoker/image/ui2/winbg.png"
+			},
+		    "hallbtns" :{
+		    	"startbtn":{
+			        "relpath" : "src/random/res/game/WitchPoker/image/ui2/beginBtn.png"
+		    	},
+		    	"rulebtn":{
+			        "relpath" : "src/random/res/game/WitchPoker/image/ui2/ruleBtn.png"
+		    	},
+		    	"setbtn":{
+			        "relpath" : "src/random/res/game/WitchPoker/image/ui2/settingBtn.png"
+		    	}
+		    },
+		    "popbtns":{
+		    	"close" :{
+		        	"relpath" : "src/random/res/game/WitchPoker/image/ui2/closeBtn.png"
+		    	}
+		    }, 
+			"halllayoutlua":{
+				"relpath" : "src/random/res/game/WitchPoker/LoginScene.lua"
+			}
+		},
+		"game":{
+			"gamebtns":{
+				"btnend":{
+					"relpath" : "src/random/res/game/WitchPoker/image/ui2/exitBtn.png"
+				},
+				"gamebtnback":{
+					"relpath" : "src/random/res/game/WitchPoker/image/ui2/fanhuiBtn.png"
+				},
+				"btnagain":{
+					"relpath" : "src/random/res/game/WitchPoker/image/ui2/refreshBtn.png"
+				},
+				"btnpause":{
+					"relpath" : "src/random/res/game/WitchPoker/image/ui2/pauseBtn.png"
+				},
+				"setbtnback":{
+					"relpath" : "src/random/res/game/WitchPoker/image/ui2/fanhuiBtn.png"
+				},
+                "btn_continue":{
+                    "relpath": "src/random/res/game/WitchPoker/image/ui2/continueBtn.png"
+                }
+			},
+			"cardbg":{
+				"relpath" : "src/random/res/game/WitchPoker/image/poker/Images_Cards_Card_2_56.png"
+			}
+		},
+		"common_res": {
+			"font":{
+				"relpath" : "src/random/res/game/WitchPoker/nvpk.ttf"
+			},
+			"sound":{
+				"relpath" : "src/random/res/game/WitchPoker/sound/bgm.mp3"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/random/res/game/WitchPoker/image/ui2/bg.png",
+		"isL":true,
+		"proto_role":"src/random/res/game/WitchPoker/image/ui2/role.png",
+		"dir_structure":{
+			"bg":"游戏背景",
+			"role":"人物"
+		}
+	}
+}

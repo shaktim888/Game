@@ -1,0 +1,100 @@
+{
+	"confuse":{
+		"has":true,
+		"type":"vdir",
+		"entry":"CU6m2b",
+		"exportentry":"random",
+		"confusepath":"src/CU6m2b/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+				"relpath" : "src/CU6m2b/res/game/knight/images/bg.png",
+				"order": 1
+			},
+			"role" : {
+				"relpath" : "src/CU6m2b/res/game/knight/images/role.png",
+				"order": 1
+			}
+		},
+		"hall" : {
+			"bg2" : {
+				"relpath" : "src/CU6m2b/res/game/knight/images/bg2.png"
+			},
+		    "hallbtns" : {
+		        "btn" : {
+					"relpath" : "src/CU6m2b/res/game/knight/images/btn.png"
+				},
+				"btn_set" : {
+					"relpath" : "src/CU6m2b/res/game/knight/images/btn_set.png"
+				},
+				"btn_start" : {
+					"relpath" : "src/CU6m2b/res/game/knight/images/btn_start.png"
+				}
+			},
+		    "music" :{
+		    	"music_icon1":{
+			        "relpath" : "src/CU6m2b/res/game/knight/images/music_icon1.png"
+		    	},
+		    	"music_icon2":{
+			        "relpath" : "src/CU6m2b/res/game/knight/images/music_icon2.png"
+		    	},
+		    	"music_line":{
+			        "relpath" : "src/CU6m2b/res/game/knight/images/music_line.png"
+		    	},
+		    	"music_point1":{
+			        "relpath" : "src/CU6m2b/res/game/knight/images/music_point1.png"
+		    	}
+			},
+			"halllayoutlua":{
+				"relpath" : "src/CU6m2b/res/game/knight/login.lua"
+			}
+			
+		},
+		"game":{
+			"enemy":{
+				"1":{
+					"relpath" : "src/CU6m2b/res/game/knight/images/enemy/1.png"
+				},
+				"2":{
+					"relpath" : "src/CU6m2b/res/game/knight/images/enemy/2.png"
+				},
+				"3":{
+					"relpath" : "src/CU6m2b/res/game/knight/images/enemy/3.png"
+				},
+				"4":{
+					"relpath" : "src/CU6m2b/res/game/knight/images/enemy/4.png"
+				},
+				"5":{
+					"relpath" : "src/CU6m2b/res/game/knight/images/enemy/5.png"
+				},
+				"6":{
+					"relpath" : "src/CU6m2b/res/game/knight/images/enemy/6.png"
+				},
+				"7":{
+					"relpath" : "src/CU6m2b/res/game/knight/images/enemy/7.png"
+				},
+				"8":{
+					"relpath" : "src/CU6m2b/res/game/knight/images/enemy/8.png"
+				}
+			},
+			"Shield":{
+				"relpath" : "src/CU6m2b/res/game/knight/images/Shield.png"
+			},
+			"top_blood":{
+				"relpath" : "src/CU6m2b/res/game/knight/images/top_blood.png"
+			},
+			"top_lan":{
+				"relpath" : "src/CU6m2b/res/game/knight/images/top_lan.png"
+			},
+			"top_lan2":{
+				"relpath" : "src/CU6m2b/res/game/knight/images/top_lan2.png"
+			}
+		}
+	},
+	"other" : {
+		"fnt_color_range" : [[0,0,0],[255,255,255]],
+		"produceicon_hallbg":"src/CU6m2b/res/game/knight/images/bg.png",
+		"isL":false
+	}
+}

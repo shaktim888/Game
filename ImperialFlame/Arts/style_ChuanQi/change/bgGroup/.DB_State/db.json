@@ -1,0 +1,37 @@
+{
+  "resState": [
+    {
+      "md5": "e56a9f3f2272a4ca195cc208ce38bdb6",
+      "fileName": "style4",
+      "lastTime": 1589448048721,
+      "useTimes": 2
+    },
+    {
+      "md5": "ba2df45c87b795a6890f68da1abfc1be",
+      "fileName": "style1",
+      "lastTime": 1588993794498,
+      "useTimes": 1
+    },
+    {
+      "md5": "3b49e3935d1a264b0d7029a6e1a4d6f9",
+      "fileName": "style5",
+      "lastTime": 1588993660810,
+      "useTimes": 1
+    },
+    {
+      "md5": "675891c91c8271218b01c5c9468e0278",
+      "fileName": "style3",
+      "lastTime": 1589008954934,
+      "useTimes": 1
+    },
+    {
+      "md5": "8deb69e7e79a73449e521e60974dee7c",
+      "fileName": "style2",
+      "lastTime": 1588993972033,
+      "useTimes": 1
+    }
+  ],
+  "canUseCount": 4,
+  "archiveTimes": 1,
+  "componentResNamePath": "Arts/style_ChuanQi/change/bgGroup"
+}

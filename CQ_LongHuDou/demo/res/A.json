@@ -1,0 +1,44 @@
+{
+	"game_layer" : {
+		"bg" : {
+			"relpath" : "res/game_layer/game/LongHuDou/images/game/bg.png"
+		},
+		"monster":{
+			"relpath" : "res/game_layer/game/LongHuDou/images/game/VSDragon_lh.png"
+		},
+		"btnAD":{
+			"btnAttack":{
+				"relpath" : "res/game_layer/game/LongHuDou/images/game/btnAttack.png"
+			},
+			"btnAttackEabled":{
+				"relpath" : "res/game_layer/game/LongHuDou/images/game/btnAttackEnabled.png"
+			},
+			"btnDefense":{
+				"relpath" : "res/game_layer/game/LongHuDou/images/game/btnDefense.png"
+			},
+			"btnDefenseEable":{
+				"relpath" : "res/game_layer/game/LongHuDou/images/game/btnDefenseEnabled.png"
+			}
+		},
+		"hp":{
+			"hp":{
+				"relpath" : "res/game_layer/game/LongHuDou/images/game/lifebartiledelves.png"
+			},
+			"hpBg":{
+				"relpath" : "res/game_layer/game/LongHuDou/images/game/bloodBar.png"
+			}
+		},
+		"kill":{
+			"relpath" : "res/game_layer/game/LongHuDou/images/game/knifeLight.png"
+		},
+		"weaponHu":{
+			"relpath" : "res/game_layer/game/LongHuDou/images/game/weaponHu.png"
+		},
+		"weaponLong":{
+			"relpath" : "res/game_layer/game/LongHuDou/images/game/weaponLong.png"
+		},
+		"yun":{
+			"relpath" : "res/game_layer/game/LongHuDou/images/game/yun1.png"
+		}
+	}
+}

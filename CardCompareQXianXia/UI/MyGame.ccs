@@ -1,0 +1,103 @@
+<Solution>
+  <PropertyGroup Name="MyGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="common">
+          <Folder Name="btn_icon">
+            <Image Name="btn_active.png" />
+            <Image Name="btn_bag.png" />
+            <Image Name="btn_message.png" />
+            <Image Name="btn_music_off.png" />
+            <Image Name="btn_music_on.png" />
+            <Image Name="btn_return.png" />
+            <Image Name="btn_rule.png" />
+            <Image Name="btn_setting.png" />
+          </Folder>
+          <Folder Name="font">
+            <TTF Name="font.ttf" />
+          </Folder>
+          <Folder Name="pop_bg">
+            <Image Name="bg.png" />
+            <Image Name="daily.png" />
+            <Image Name="rule.png" />
+          </Folder>
+          <Folder Name="sound">
+            <Audio Name="button.mp3" />
+            <Audio Name="game.mp3" />
+          </Folder>
+          <File Name="A.json" />
+          <Image Name="btn_common.png" />
+          <Image Name="img_popui.png" />
+        </Folder>
+        <Folder Name="game">
+          <Folder Name="card">
+            <Image Name="card_bei.png" />
+            <Image Name="card_di_s.png" />
+            <Image Name="card_di_sr.png" />
+            <Image Name="card_di_ssr.png" />
+            <Image Name="hero.png" />
+          </Folder>
+          <Folder Name="dynamic">
+            <Folder Name="hero">
+              <Image Name="1.png" />
+              <Image Name="10.png" />
+              <Image Name="11.png" />
+              <Image Name="12.png" />
+              <Image Name="13.png" />
+              <Image Name="14.png" />
+              <Image Name="15.png" />
+              <Image Name="16.png" />
+              <Image Name="17.png" />
+              <Image Name="18.png" />
+              <Image Name="19.png" />
+              <Image Name="2.png" />
+              <Image Name="20.png" />
+              <Image Name="3.png" />
+              <Image Name="4.png" />
+              <Image Name="5.png" />
+              <Image Name="6.png" />
+              <Image Name="7.png" />
+              <Image Name="8.png" />
+              <Image Name="9.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="gold">
+            <Image Name="1.png" />
+            <Image Name="10.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+          </Folder>
+          <Image Name="bg.png" />
+          <Image Name="card_bg.png" />
+          <Project Name="Game_Layer.csd" Type="Layer" />
+          <Lua Name="Game_Layer.lua" />
+          <Project Name="Game_Result.csd" Type="Layer" />
+          <Lua Name="Game_Result.lua" />
+          <Image Name="img_di.png" />
+          <Image Name="img_enemy.png" />
+          <Image Name="img_gold_bg.png" />
+          <Image Name="img_icon.png" />
+          <Image Name="img_icon_bg.png" />
+          <Image Name="img_kuang.png" />
+          <Image Name="img_my.png" />
+          <Image Name="img_result_lose.png" />
+          <Image Name="img_result_win.png" />
+          <Image Name="img_xian.png" />
+          <Image Name="img_xing.png" />
+          <Image Name="text_pingjia.png" />
+          <Image Name="text_sure.png" />
+          <Image Name="text1.png" />
+          <Image Name="text3.png" />
+          <Image Name="text4.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

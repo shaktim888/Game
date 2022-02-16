@@ -1,0 +1,46 @@
+<Solution>
+  <PropertyGroup Name="Pitcher" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="Pitcher">
+            <Folder Name="image">
+              <Image Name="B1.png" />
+              <Image Name="B2.png" />
+              <Image Name="B3.png" />
+              <Image Name="B4.png" />
+              <Image Name="B5.png" />
+              <Image Name="basketball.png" />
+              <Image Name="began.png" />
+              <Image Name="bg.png" />
+              <Image Name="comon_bg.png" />
+              <Image Name="ding.png" />
+              <Image Name="exit.png" />
+              <TTF Name="fzc.ttf" />
+              <Image Name="GAMEOVER.png" />
+              <Image Name="houlankuang.png" />
+              <Image Name="jt.png" />
+              <Image Name="jt2.png" />
+              <Image Name="Q1 .png" />
+              <Image Name="Q2.png" />
+              <Image Name="Q3.png" />
+              <Image Name="Q4.png" />
+              <Image Name="Q5.png" />
+              <Image Name="qianlankuang.png" />
+              <Image Name="replay.png" />
+              <Image Name="role.png" />
+              <Image Name="rule.png" />
+            </Folder>
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="JiesuanLayer.csd" Type="Layer" />
+            <Project Name="MainScene.csd" Type="Scene" />
+            <Project Name="Node1.csd" Type="Node" />
+            <Project Name="Node2.csd" Type="Node" />
+            <Project Name="RuleLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,47 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.LocalHyGameMJSimple" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="LocalHyGameMJSimple iOS" />
+        <iOS_BundleID Value="iPhone Developer: xuemei zhou (W39788RJR4)" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="无" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="game/ligatureFootball/AccountLayout.csd" />
+          <FilePathData Path="game/ligatureFootball/ChooseLayerScene.csd" />
+          <FilePathData Path="game/ligatureFootball/EnemyPlayerLayer.csd" />
+          <FilePathData Path="game/ligatureFootball/RuleLayer.csd" />
+          <FilePathData Path="game/ligatureFootball/GameLayer.csd" />
+          <FilePathData Path="game/ligatureFootball/GameStartScene.csd" />
+          <FilePathData Path="game/ligatureFootball/GameStartScene1.csd" />
+          <FilePathData Path="game/ligatureFootball/GameStartScene2.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="game/ligatureFootball/AccountLayout.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

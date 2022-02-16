@@ -1,0 +1,50 @@
+{
+    "eventlist":[
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_1.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"StartPanel"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"1",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"StartPanel"
+        }
+        {
+            "action":"callfunc",
+            "call":"show",
+            "targetname" :"GamePanel"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"1",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GamePanel"
+        }
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_2.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GamePanel"
+        }
+        {
+            "action":"callfunc",
+            "call":"show",
+            "targetname" :"GamePanel"
+        },
+        {
+            "action" :"delay",
+            "delaytime":"1",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GamePanel"
+        }
+        {
+            "action" :"capturescreen",
+            "savename":"grabscreen_3.png",
+            "timename" :"enterTransitionFinish",
+            "targetname" :"GamePanel"
+        }
+    ]
+}

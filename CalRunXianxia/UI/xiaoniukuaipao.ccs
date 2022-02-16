@@ -1,0 +1,35 @@
+<Solution>
+  <PropertyGroup Name="xiaoniukuaipao" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="cattleRun">
+            <Folder Name="image">
+              <Folder Name="choice">
+                <Image Name="baconic.png" />
+                <Image Name="cheese.png" />
+                <Image Name="chips1.png" />
+                <Image Name="haborup.png" />
+              </Folder>
+              <Image Name="gamebg.png" />
+              <Image Name="jineng.png" />
+              <Image Name="lose.png" />
+              <Image Name="plate.png" />
+              <Image Name="role_2.png" />
+              <Image Name="score.png" />
+              <Image Name="sure.png" />
+              <Image Name="tx.png" />
+              <Image Name="wenzi-shu.png" />
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="bgm.mp3" />
+            </Folder>
+            <Project Name="balance.csd" Type="Layer" />
+            <Project Name="cattleRun.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

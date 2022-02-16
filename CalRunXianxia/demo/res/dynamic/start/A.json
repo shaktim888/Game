@@ -1,0 +1,46 @@
+{
+	"start":{
+		"layout2" : {
+			"di":{
+				"relpath" : "res/dynamic/start/res/dz1.png"
+			},
+			"sexBtn":{
+				"woman":{
+					"relpath":"res/dynamic/start/res/btnWoman.png"
+				},
+				"man":{
+					"relpath":"res/dynamic/start/head/btnMan.png"
+				}
+			},
+			"headFrame":{
+				"relpath" : "res/dynamic/start/head/head_kuang.png"
+			}
+		}
+	},
+	"Special":{
+		"type":{
+			"bg":{
+				"relpath" : "res/dynamic/start/res/bg.png"
+			},
+			"role":{
+				"woman":{
+					"role":{
+						"relpath":"res/dynamic/start/res/role_woman.png"
+					},
+					"head":{
+						"relpath":"res/dynamic/start/head/head_2.png"
+					}
+				},
+				"man":{
+					"role":{
+						"relpath":"res/dynamic/start/res/role_man.png"
+					},
+					"head":{
+						"relpath":"res/dynamic/start/head/head_1.png"
+					}
+				}
+			}
+		}
+	}	
+	
+}

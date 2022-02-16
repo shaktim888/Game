@@ -1,0 +1,105 @@
+<Solution>
+  <PropertyGroup Name="MyGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="common">
+          <Folder Name="btn_icon">
+            <Image Name="btn_bag.png" />
+            <Image Name="btn_daily.png" />
+            <Image Name="btn_return.png" />
+            <Image Name="btn_rule.png" />
+            <Image Name="btn_setting.png" />
+          </Folder>
+          <Folder Name="font">
+            <TTF Name="font.ttf" />
+          </Folder>
+          <Image Name="btn_common.png" />
+          <Image Name="btn_return.png" />
+          <Image Name="gold.png" />
+          <Image Name="img_item.png" />
+          <Image Name="img_pop_bg.png" />
+          <Image Name="img_select.png" />
+          <Image Name="img_tag.png" />
+          <Image Name="img_unlock_mask.png" />
+        </Folder>
+        <Folder Name="daily">
+          <Project Name="Daily_Layer.csd" Type="Layer" />
+          <Image Name="item1.png" />
+          <Image Name="item2.png" />
+          <Image Name="item3.png" />
+          <Image Name="item4.png" />
+          <Image Name="item5.png" />
+          <Image Name="item6.png" />
+          <Image Name="item7.png" />
+        </Folder>
+        <Folder Name="game">
+          <Folder Name="gold">
+            <Image Name="1.png" />
+            <Image Name="10.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+          </Folder>
+          <Image Name="bg.png" />
+          <Project Name="Game_Layer.csd" Type="Layer" />
+          <Project Name="Game_Result.csd" Type="Layer" />
+          <Image Name="img_kuang.png" />
+          <Image Name="img_result_lose.png" />
+          <Image Name="img_result_win.png" />
+          <Image Name="img_role.png" />
+          <Image Name="img_vs.png" />
+          <Image Name="img_xing.png" />
+          <Image Name="text_pingjia.png" />
+          <Image Name="text_sure.png" />
+          <Image Name="text1.png" />
+          <Image Name="text3.png" />
+          <Image Name="text4.png" />
+        </Folder>
+        <Folder Name="help">
+          <Project Name="Help_Layer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="level">
+          <Image Name="bg.png" />
+          <Image Name="img_text.png" />
+          <Image Name="img_tip_bg.png" />
+          <Project Name="Level_Layer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="setting">
+          <Image Name="3.png" />
+          <Image Name="5.png" />
+          <Image Name="btn_music.png" />
+          <Image Name="btn_sound.png" />
+          <Image Name="img_off.png" />
+          <Image Name="img_on.png" />
+          <Project Name="Setting_Layer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="skin">
+          <Folder Name="tower_skin">
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+          </Folder>
+          <Project Name="Skin_Layer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="start">
+          <Image Name="bg.png" />
+          <Image Name="btn_start_1.png" />
+          <Image Name="btn_start_2.png" />
+          <Image Name="icon.png" />
+          <Image Name="icon_bg.png" />
+          <Image Name="role.png" />
+          <Project Name="Start_Layer.csd" Type="Layer" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

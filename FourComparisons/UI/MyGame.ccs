@@ -1,0 +1,95 @@
+<Solution>
+  <PropertyGroup Name="MyGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="majia">
+          <Folder Name="img">
+            <Folder Name="dailyBonus">
+              <Image Name="addgoldbg.png" />
+              <Image Name="day_bg.png" />
+              <Image Name="item1.png" />
+              <Image Name="item2.png" />
+              <Image Name="item3.png" />
+              <Image Name="item4.png" />
+              <Image Name="item5.png" />
+              <Image Name="item6.png" />
+              <Image Name="item7.png" />
+              <Image Name="select_.png" />
+            </Folder>
+            <Folder Name="gamePanel">
+              <Image Name="gamebg.png" />
+            </Folder>
+            <Folder Name="helpPanel">
+              <Image Name="bluebgbig.png" />
+              <Image Name="helparrow.png" />
+              <Image Name="helptipbg.png" />
+              <Image Name="left.png" />
+              <Image Name="redbgbig.png" />
+              <Image Name="right.png" />
+            </Folder>
+            <Folder Name="hero">
+              <Image Name="1.png" />
+              <Image Name="10.png" />
+              <Image Name="2.png" />
+              <Image Name="3.png" />
+              <Image Name="4.png" />
+              <Image Name="5.png" />
+              <Image Name="6.png" />
+              <Image Name="7.png" />
+              <Image Name="8.png" />
+              <Image Name="9.png" />
+            </Folder>
+            <Folder Name="LevelPanel">
+              <Image Name="bglevel1.png" />
+              <Image Name="bglevel2.png" />
+              <Image Name="bglevel3.png" />
+              <Image Name="btn_level.png" />
+              <Image Name="btn_level1.png" />
+            </Folder>
+            <Folder Name="scorePanel">
+              <Image Name="games_gb.png" />
+              <Image Name="gmaes_tc.png" />
+            </Folder>
+            <Folder Name="selectPanel">
+              <Image Name="bluebg.png" />
+              <Image Name="casrdbg.png" />
+              <Image Name="edgebg.png" />
+              <Image Name="selectcardbg.png" />
+              <Image Name="selectmask.png" />
+            </Folder>
+            <Folder Name="startPanel">
+              <Image Name="addgoldbg.png" />
+              <Image Name="bg.png" />
+              <Image Name="btn_bg.png" />
+              <Image Name="btn_card.png" />
+              <Image Name="btn_help.png" />
+              <Image Name="btn_task.png" />
+              <Image Name="btn_technical.png" />
+              <Image Name="btn_web.png" />
+              <Image Name="music.png" />
+              <Image Name="musicoff.png" />
+              <Image Name="role.png" />
+            </Folder>
+            <Folder Name="upGradePanel">
+              <Image Name="gold_icon.png" />
+              <Image Name="selectbg.png" />
+              <Image Name="unlockmask.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="sound">
+            <Audio Name="bg.mp3" />
+            <Audio Name="down.mp3" />
+            <Audio Name="fail.mp3" />
+            <Audio Name="send.mp3" />
+            <Audio Name="success.mp3" />
+          </Folder>
+          <TTF Name="font555.ttf" />
+          <Project Name="ShejianGameLayer.csd" Type="Node" />
+          <Project Name="ShejianGameLayer_0.csd" Type="Node" />
+          <Project Name="ShejianGameLayer_1.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

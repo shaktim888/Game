@@ -1,0 +1,64 @@
+<Solution>
+  <PropertyGroup Name="GuardCastle" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="GuardCastle">
+            <Folder Name="images">
+              <Folder Name="font">
+                <TTF Name="font.ttf" />
+              </Folder>
+              <Folder Name="game">
+                <Image Name="castle.png" />
+                <Image Name="arrow_1.png" />
+                <Image Name="arrow_2.png" />
+                <Image Name="bg_game.png" />
+                <Image Name="btnPause.png" />
+                <Image Name="castle1.png" />
+                <Image Name="ghost.png" />
+                <Image Name="hpborder-sheet0.png" />
+                <Image Name="hp-sheet0.png" />
+                <Image Name="monster_1.png" />
+                <Image Name="monster_2.png" />
+                <Image Name="monster_3.png" />
+                <Image Name="res_1.png" />
+                <Image Name="res_2.png" />
+                <Image Name="skillEabled.png" />
+                <Image Name="skill-sheet0.png" />
+                <Image Name="smoke.png" />
+                <PlistParticleFile Name="SmokeB001_2.plist" />
+              </Folder>
+              <Folder Name="hall">
+                <Image Name="but_off.png" />
+                <Image Name="but_on.png" />
+                <Image Name="playbutton-sheet0.png" />
+                <Image Name="role.png" />
+              </Folder>
+              <Folder Name="popBg">
+                <Image Name="btn_commo.png" />
+                <Image Name="dialogs-sheet1.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="arrow.mp3" />
+              <Audio Name="attackArrow.mp3" />
+              <Audio Name="attackSword.mp3" />
+              <Audio Name="bgm.mp3" />
+              <Audio Name="bigSkill.mp3" />
+              <Audio Name="castledamage.mp3" />
+              <Audio Name="click.mp3" />
+              <Audio Name="enemydamage.mp3" />
+              <Audio Name="game_over.mp3" />
+              <Audio Name="win.mp3" />
+            </Folder>
+            <Project Name="Game.csd" Type="Scene" />
+            <Project Name="Main.csd" Type="Scene" />
+            <Project Name="Pause.csd" Type="Layer" />
+            <Project Name="WinMsg.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

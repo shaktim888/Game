@@ -1,0 +1,43 @@
+<Solution>
+  <PropertyGroup Name="liuxin" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="game">
+          <Folder Name="PKGS">
+            <Folder Name="images">
+              <Image Name="bj.png" />
+              <Image Name="btn.png" />
+              <Image Name="btn_close.png" />
+              <Image Name="card.png" />
+              <Image Name="classic.png" />
+              <Image Name="color_0.png" />
+              <Image Name="color_1.png" />
+              <Image Name="color_2.png" />
+              <Image Name="color_3.png" />
+              <Image Name="help.png" />
+              <Image Name="Home.png" />
+              <Image Name="live.png" />
+              <Image Name="Replay.png" />
+              <Image Name="role.png" />
+            </Folder>
+            <Folder Name="sound">
+              <File Name="bgm1.m4a" />
+              <File Name="bgm2.m4a" />
+              <Audio Name="but_se.mp3" />
+              <File Name="click.m4a" />
+              <Audio Name="next.mp3" />
+              <File Name="over.m4a" />
+            </Folder>
+            <TTF Name="font_pkgs.ttf" />
+            <Project Name="Game.csd" Type="Scene" />
+            <Project Name="Help.csd" Type="Layer" />
+            <Project Name="Main.csd" Type="Scene" />
+            <Project Name="Over.csd" Type="Layer" />
+            <Project Name="Pause.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

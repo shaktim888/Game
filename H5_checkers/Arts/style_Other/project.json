@@ -1,0 +1,81 @@
+{
+	"confuse": {
+		"has": true
+	},
+	"modules": {
+		"change":{
+			"bg": {
+				"relpath": "h5_checkers/media/graphics/game/bg_plain_landscape.png",
+				"order": 1
+			},
+			"role": {
+				"relpath": "img/role_icon/role_icon.png",
+				"order": 1
+			}
+		},
+		"hall": {
+			"btn": {
+				"button_new_game": {
+					"relpath": "h5_checkers/media/graphics/game/button_new_game.png"
+				},
+				"button_play": {
+					"relpath": "h5_checkers/media/graphics/game/button_play.png"
+				},
+				"exit": {
+					"relpath": "h5_checkers/media/graphics/game/exit.png"
+				},
+				"hint": {
+					"relpath": "h5_checkers/media/graphics/game/hint.png"
+				},
+				"sound": {
+					"relpath": "h5_checkers/media/graphics/game/sound.png"
+				},
+				"undo": {
+					"relpath": "h5_checkers/media/graphics/game/undo.png"
+				}
+			},
+			"piece": {
+				"checker_king_black": {
+					"relpath": "h5_checkers/media/graphics/game/checker_king_black.png"
+				},
+				"checker_king_red": {
+					"relpath": "h5_checkers/media/graphics/game/checker_king_red.png"
+				},
+				"checker_man_black": {
+					"relpath": "h5_checkers/media/graphics/game/checker_man_black.png"
+				},
+				"checker_man_red": {
+					"relpath": "h5_checkers/media/graphics/game/checker_man_red.png"
+				}
+			},
+			"bd_wood": {
+				"relpath": "h5_checkers/media/graphics/game/bd_wood.png"
+			},
+			"bg_diamond_landscape": {
+				"relpath": "h5_checkers/media/graphics/game/bg_diamond_landscape.png"
+			},
+			"girl": {
+				"relpath": "h5_checkers/media/graphics/game/game_title.png"
+			},
+			"sound":{
+				"relpath" : "h5_checkers/media/audio/game/bgm.m4a"
+			}
+		}
+	},
+	"other": {
+		"produceicon_hallbg": "h5_checkers/media/graphics/game/bg_plain_landscape.png",
+		"produceicon_hallbgRole": "img/role_icon/role_icon.png",
+		"proto_role":"img/role_proto/role_proto.png",
+		"clickPos": [
+			{ "x":550, "y":450 },
+			{ "x":550, "y":450 },
+			{"width":3280},
+			[5000, 7000, 7000]
+		],
+		"isL":true,
+		"dir_structure":{
+			"bg":"背景",
+			"role":"icon人物"
+        }
+	}
+}

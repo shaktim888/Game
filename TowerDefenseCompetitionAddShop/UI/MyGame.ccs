@@ -1,0 +1,253 @@
+<Solution>
+  <PropertyGroup Name="MyGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="base">
+          <File Name="HallScene.csb" />
+          <Project Name="HallScene.csd" Type="Node" />
+        </Folder>
+        <Folder Name="common">
+          <Folder Name="sound">
+            <Audio Name="click.mp3" />
+            <Audio Name="gold.mp3" />
+          </Folder>
+          <File Name="DialogLayer.csb" />
+          <Project Name="DialogLayer.csd" Type="Node" />
+          <File Name="LoadingLayer.csb" />
+          <Project Name="LoadingLayer.csd" Type="Node" />
+          <File Name="ToastLayer.csb" />
+          <Project Name="ToastLayer.csd" Type="Node" />
+        </Folder>
+        <Folder Name="Default">
+          <Image Name="Button_Disable.png" />
+          <Image Name="Button_Normal.png" />
+          <Image Name="Button_Press.png" />
+          <Image Name="ImageFile.png" />
+          <Image Name="Sprite.png" />
+        </Folder>
+        <Folder Name="majia">
+          <Folder Name="animation">
+            <PlistImageFolder Image="e_frog.png" PListFile="e_frog.plist" Name=".e_frog_PList.Dir">
+              <PlistImageFile Name="e_frog01.png" Key="e_frog01.png" />
+              <PlistImageFile Name="e_frog02.png" Key="e_frog02.png" />
+              <PlistImageFile Name="e_frog03.png" Key="e_frog03.png" />
+              <PlistImageFile Name="e_frog04.png" Key="e_frog04.png" />
+              <PlistImageFile Name="e_frog05.png" Key="e_frog05.png" />
+              <PlistImageFile Name="e_frog06.png" Key="e_frog06.png" />
+              <PlistImageFile Name="e_frog07.png" Key="e_frog07.png" />
+            </PlistImageFolder>
+            <PlistImageFolder Image="e_tortoise.png" PListFile="e_tortoise.plist" Name=".e_tortoise_PList.Dir">
+              <PlistImageFile Name="e_tortoise01.png" Key="e_tortoise01.png" />
+              <PlistImageFile Name="e_tortoise02.png" Key="e_tortoise02.png" />
+              <PlistImageFile Name="e_tortoise03.png" Key="e_tortoise03.png" />
+              <PlistImageFile Name="e_tortoise04.png" Key="e_tortoise04.png" />
+              <PlistImageFile Name="e_tortoise05.png" Key="e_tortoise05.png" />
+              <PlistImageFile Name="e_tortoise06.png" Key="e_tortoise06.png" />
+              <PlistImageFile Name="e_tortoise07.png" Key="e_tortoise07.png" />
+              <PlistImageFile Name="e_tortoise08.png" Key="e_tortoise08.png" />
+              <PlistImageFile Name="e_tortoise09.png" Key="e_tortoise09.png" />
+              <PlistImageFile Name="e_tortoise10.png" Key="e_tortoise10.png" />
+              <PlistImageFile Name="e_tortoise11.png" Key="e_tortoise11.png" />
+              <PlistImageFile Name="e_tortoise12.png" Key="e_tortoise12.png" />
+              <PlistImageFile Name="e_tortoise13.png" Key="e_tortoise13.png" />
+              <PlistImageFile Name="e_tortoise14.png" Key="e_tortoise14.png" />
+              <PlistImageFile Name="e_tortoise15.png" Key="e_tortoise15.png" />
+              <PlistImageFile Name="e_tortoise16.png" Key="e_tortoise16.png" />
+              <PlistImageFile Name="e_tortoise17.png" Key="e_tortoise17.png" />
+              <PlistImageFile Name="e_tortoise18.png" Key="e_tortoise18.png" />
+            </PlistImageFolder>
+            <PlistImageFolder Image="frog.png" PListFile="frog.plist" Name=".frog_PList.Dir">
+              <PlistImageFile Name="frog01.png" Key="frog01.png" />
+              <PlistImageFile Name="frog02.png" Key="frog02.png" />
+              <PlistImageFile Name="frog03.png" Key="frog03.png" />
+              <PlistImageFile Name="frog04.png" Key="frog04.png" />
+              <PlistImageFile Name="frog05.png" Key="frog05.png" />
+              <PlistImageFile Name="frog06.png" Key="frog06.png" />
+              <PlistImageFile Name="frog07.png" Key="frog07.png" />
+            </PlistImageFolder>
+            <PlistImageFolder Image="river.png" PListFile="river.plist" Name=".river_PList.Dir">
+              <PlistImageFile Name="river01.png" Key="river01.png" />
+              <PlistImageFile Name="river02.png" Key="river02.png" />
+              <PlistImageFile Name="river03.png" Key="river03.png" />
+              <PlistImageFile Name="river04.png" Key="river04.png" />
+              <PlistImageFile Name="river05.png" Key="river05.png" />
+              <PlistImageFile Name="river06.png" Key="river06.png" />
+              <PlistImageFile Name="river07.png" Key="river07.png" />
+              <PlistImageFile Name="river08.png" Key="river08.png" />
+              <PlistImageFile Name="river09.png" Key="river09.png" />
+              <PlistImageFile Name="river10.png" Key="river10.png" />
+            </PlistImageFolder>
+            <PlistImageFolder Image="s_frog.png" PListFile="s_frog.plist" Name=".s_frog_PList.Dir">
+              <PlistImageFile Name="s_frog01.png" Key="s_frog01.png" />
+              <PlistImageFile Name="s_frog02.png" Key="s_frog02.png" />
+              <PlistImageFile Name="s_frog03.png" Key="s_frog03.png" />
+              <PlistImageFile Name="s_frog04.png" Key="s_frog04.png" />
+              <PlistImageFile Name="s_frog05.png" Key="s_frog05.png" />
+              <PlistImageFile Name="s_frog06.png" Key="s_frog06.png" />
+              <PlistImageFile Name="s_frog07.png" Key="s_frog07.png" />
+            </PlistImageFolder>
+            <PlistImageFolder Image="tortoise.png" PListFile="tortoise.plist" Name=".tortoise_PList.Dir">
+              <PlistImageFile Name="tortoise01.png" Key="tortoise01.png" />
+              <PlistImageFile Name="tortoise02.png" Key="tortoise02.png" />
+              <PlistImageFile Name="tortoise03.png" Key="tortoise03.png" />
+              <PlistImageFile Name="tortoise04.png" Key="tortoise04.png" />
+              <PlistImageFile Name="tortoise05.png" Key="tortoise05.png" />
+              <PlistImageFile Name="tortoise06.png" Key="tortoise06.png" />
+              <PlistImageFile Name="tortoise07.png" Key="tortoise07.png" />
+              <PlistImageFile Name="tortoise08.png" Key="tortoise08.png" />
+              <PlistImageFile Name="tortoise09.png" Key="tortoise09.png" />
+              <PlistImageFile Name="tortoise10.png" Key="tortoise10.png" />
+              <PlistImageFile Name="tortoise11.png" Key="tortoise11.png" />
+              <PlistImageFile Name="tortoise12.png" Key="tortoise12.png" />
+              <PlistImageFile Name="tortoise13.png" Key="tortoise13.png" />
+              <PlistImageFile Name="tortoise14.png" Key="tortoise14.png" />
+              <PlistImageFile Name="tortoise15.png" Key="tortoise15.png" />
+              <PlistImageFile Name="tortoise16.png" Key="tortoise16.png" />
+              <PlistImageFile Name="tortoise17.png" Key="tortoise17.png" />
+              <PlistImageFile Name="tortoise18.png" Key="tortoise18.png" />
+            </PlistImageFolder>
+            <PlistImageFolder Image="w_frog.png" PListFile="w_frog.plist" Name=".w_frog_PList.Dir">
+              <PlistImageFile Name="w_frog01.png" Key="w_frog01.png" />
+              <PlistImageFile Name="w_frog02.png" Key="w_frog02.png" />
+              <PlistImageFile Name="w_frog03.png" Key="w_frog03.png" />
+              <PlistImageFile Name="w_frog04.png" Key="w_frog04.png" />
+              <PlistImageFile Name="w_frog05.png" Key="w_frog05.png" />
+              <PlistImageFile Name="w_frog06.png" Key="w_frog06.png" />
+              <PlistImageFile Name="w_frog07.png" Key="w_frog07.png" />
+            </PlistImageFolder>
+          </Folder>
+          <Folder Name="img">
+            <Folder Name="BattleInfoPanel">
+              <Image Name="small_green.png" />
+              <Image Name="small_purple.png" />
+              <Image Name="small_red.png" />
+              <Image Name="small_yellow.png" />
+            </Folder>
+            <Folder Name="DailyBounsPanel">
+              <Image Name="day_bg.png" />
+              <Image Name="item1.png" />
+              <Image Name="item2.png" />
+              <Image Name="item3.png" />
+              <Image Name="item4.png" />
+              <Image Name="item5.png" />
+              <Image Name="item6.png" />
+              <Image Name="item7.png" />
+              <Image Name="select_.png" />
+            </Folder>
+            <Folder Name="DynamicLoad">
+              <Folder Name="icon">
+                <Image Name="green.png" />
+                <Image Name="purple.png" />
+                <Image Name="red.png" />
+                <Image Name="yellow.png" />
+              </Folder>
+              <Folder Name="xiaobing">
+                <Image Name="xiaobing1.png" />
+                <Image Name="xiaobing2.png" />
+                <Image Name="xiaobing3.png" />
+                <Image Name="xiaobing4.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="GamePanel">
+              <Image Name="btn_exit.png" />
+              <Image Name="btn_sound.png" />
+              <Image Name="btn_sound1.png" />
+            </Folder>
+            <Folder Name="HelpPanel">
+              <Image Name="1.png" />
+              <Image Name="2.png" />
+            </Folder>
+            <Folder Name="LevelPanel">
+              <Image Name="bg1.png" />
+            </Folder>
+            <Folder Name="RankPanel">
+              <Image Name="black.png" />
+              <Image Name="cell.png" />
+            </Folder>
+            <Folder Name="SettingPanel">
+              <Image Name="games_gb.png" />
+              <Image Name="gmaes_tc.png" />
+              <Image Name="normal.png" />
+              <Image Name="select.png" />
+            </Folder>
+            <Folder Name="SkinPanel">
+              <Folder Name="soldier">
+                <Image Name="1.png" />
+                <Image Name="10.png" />
+                <Image Name="2.png" />
+                <Image Name="3.png" />
+                <Image Name="4.png" />
+                <Image Name="5.png" />
+                <Image Name="6.png" />
+                <Image Name="7.png" />
+                <Image Name="8.png" />
+                <Image Name="9.png" />
+              </Folder>
+              <Image Name="soldier_green.png" />
+              <Image Name="soldier_purple.png" />
+              <Image Name="soldier_red.png" />
+              <Image Name="soldier_yellow.png" />
+            </Folder>
+            <Folder Name="StartPanel">
+              <Image Name="addgoldbg.png" />
+              <Image Name="bg.png" />
+              <Image Name="btn_bg.png" />
+              <Image Name="btn_bg1.png" />
+              <Image Name="btn_skin.png" />
+              <Image Name="headbg.png" />
+              <Image Name="help.png" />
+              <Image Name="list.png" />
+              <Image Name="role.png" />
+              <Image Name="setting.png" />
+              <Image Name="sign.png" />
+              <Image Name="tec.png" />
+              <Image Name="upgrade.png" />
+              <Image Name="web.png" />
+            </Folder>
+            <Folder Name="UpgradePanel">
+              <Folder Name="skin">
+                <Image Name="1.png" />
+                <Image Name="10.png" />
+                <Image Name="2.png" />
+                <Image Name="3.png" />
+                <Image Name="4.png" />
+                <Image Name="5.png" />
+                <Image Name="6.png" />
+                <Image Name="7.png" />
+                <Image Name="8.png" />
+                <Image Name="9.png" />
+              </Folder>
+              <Image Name="gold_icon.png" />
+              <Image Name="selectbg.png" />
+              <Image Name="unlockmask.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="sound">
+            <Audio Name="1.mp3" />
+            <Audio Name="2.mp3" />
+            <Audio Name="3.mp3" />
+            <Audio Name="change.mp3" />
+            <Audio Name="fail.mp3" />
+            <Audio Name="pass.mp3" />
+            <Audio Name="send.mp3" />
+          </Folder>
+          <TTF Name="font555.ttf" />
+          <File Name="ShejianGameLayer.csb" />
+          <Project Name="ShejianGameLayer.csd" Type="Node" />
+        </Folder>
+        <Folder Name="update">
+          <Folder Name="images">
+            <Image Name="bg_login.png" />
+            <Image Name="progress_bar.png" />
+            <Image Name="progress_bg.png" />
+          </Folder>
+          <File Name="UpdateScene.csb" />
+          <Project Name="UpdateScene.csd" Type="Scene" />
+        </Folder>
+        <Image Name="black.png" />
+        <Image Name="btn_play.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

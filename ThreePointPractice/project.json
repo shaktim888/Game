@@ -1,0 +1,58 @@
+{
+	"confuse":{
+		"has":true,
+		"type1":"md5",
+		"type":"vdir",
+		"entry":"zYaHWv",
+		"exportentry":"random",
+		"confusepath":"src/zYaHWv/"
+	},
+	"modules" : {
+		"change":{
+			"bg" : {
+		        "relpath" : "src/zYaHWv/res/game/basketball/image/bg.png",
+				"order": 1
+			},
+			"role":{
+		    	"relpath" : "src/zYaHWv/res/game/basketball/image/role.png",
+				"order": 1
+		    }
+		},
+		"hall" : {
+			"hall_btn" : {
+		        "relpath" : "src/zYaHWv/res/game/basketball/image/hall_btn.png"
+			},
+		    "popbg" : {
+		        "relpath" : "src/zYaHWv/res/game/basketball/image/tc.png"
+			},
+		    "hallbtns" :{
+		    	"btn_back":{
+			        "relpath" : "src/zYaHWv/res/game/basketball/image/home.png"
+		    	},
+		    	"set_replay":{
+			        "relpath" : "src/zYaHWv/res/game/basketball/image/continue.png"
+		    	}
+		    },
+			"halllayoutlua":{
+				"relpath" : "src/zYaHWv/res/game/basketball/MainScene.lua"
+			}
+		},
+		"game":{
+			"ball":{
+				"relpath" : "src/zYaHWv/res/game/basketball/image/ball.png"
+			}
+		}
+	},
+	"other" : {
+		"produceicon_hallbg": "src/zYaHWv/res/game/basketball/image/bg.png",
+		"isL": true,
+		"dir_structure":{
+            "bg":"大厅背景",
+			"role":{
+				"role_hall":"大厅人物",
+		    	"role_icon":"icon人物",
+		    	"role_proto":"宣传图人物"
+			}
+        }
+	}
+}

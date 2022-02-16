@@ -1,0 +1,97 @@
+{
+	"confuse":{
+		"has":false
+	},
+	"modules" : {
+		"change":{
+			 "bg" : {
+		        "relpath" : "h5_BalloonFight/images/bg.png",
+				"order" : 1
+		    },
+		    "role":{
+				"relpath" : "img/role_icon/role_icon.png",
+				"order" : 1
+			}
+		},
+		"game" :{
+		    "btns" :{
+			    "pausebtn-sheet0":{
+					"relpath" : "h5_BalloonFight/images/pausebtn-sheet0.png"
+				},
+				"pausebtn-sheet1":{
+					"relpath" : "h5_BalloonFight/images/pausebtn-sheet1.png"
+				},
+				"play-sheet0":{
+					"relpath" : "h5_BalloonFight/images/play-sheet0.png"
+				},
+				"sound-sheet0":{
+					"relpath" : "h5_BalloonFight/images/sound-sheet0.png"
+				},
+				"sound-sheet1":{
+					"relpath" : "h5_BalloonFight/images/sound-sheet1.png"
+				}
+			},
+			"monster":{
+				"cat-sheet0":{
+					"relpath" : "h5_BalloonFight/images/cat-sheet0.png"
+				},
+				"cat-sheet1":{
+					"relpath" : "h5_BalloonFight/images/cat-sheet1.png"
+				},
+				"cat-sheet2":{
+					"relpath" : "h5_BalloonFight/images/cat-sheet2.png"
+				},
+				"enemy-sheet0":{
+					"relpath" : "h5_BalloonFight/images/enemy-sheet0.png"
+				},
+				"enemy-sheet1":{
+					"relpath" : "h5_BalloonFight/images/enemy-sheet1.png"
+				}
+			},
+			"wall":{
+				"ground-sheet0":{
+					"relpath" : "h5_BalloonFight/images/ground-sheet0.png"
+				},
+				"platform-sheet0":{
+					"relpath" : "h5_BalloonFight/images/platform-sheet0.png"
+				},
+				"platform-sheet1":{
+					"relpath" : "h5_BalloonFight/images/platform-sheet1.png"
+				}
+			},
+			"water":{
+				"bubble-sheet0":{
+					"relpath" : "h5_BalloonFight/images/bubble-sheet0.png"
+				},
+				"splash":{
+					"relpath" : "h5_BalloonFight/images/splash.png"
+				},
+				"water":{
+					"relpath" : "h5_BalloonFight/images/water.png"
+				}
+			},
+			"word":{
+				"help-sheet0":{
+					"relpath" : "h5_BalloonFight/images/help-sheet0.png"
+				},
+				"highscoretitle-sheet0":{
+					"relpath" : "h5_BalloonFight/images/highscoretitle-sheet0.png"
+				},
+				"lastscoretitle-sheet0":{
+					"relpath" : "h5_BalloonFight/images/lastscoretitle-sheet0.png"
+				}
+			}
+		}
+	},
+		
+	"other" : {
+		"produceicon_hallbg": "h5_BalloonFight/images/bg.png",
+		"produceicon_hallbgRole":"img/role_icon/role_icon.png",
+		"proto_role":"img/role_proto/role_proto.png",
+		"isL": true,
+		"dir_structure":{
+			"bg":"大厅背景",
+			"role":"icon人物"
+        }
+	}
+}
